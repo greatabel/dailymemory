@@ -1,4 +1,4 @@
-
+//连带选择bootstrap的checkbox
     $(document).on('change', '.joinCateAll', function ()
     {
         var chked = $(this).attr("checked") == "checked" ? true : false;
