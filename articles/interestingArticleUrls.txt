@@ -2,3 +2,7 @@ http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-a
 
 Which Git? How to Keep Git Up To Date on Mac
 http://blog.grayghostvisuals.com/git/how-to-keep-git-updated/
+
+for private repos, or to have push access on your repository, you can clone this way:
+$ git clone https://username@github.com/username/project.git
+https://github.com/blog/642-smart-http-support
