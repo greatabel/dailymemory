@@ -1,1 +1,4 @@
 http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/
+
+Which Git? How to Keep Git Up To Date on Mac
+http://blog.grayghostvisuals.com/git/how-to-keep-git-updated/
