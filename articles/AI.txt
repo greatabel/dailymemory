@@ -1,2 +1,4 @@
+http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/
+
 DeepMind founder
 http://www.technologyreview.com/news/532876/googles-intelligence-designer/
