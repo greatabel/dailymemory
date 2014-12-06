@@ -22,3 +22,6 @@ http://googlewebmastercentral.blogspot.com/2014/12/are-you-robot-introducing-no-
 
 git的https被间歇墙了，哎，不行得重回ssh
 http://www.wangp.org/wordpress/?p=173
+
+谷歌可用ip
+https://cb.e-fly.org/archives/goagent-iplist.html
