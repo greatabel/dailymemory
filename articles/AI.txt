@@ -5,3 +5,6 @@ http://www.technologyreview.com/news/532876/googles-intelligence-designer/
 
 Top 10 Best Free eBooks for Machine Learning
 http://devzum.com/2014/12/05/top-10-best-free-ebooks-for-machine-learning/
+
+100 Best GitHub: Deep Learning
+http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/
