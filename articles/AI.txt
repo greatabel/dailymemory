@@ -2,3 +2,6 @@ http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-a
 
 DeepMind founder
 http://www.technologyreview.com/news/532876/googles-intelligence-designer/
+
+Top 10 Best Free eBooks for Machine Learning
+http://devzum.com/2014/12/05/top-10-best-free-ebooks-for-machine-learning/
