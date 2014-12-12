@@ -8,3 +8,6 @@ http://devzum.com/2014/12/05/top-10-best-free-ebooks-for-machine-learning/
 
 100 Best GitHub: Deep Learning
 http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/
+
+
+http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
