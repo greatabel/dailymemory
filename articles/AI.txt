@@ -11,3 +11,8 @@ http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/
 
 
 http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
+
+http://radimrehurek.com/data_science_python/
+
+The Current State of Machine Intelligence
+http://www.shivonzilis.com/machineintelligence
