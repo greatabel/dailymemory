@@ -16,3 +16,5 @@ http://radimrehurek.com/data_science_python/
 
 The Current State of Machine Intelligence
 http://www.shivonzilis.com/machineintelligence
+
+http://www.infoworld.com/article/2853707/machine-learning/11-open-source-tools-machine-learning.html
