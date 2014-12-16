@@ -1,3 +1,4 @@
+在osx中启动方法为键入： iex
 
 测试方法调用命令:elixir assertion_test.exs
 http://elixir-lang.readthedocs.org/en/latest/exunit/1/
