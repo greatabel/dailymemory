@@ -34,3 +34,6 @@ https://www.sublimetext.com/docs/3/osx_command_line.html
 
 Docker at Lyst
 http://developers.lyst.com/devops/2014/12/08/docker/
+
+sublime的快捷键
+http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
