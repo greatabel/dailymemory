@@ -2,3 +2,9 @@
 
 测试方法调用命令:elixir assertion_test.exs
 http://elixir-lang.readthedocs.org/en/latest/exunit/1/
+
+2014年12月17日 星期三 11时34分10秒:设置sublime
+http://newtriks.com/2013/09/02/how-i-got-started-setting-up-elixir/
+http://eezis.ghost.io/2014/03/18/build-elixir-in-sublime-text/
+https://github.com/elixir-lang/elixir-tmbundle
+i
