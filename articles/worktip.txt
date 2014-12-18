@@ -1,5 +1,3 @@
-
-
 Which Git? How to Keep Git Up To Date on Mac
 http://blog.grayghostvisuals.com/git/how-to-keep-git-updated/
 
@@ -12,10 +10,6 @@ http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo
 for private repos, or to have push access on your repository, you can clone this way:
 $ git clone https://username@github.com/username/project.git
 https://github.com/blog/642-smart-http-support
-
-
-Mac OS X 命令行中 10 组快捷键（导航、编辑）
-http://www.guomii.com/posts/21306
 
 a new API that radically simplifies reCAPTCHA though risk analysis!
 http://googlewebmastercentral.blogspot.com/2014/12/are-you-robot-introducing-no-captcha.html
@@ -35,5 +29,3 @@ https://www.sublimetext.com/docs/3/osx_command_line.html
 Docker at Lyst
 http://developers.lyst.com/devops/2014/12/08/docker/
 
-sublime的快捷键
-http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
