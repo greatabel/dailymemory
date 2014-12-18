@@ -18,3 +18,8 @@ The Current State of Machine Intelligence
 http://www.shivonzilis.com/machineintelligence
 
 http://www.infoworld.com/article/2853707/machine-learning/11-open-source-tools-machine-learning.html
+
+机器学习和crm结合，特别提高leads转化率，很有道理
+http://www.guesswork.co/
+http://techcrunch.com/2014/08/08/guesswork-wants-to-focus-machine-learning-on-customer-information/
+http://techcrunch.com/2014/09/07/prismatic-identity/
