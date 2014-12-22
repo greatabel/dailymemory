@@ -13,5 +13,3 @@ http://developers.lyst.com/devops/2014/12/08/docker/
 借助ai推荐衣服
 http://www.wired.com/2014/12/styleit-app-machine-learning/
 
-工作需求很赞
-http://www.indico.io/jobs
