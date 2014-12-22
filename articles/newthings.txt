@@ -7,7 +7,8 @@ http://www.huihui.cn/
 私有云
 https://fund.arkos.io/
 
-机器学习和crm结合，特别提高leads转化率，很有道理
-http://www.guesswork.co/
-http://techcrunch.com/2014/08/08/guesswork-wants-to-focus-machine-learning-on-customer-information/
-http://techcrunch.com/2014/09/07/prismatic-identity/
+Docker at Lyst
+http://developers.lyst.com/devops/2014/12/08/docker/
+
+借助ai推荐衣服
+http://www.wired.com/2014/12/styleit-app-machine-learning/
