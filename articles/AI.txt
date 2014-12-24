@@ -29,3 +29,6 @@ http://www.dlworkshop.org/accepted-papers
 
 quora上非常全的deep learning索引
 https://www.evernote.com/shard/s433/sh/52b77d5f-a2cf-46f5-9b4c-68620f1682be/73527274007c5fa123cd6cc0d8bb10df
+
+Recommending music on Spotify with deep learning
+http://benanne.github.io/2014/08/05/spotify-cnns.html?utm_content=bufferbafce&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
