@@ -5,3 +5,6 @@ http://www.guomii.com/posts/21306
 
 sublime的快捷键
 http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
+
+osx 弹出窗的按钮怎么用快捷键左右tab走：
+http://superuser.com/questions/175834/mac-os-x-10-6-key-to-switch-between-selected-button-in-a-dialog-window
