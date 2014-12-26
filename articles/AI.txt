@@ -9,6 +9,15 @@ http://devzum.com/2014/12/05/top-10-best-free-ebooks-for-machine-learning/
 100 Best GitHub: Deep Learning
 http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/
 
+Deep Learning and Representation Learning Workshop: NIPS 2014
+http://www.dlworkshop.org/accepted-papers
+
+quora上非常全的deep learning索引
+https://www.evernote.com/shard/s433/sh/52b77d5f-a2cf-46f5-9b4c-68620f1682be/73527274007c5fa123cd6cc0d8bb10df
+
+
+Recommending music on Spotify with deep learning
+http://benanne.github.io/2014/08/05/spotify-cnns.html?utm_content=bufferbafce&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-network.html
 
@@ -24,12 +33,3 @@ http://www.guesswork.co/
 http://techcrunch.com/2014/08/08/guesswork-wants-to-focus-machine-learning-on-customer-information/
 http://techcrunch.com/2014/09/07/prismatic-identity/
 
-Deep Learning and Representation Learning Workshop: NIPS 2014
-http://www.dlworkshop.org/accepted-papers
-
-quora上非常全的deep learning索引
-https://www.evernote.com/shard/s433/sh/52b77d5f-a2cf-46f5-9b4c-68620f1682be/73527274007c5fa123cd6cc0d8bb10df
-
-
-Recommending music on Spotify with deep learning
-http://benanne.github.io/2014/08/05/spotify-cnns.html?utm_content=bufferbafce&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
