@@ -29,3 +29,5 @@ http://stillflowing.net/2014/12/21/an-experience-in-contributing-to-open-source/
 http://www.indico.io/jobs
 
 https://www.aerofs.com/careers/
+
+https://github.com/lukasz-madon/awesome-remote-job
