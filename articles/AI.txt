@@ -15,7 +15,7 @@ http://www.dlworkshop.org/accepted-papers
 quora上非常全的deep learning索引
 https://www.evernote.com/shard/s433/sh/52b77d5f-a2cf-46f5-9b4c-68620f1682be/73527274007c5fa123cd6cc0d8bb10df
 
-
+Deep learning Reading List
 http://jmozah.github.io/links/
 
 http://machinelearningmastery.com/how-to-get-better-at-machine-learning/
