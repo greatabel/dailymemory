@@ -29,3 +29,5 @@ https://www.sublimetext.com/docs/3/osx_command_line.html
 Docker at Lyst
 http://developers.lyst.com/devops/2014/12/08/docker/
 
+Kill program Mac OS X terminal command line
+http://blog.houen.net/kill-program-mac-os-x-terminal/
