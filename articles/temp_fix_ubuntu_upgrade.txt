@@ -1,0 +1,16 @@
+fuck ubuntu 14.0
+https://help.ubuntu.com/community/Boot-Repair
+
+http://askubuntu.com/questions/203181/grub-rescue-prompt-after-12-10-upgrade
+
+https://help.ubuntu.com/community/Boot-Repair#Using_Boot-Repair
+
+http://askubuntu.com/questions/187862/after-update-get-error-file-not-found-followed-by-grub-rescue
+
+http://teeth7.blog.163.com/blog/static/9106205220143241454798/
+
+http://jingyan.baidu.com/article/6fb756ecba0e69241958fb51.html
+
+
+http://askubuntu.com/questions/485726/set-the-grub-default-os-dual-boot-windows-7-and-ubuntu-14-04
+https://launchpad.net/~danielrichter2007/+archive/ubuntu/grub-customizer
