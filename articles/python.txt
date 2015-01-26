@@ -5,6 +5,9 @@ sublimetext 什么都好，就是python调试坑爹
 pdb命令：
 http://magustest.com/blog/python/use-pdb-debug-python/
 
+sublimetext3 python自动补全
+https://github.com/srusskih/SublimeJEDI
+
 更图形化的用pyCharm
 http://www.newasp.net/soft/108228.html
 如果要用python3.4.2 则pyCharm中调用virutalenv 在 command＋，调出preferences 修改project interpreter路径
