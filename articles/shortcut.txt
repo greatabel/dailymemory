@@ -8,6 +8,10 @@ http://www.guomii.com/posts/21306
 
 sublime的快捷键
 http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
+sublime 跳到指定行数或者符号：
+Triggered with ⌘P, it is possible to:
+Type part of a file name to open it.
+Type @ to jump to symbols, # to search within the file, and : to go to a line number.
 
 sublime insert mode 在osx的切换
 http://superuser.com/questions/571280/sublime-text-2-disable-cursor-position-overwriting-characters-like-vim-replace
