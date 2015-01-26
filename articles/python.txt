@@ -1,6 +1,10 @@
 sublimetext 什么都好，就是python调试坑爹
 只好用pdb++的sticky模式：https://pypi.python.org/pypi/pdbpp/
-调用pdb++还是用：python -m pdb myscript.py ,python3 -m pdb myscript.py 会还是旧的pdb
+调用pdb++还是用：python -m pdb myscript.py ,就是不支持python3
 
 pdb命令：
 http://magustest.com/blog/python/use-pdb-debug-python/
+
+更图形化的用pyCharm
+http://www.newasp.net/soft/108228.html
+如果要用python3.4.2 则pyCharm中调用virutalenv 在 command＋，调出preferences 修改project interpreter路径
