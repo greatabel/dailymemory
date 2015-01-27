@@ -1,13 +1,14 @@
 osx显示桌面:command + F3
 
 删除光标后快捷键：Fn＋del
-
+osx同类型窗口：command＋｀
 Read more : http://www.ehow.com/how_8565661_delete-after-cursor-macbook.html
 OSX 命令行中 10 组快捷键（导航、编辑）
 http://www.guomii.com/posts/21306
 
 sublime的快捷键
 http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
+
 sublime 跳到指定行数或者符号：
 Triggered with ⌘P, it is possible to:
 Type part of a file name to open it.
