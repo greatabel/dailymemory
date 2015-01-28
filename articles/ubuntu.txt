@@ -6,3 +6,5 @@ http://www.kabatology.com/05/09/ubuntu-connect-to-vpn-gate-with-openvpn/
 
 模糊查找：
 find . -name 'mystring*'
+
+测试
