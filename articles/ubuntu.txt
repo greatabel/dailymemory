@@ -13,3 +13,4 @@ https://help.github.com/articles/set-up-git/#password-caching
 
 ubuntu处理exFat：
 http://askubuntu.com/questions/451364/how-to-enable-exfat-in-ubuntu-14-04
+
