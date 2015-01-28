@@ -22,6 +22,8 @@ http://machinelearningmastery.com/how-to-get-better-at-machine-learning/
 
 http://deeplearning.net/tutorial/contents.html
 
+http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/
+
 Recommending music on Spotify with deep learning
 http://benanne.github.io/2014/08/05/spotify-cnns.html?utm_content=bufferbafce&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
