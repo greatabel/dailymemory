@@ -10,3 +10,6 @@ find . -name 'mystring*'
 ubuntu 缓存密码，不用每次输入：
 用https方式：git config --global credential.helper cache
 https://help.github.com/articles/set-up-git/#password-caching
+
+ubuntu处理exFat：
+http://askubuntu.com/questions/451364/how-to-enable-exfat-in-ubuntu-14-04
