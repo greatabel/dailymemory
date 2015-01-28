@@ -1,0 +1,5 @@
+bt
+https://apps.ubuntu.com/cat/applications/deluge/
+
+vpn gate
+http://www.kabatology.com/05/09/ubuntu-connect-to-vpn-gate-with-openvpn/
