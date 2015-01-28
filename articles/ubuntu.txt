@@ -7,4 +7,6 @@ http://www.kabatology.com/05/09/ubuntu-connect-to-vpn-gate-with-openvpn/
 模糊查找：
 find . -name 'mystring*'
 
-测试
+ubuntu 缓存密码，不用每次输入：
+用https方式：git config --global credential.helper cache
+https://help.github.com/articles/set-up-git/#password-caching
