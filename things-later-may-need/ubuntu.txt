@@ -14,3 +14,6 @@ https://help.github.com/articles/set-up-git/#password-caching
 ubuntu处理exFat：
 http://askubuntu.com/questions/451364/how-to-enable-exfat-in-ubuntu-14-04
 
+网络连接图标丢失（坑爹啊）
+terminal运行：dbus-launch nm-applet
+http://askubuntu.com/questions/507310/network-manager-icon-disappeared-14-04
