@@ -20,3 +20,5 @@ https://aws.amazon.com/datasets
 
 a new API that radically simplifies reCAPTCHA though risk analysis!
 http://googlewebmastercentral.blogspot.com/2014/12/are-you-robot-introducing-no-captcha.html
+
+http://tleyden.github.io/blog/2014/10/25/running-caffe-on-aws-gpu-instance-via-docker/
