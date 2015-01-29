@@ -17,3 +17,7 @@ http://askubuntu.com/questions/451364/how-to-enable-exfat-in-ubuntu-14-04
 网络连接图标丢失（坑爹啊）
 terminal运行：dbus-launch nm-applet
 http://askubuntu.com/questions/507310/network-manager-icon-disappeared-14-04
+
+显示大部分网络设备
+lspci
+http://askubuntu.com/questions/31618/how-can-i-find-my-hardware-details
