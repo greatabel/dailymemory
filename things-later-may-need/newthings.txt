@@ -15,3 +15,8 @@ http://www.wired.com/2014/12/styleit-app-machine-learning/
 
 
 https://aws.amazon.com/datasets
+
+
+
+a new API that radically simplifies reCAPTCHA though risk analysis!
+http://googlewebmastercentral.blogspot.com/2014/12/are-you-robot-introducing-no-captcha.html
