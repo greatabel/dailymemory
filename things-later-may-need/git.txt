@@ -1,0 +1,16 @@
+Which Git? How to Keep Git Up To Date on Mac
+http://blog.grayghostvisuals.com/git/how-to-keep-git-updated/
+
+创建.gitignore 最快速：touch .gitignore
+http://stackoverflow.com/questions/10744305/how-to-create-gitignore-file
+
+git 删除文件
+http://stackoverflow.com/questions/2047465/how-can-i-delete-a-file-from-git-repo
+
+
+for private repos, or to have push access on your repository, you can clone this way:
+$ git clone https://username@github.com/username/project.git
+https://github.com/blog/642-smart-http-support
+
+git的https被间歇墙了，哎，不行得重回ssh
+http://www.wangp.org/wordpress/?p=173
