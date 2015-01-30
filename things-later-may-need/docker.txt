@@ -1,0 +1,1 @@
+http://blog.docker.com/2013/07/docker-projects-from-the-docker-community/
