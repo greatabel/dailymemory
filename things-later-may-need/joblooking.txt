@@ -2,6 +2,9 @@ https://jobs.github.com
 
 https://weworkremotely.com/
 https://gun.io/
+http://nomadjobs.io/
+http://jobs.remotive.io/
+https://levels.io/how-i-built-a-remote-jobs-board/
 
 值得关注的工作
 https://chartio.com/jobs/software-engineer
