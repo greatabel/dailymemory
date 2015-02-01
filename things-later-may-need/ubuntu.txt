@@ -27,3 +27,6 @@ $ sudo add-apt-repository ppa:webupd8team/tor-browser
 $ sudo apt-get update
 $ sudo apt-get install tor-browser
 http://linuxg.net/how-to-install-tor-browser-4-0-3-on-ubuntu-15-04-ubuntu-14-10-ubuntu-14-04-ubuntu-12-04-and-derivative-systems/
+
+ubuntu core
+http://www.ubuntu.com/cloud/tools/snappy
