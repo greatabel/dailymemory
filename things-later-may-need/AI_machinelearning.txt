@@ -11,3 +11,5 @@ http://www.infoworld.com/article/2853707/machine-learning/11-open-source-tools-m
 http://www.guesswork.co/
 http://techcrunch.com/2014/08/08/guesswork-wants-to-focus-machine-learning-on-customer-information/
 http://techcrunch.com/2014/09/07/prismatic-identity/
+
+http://www.startup.ml/resources?utm_content=bufferab6a2
