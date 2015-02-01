@@ -8,3 +8,10 @@ $ sudo docker attach 665b4a1e17b6 #by ID
 or
 $ sudo docker attach loving_heisenberg #by Name
 $ root@665b4a1e17b6:/# 
+
+删除某个容器(ee1171e0e74d)之后的容器
+ sudo docker rm $(sudo docker ps --since ee1171e0e74d -q)
+
+
+
+
