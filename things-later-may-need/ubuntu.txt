@@ -21,3 +21,9 @@ http://askubuntu.com/questions/507310/network-manager-icon-disappeared-14-04
 显示大部分网络设备
 lspci
 http://askubuntu.com/questions/31618/how-can-i-find-my-hardware-details
+
+安装tor－browser
+$ sudo add-apt-repository ppa:webupd8team/tor-browser
+$ sudo apt-get update
+$ sudo apt-get install tor-browser
+http://linuxg.net/how-to-install-tor-browser-4-0-3-on-ubuntu-15-04-ubuntu-14-10-ubuntu-14-04-ubuntu-12-04-and-derivative-systems/
