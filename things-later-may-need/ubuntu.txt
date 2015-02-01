@@ -30,3 +30,6 @@ http://linuxg.net/how-to-install-tor-browser-4-0-3-on-ubuntu-15-04-ubuntu-14-10-
 
 ubuntu core
 http://www.ubuntu.com/cloud/tools/snappy
+
+显示桌面：ctrl+shift+D
+输入法切换:ctrl+space

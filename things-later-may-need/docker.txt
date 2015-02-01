@@ -12,6 +12,10 @@ $ root@665b4a1e17b6:/#
 删除某个容器(ee1171e0e74d)之后的容器
  sudo docker rm $(sudo docker ps --since ee1171e0e74d -q)
 
+本地private registry的push
+sudo docker tag docker.example.com:5000/greatabel/test localhost:5000/greatabel/test
+sudo docker push localhost:5000/greatabel/test
+
 
 
 
