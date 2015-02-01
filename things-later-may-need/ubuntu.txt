@@ -33,3 +33,5 @@ http://www.ubuntu.com/cloud/tools/snappy
 
 显示桌面：ctrl+shift+D
 输入法切换:ctrl+space
+显示用户：cat /etc/passwd
+重设root密码：sudo passwd 
