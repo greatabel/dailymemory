@@ -35,3 +35,9 @@ http://www.ubuntu.com/cloud/tools/snappy
 输入法切换:ctrl+space
 显示用户：cat /etc/passwd
 重设root密码：sudo passwd 
+
+ubuntu自带的gmusicbrowser故障解决（坑爹）：
+https://answers.launchpad.net/ubuntu/+source/gmusicbrowser/+question/198228
+sudo apt-get install gstreamer0.10-plugins-bad gstreamer0.10-plugins-bad-multiverse 
+gstreamer0.10-plugins-base gstreamer0.10-plugins-base-apps gstreamer0.10-plugins-good 
+gstreamer0.10-plugins-ugly
