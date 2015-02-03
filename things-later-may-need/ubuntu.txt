@@ -35,3 +35,8 @@ http://www.ubuntu.com/cloud/tools/snappy
 输入法切换:ctrl+space
 显示用户：cat /etc/passwd
 重设root密码：sudo passwd 
+
+ubuntu和windows共存时候时间不统一：
+sudo gedit /etc/default/rcS
+找到这一行：UTC=yes
+把yes改为no
