@@ -41,3 +41,6 @@ https://answers.launchpad.net/ubuntu/+source/gmusicbrowser/+question/198228
 sudo apt-get install gstreamer0.10-plugins-bad gstreamer0.10-plugins-bad-multiverse 
 gstreamer0.10-plugins-base gstreamer0.10-plugins-base-apps gstreamer0.10-plugins-good 
 gstreamer0.10-plugins-ugly
+
+查看进出流量：
+sudo apt-get install nload
