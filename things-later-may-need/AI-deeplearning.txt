@@ -1,6 +1,3 @@
-DeepMind founder
-http://www.technologyreview.com/news/532876/googles-intelligence-designer/
-
 Top 10 Best Free eBooks for Machine Learning
 http://devzum.com/2014/12/05/top-10-best-free-ebooks-for-machine-learning/
 
@@ -31,3 +28,4 @@ http://radar.oreilly.com/2014/07/how-to-build-and-run-your-first-deep-learning-n
 http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html?m=1
 
 https://www.paypal-engineering.com/2015/01/12/deep-learning-on-hadoop-2-0-2/
+
