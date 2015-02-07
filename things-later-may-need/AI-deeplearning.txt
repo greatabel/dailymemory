@@ -29,3 +29,5 @@ http://yyue.blogspot.ca/2015/01/a-brief-overview-of-deep-learning.html?m=1
 
 https://www.paypal-engineering.com/2015/01/12/deep-learning-on-hadoop-2-0-2/
 
+https://www.re-work.co/blog/deep-learning-qualcomm
+
