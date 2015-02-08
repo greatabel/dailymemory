@@ -8,3 +8,5 @@ https://gigaom.com/2015/02/06/phototime-is-a-deep-learning-application-for-the-r
 http://www.36kr.com/p/218608.html
 
 http://www.jeanchristophebonis.com/2015/01/30/ai-startup-expect-labs-intelligence-search-context/
+
+http://numenta.com/
