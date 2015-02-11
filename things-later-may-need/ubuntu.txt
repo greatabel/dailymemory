@@ -36,12 +36,11 @@ http://www.ubuntu.com/cloud/tools/snappy
 显示用户：cat /etc/passwd
 重设root密码：sudo passwd 
 
-<<<<<<< HEAD
 ubuntu和windows共存时候时间不统一：
 sudo gedit /etc/default/rcS
 找到这一行：UTC=yes
 把yes改为no
-=======
+
 ubuntu自带的gmusicbrowser故障解决（坑爹）：
 https://answers.launchpad.net/ubuntu/+source/gmusicbrowser/+question/198228
 sudo apt-get install gstreamer0.10-plugins-bad gstreamer0.10-plugins-bad-multiverse 
@@ -50,4 +49,6 @@ gstreamer0.10-plugins-ugly
 
 查看进出流量：
 sudo apt-get install nload
->>>>>>> fcef9501d21fd65e0048f2cb016562a45f560a5f
+
+nohup防止推出terminal关闭程序，&让在后台运行
+nohup /root/test.php &
