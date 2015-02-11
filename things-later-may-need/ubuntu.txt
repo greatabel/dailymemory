@@ -52,3 +52,6 @@ sudo apt-get install nload
 
 nohup防止推出terminal关闭程序，&让在后台运行
 nohup /root/test.php &
+
+添加母校的源
+http://zhoushijun.iteye.com/blog/1942475
