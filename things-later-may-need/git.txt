@@ -23,4 +23,4 @@ http://stackoverflow.com/questions/1125968/force-git-to-overwrite-local-files-on
 git 缓存密码，不用每次输入：
 用https方式：git config --global credential.helper cache
 git config --global credential.helper 'cache --timeout=3600'
-https://help.github.com/articles/set-up-git/#password-caching
+https://help.github.com/articles/caching-your-github-password-in-git/
