@@ -1,0 +1,2 @@
+天朝gfw干扰github，导致git 10秒内经常更新不下来，修改jenkins默认clone时间：
+http://stackoverflow.com/questions/22013217/on-building-jenkins-project-timeout-after-10-minute-error-happens

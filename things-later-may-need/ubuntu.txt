@@ -7,9 +7,7 @@ http://www.kabatology.com/05/09/ubuntu-connect-to-vpn-gate-with-openvpn/
 模糊查找：
 find . -name 'mystring*'
 
-ubuntu 缓存密码，不用每次输入：
-用https方式：git config --global credential.helper cache
-https://help.github.com/articles/set-up-git/#password-caching
+
 
 ubuntu处理exFat：
 http://askubuntu.com/questions/451364/how-to-enable-exfat-in-ubuntu-14-04
@@ -52,3 +50,6 @@ sudo apt-get install nload
 
 nohup防止推出terminal关闭程序，&让在后台运行
 nohup /root/test.php &
+
+内核版本:uname -r
+正在运行的 Ubuntu 的版本号:cat /etc/issue
