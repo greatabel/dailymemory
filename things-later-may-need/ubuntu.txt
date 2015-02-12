@@ -58,3 +58,6 @@ nohup /root/test.php &
 添加母校的源
 http://zhoushijun.iteye.com/blog/1942475
 
+缩短terminal前面长度
+PROMPT_DIRTRIM=3
+will shorten /var/lib/whatever/foo/bar/baz to .../foo/bar/baz.
