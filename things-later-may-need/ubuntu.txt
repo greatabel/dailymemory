@@ -51,5 +51,10 @@ sudo apt-get install nload
 nohup防止推出terminal关闭程序，&让在后台运行
 nohup /root/test.php &
 
+
 内核版本:uname -r
 正在运行的 Ubuntu 的版本号:cat /etc/issue
+
+添加母校的源
+http://zhoushijun.iteye.com/blog/1942475
+
