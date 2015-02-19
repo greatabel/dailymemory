@@ -35,3 +35,6 @@ http://deeplearning.net/tutorial/lenet.html?utm_content=buffere757e&utm_medium=s
 
 python解释DL
 http://databoys.github.io/Feedforward/
+
+java解释
+http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
