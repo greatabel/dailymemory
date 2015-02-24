@@ -38,3 +38,6 @@ http://databoys.github.io/Feedforward/
 
 java解释
 http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
+
+deeplearning硬件环境搭建，德国博客
+https://timdettmers.wordpress.com/
