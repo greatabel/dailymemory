@@ -11,3 +11,7 @@ http://superuser.com/questions/175834/mac-os-x-10-6-key-to-switch-between-select
 
 http://stackoverflow.com/questions/327664/mac-os-x-terminal-map-optiondelete-to-backward-delete-word
 OS X's terminal runs bash, which includes readline support. Follow Glomek's advice and tell terminal to use option as meta key (or else use Esc) and then you've got a bunch of handy options: Ctrl+w deletes prev word (as does Meta+delete as mentioned), but you can also use Meta+f and Meta+b to walk forward and backwards thru words, Ctrl+a and Ctrl+e to beginning and end of line, Ctrl+k delete (kill) from cursor to end of line, and a bunch more.
+
+音乐视频剪辑
+http://www.macx.cn/thread-2030967-1-1.html
+http://blog.sina.com.cn/s/blog_64b3c56f0101hwm9.html
