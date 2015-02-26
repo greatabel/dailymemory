@@ -36,6 +36,9 @@ http://deeplearning.net/tutorial/lenet.html?utm_content=buffere757e&utm_medium=s
 python解释DL
 http://databoys.github.io/Feedforward/
 
+结合强化学习
+http://www.nature.com/news/game-playing-software-holds-lessons-for-neuroscience-1.16979?WT.mc_id=TWT_NatureNews
+
 java解释
 http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
 
