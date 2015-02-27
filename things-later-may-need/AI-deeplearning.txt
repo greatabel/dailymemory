@@ -32,3 +32,20 @@ https://www.paypal-engineering.com/2015/01/12/deep-learning-on-hadoop-2-0-2/
 https://www.re-work.co/blog/deep-learning-qualcomm
 
 http://deeplearning.net/tutorial/lenet.html?utm_content=buffere757e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+python解释DL
+http://databoys.github.io/Feedforward/
+
+
+java解释
+http://www.toptal.com/machine-learning/an-introduction-to-deep-learning-from-perceptrons-to-deep-networks
+
+deeplearning硬件环境搭建，德国博客
+https://timdettmers.wordpress.com/
+
+
+结合强化学习
+http://www.nature.com/news/game-playing-software-holds-lessons-for-neuroscience-1.16979?WT.mc_id=TWT_NatureNews
+
+deepmind开源尝试
+http://robohub.org/artificial-general-intelligence-that-plays-atari-video-games-how-did-deepmind-do-it/

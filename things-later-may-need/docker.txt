@@ -20,6 +20,9 @@ sudo docker exec -i -t loving_heisenberg bash
 sudo docker tag docker.example.com:5000/greatabel/test localhost:5000/greatabel/test
 sudo docker push localhost:5000/greatabel/test
 
+Deploying Python with Docker
+https://medium.com/@rlbaker/deploying-python-with-docker-15a472cf12a5
+
 
 
 

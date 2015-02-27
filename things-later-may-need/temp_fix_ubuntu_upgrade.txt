@@ -7,10 +7,15 @@ https://help.ubuntu.com/community/Boot-Repair#Using_Boot-Repair
 
 http://askubuntu.com/questions/187862/after-update-get-error-file-not-found-followed-by-grub-rescue
 
+官网上建议使用UUI根本有问题，啃爹，要用UltraISO＋文件修改才可以
 http://teeth7.blog.163.com/blog/static/9106205220143241454798/
 
+通过刻录u盘来安装ubuntu 14.04
 http://jingyan.baidu.com/article/6fb756ecba0e69241958fb51.html
 
 
 http://askubuntu.com/questions/485726/set-the-grub-default-os-dual-boot-windows-7-and-ubuntu-14-04
 https://launchpad.net/~danielrichter2007/+archive/ubuntu/grub-customizer
+
+linux重新分区
+http://askubuntu.com/questions/126153/how-to-resize-partitions
