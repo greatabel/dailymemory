@@ -29,7 +29,7 @@ http://linuxg.net/how-to-install-tor-browser-4-0-3-on-ubuntu-15-04-ubuntu-14-10-
 ubuntu core
 http://www.ubuntu.com/cloud/tools/snappy
 
-显示桌面：ctrl+shift+D
+显示桌面：ctrl+alt+D
 输入法切换:ctrl+space
 显示用户：cat /etc/passwd
 重设root密码：sudo passwd 
@@ -61,3 +61,6 @@ http://zhoushijun.iteye.com/blog/1942475
 缩短terminal前面长度
 PROMPT_DIRTRIM=3
 will shorten /var/lib/whatever/foo/bar/baz to .../foo/bar/baz.
+
+查看容量(maybe df mean diskfile)
+df -Th
