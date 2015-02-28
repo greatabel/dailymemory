@@ -68,7 +68,8 @@ df -Th
 
 关terminal
 To close a terminal window you can use the exit command . 
-Alternatively you can use the shortcut ctrl+shift+w to close a terminal tab and ctrl+shift+q to close the entire terminal including all tabs
+ctrl+shift+w to close a terminal tab and 
+ctrl+shift+q to close the entire terminal including all tabs
 
 osx 通过ssh 连到ubuntu 最简单法子：
 sudo apt-get update
@@ -81,8 +82,12 @@ https://help.ubuntu.com/community/SSH/OpenSSH/ConnectingTo
 ls -lrt  －t＝按最后修改时间  －r表示倒序
 http://stackoverflow.com/questions/1404938/list-files-by-last-edited-date
 
-ssh 传递文件：
+ssh 传递文件例子：
 scp abel@192.168.10.107:/media/abel/00071ED500012F7B/2015Home/50Android_Hacks.zip test
 具体见：
 http://unix.stackexchange.com/questions/2857/ssh-easily-copy-file-to-local-system
 http://stackoverflow.com/questions/343711/transferring-files-over-ssh
+如果文件夹拷贝，需要加-r,如果路径中有空格要：scp user@host:"'filename with spaces'" destination
+http://ubuntuforums.org/showthread.php?t=843739
+例子：
+scp -r abel@192.168.10.107:"'/media/abel/00071ED500012F7B/2015Home/Python Projects - test'" test
