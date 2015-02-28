@@ -70,3 +70,19 @@ df -Th
 To close a terminal window you can use the exit command . 
 Alternatively you can use the shortcut ctrl+shift+w to close a terminal tab and ctrl+shift+q to close the entire terminal including all tabs
 
+osx 通过ssh 连到ubuntu 最简单法子：
+sudo apt-get update
+sudo apt-get install openssh-server
+sudo ufw allow 22
+http://askubuntu.com/questions/51925/how-do-i-configure-a-new-ubuntu-installation-to-accept-ssh-connections
+然后osx 只需要 ssh <username>@<computer name or IP address>
+https://help.ubuntu.com/community/SSH/OpenSSH/ConnectingTo
+
+ls -lrt  －t＝按最后修改时间  －r表示倒序
+http://stackoverflow.com/questions/1404938/list-files-by-last-edited-date
+
+ssh 传递文件：
+scp abel@192.168.10.107:/media/abel/00071ED500012F7B/2015Home/50Android_Hacks.zip test
+具体见：
+http://unix.stackexchange.com/questions/2857/ssh-easily-copy-file-to-local-system
+http://stackoverflow.com/questions/343711/transferring-files-over-ssh

@@ -16,6 +16,10 @@ git的https被间歇墙了，哎，不行得重回ssh
 http://www.wangp.org/wordpress/?p=173
 
 Force Git to overwrite local files on pull
+如果
+git reset --hard HEAD
+git pull
+不行，就：
 git fetch --all
 git reset --hard origin/master
 http://stackoverflow.com/questions/1125968/force-git-to-overwrite-local-files-on-pull

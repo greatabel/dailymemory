@@ -7,3 +7,5 @@ http://superuser.com/questions/549705/f6-toggles-brightness-level-in-xcode-inste
 shift+command+H twice to simulate the double tap of home button
 http://stackoverflow.com/questions/18519799/ios-simulator-how-to-close-an-app
 
+找半天才找到assistant editor 预览  preview of the storyboard
+http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial

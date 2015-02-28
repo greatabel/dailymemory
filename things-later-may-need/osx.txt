@@ -20,3 +20,5 @@ http://blog.sina.com.cn/s/blog_64b3c56f0101hwm9.html
 ⇧ = Shift
 ⌥ = Option/Alt
 ⌃ = Control
+
+Command+Option+D it will automatically hide or show the Dock in OS X
