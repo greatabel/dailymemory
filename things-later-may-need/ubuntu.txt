@@ -62,6 +62,11 @@ http://zhoushijun.iteye.com/blog/1942475
 PROMPT_DIRTRIM=3
 will shorten /var/lib/whatever/foo/bar/baz to .../foo/bar/baz.
 
+
+查看容量(maybe df mean diskfile)
+df -Th
+
 关terminal
 To close a terminal window you can use the exit command . 
 Alternatively you can use the shortcut ctrl+shift+w to close a terminal tab and ctrl+shift+q to close the entire terminal including all tabs
+
