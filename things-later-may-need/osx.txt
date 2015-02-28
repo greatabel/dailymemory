@@ -15,3 +15,8 @@ OS X's terminal runs bash, which includes readline support. Follow Glomek's advi
 音乐视频剪辑
 http://www.macx.cn/thread-2030967-1-1.html
 http://blog.sina.com.cn/s/blog_64b3c56f0101hwm9.html
+
+⌘ = Command
+⇧ = Shift
+⌥ = Option/Alt
+⌃ = Control

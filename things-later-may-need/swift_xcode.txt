@@ -1,2 +1,9 @@
-In system preferences -> keyboard, check that the option is turned on for 'Use all F1, F2, etc. keys as standard function keys'
+F6在xcode 不work解决：
+In system preferences -> keyboard, check that the option is turned on for 
+'Use all F1, F2, etc. keys as standard function keys'
 http://superuser.com/questions/549705/f6-toggles-brightness-level-in-xcode-instead-of-stepping
+
+模拟器中从app退出
+shift+command+H twice to simulate the double tap of home button
+http://stackoverflow.com/questions/18519799/ios-simulator-how-to-close-an-app
+
