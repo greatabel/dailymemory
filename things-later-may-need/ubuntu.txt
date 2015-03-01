@@ -91,3 +91,8 @@ http://stackoverflow.com/questions/343711/transferring-files-over-ssh
 http://ubuntuforums.org/showthread.php?t=843739
 例子：
 scp -r abel@192.168.10.107:"'/media/abel/00071ED500012F7B/2015Home/Python Projects - test'" test
+
+ubuntu ftp 
+ mkdir  mydirect
+sudo mount  --bind /media/abel/00071ED500012F7B/2015Home /home/abel/mydirect
+
