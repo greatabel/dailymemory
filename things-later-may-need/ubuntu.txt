@@ -92,7 +92,11 @@ http://ubuntuforums.org/showthread.php?t=843739
 例子：
 scp -r abel@192.168.10.107:"'/media/abel/00071ED500012F7B/2015Home/Python Projects - test'" test
 
-ubuntu ftp 
- mkdir  mydirect
+ubuntu ftp的vsftpd 安装和配置
+https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-ubuntu-12-04
+ftp 访问不属于自己的目录
+mkdir  mydirect
 sudo mount  --bind /media/abel/00071ED500012F7B/2015Home /home/abel/mydirect
+http://www.ducea.com/2006/07/27/allowing-ftp-access-to-files-outside-the-home-directory-chroot/
+
 
