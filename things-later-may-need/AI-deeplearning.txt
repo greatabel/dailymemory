@@ -49,3 +49,6 @@ http://www.nature.com/news/game-playing-software-holds-lessons-for-neuroscience-
 
 deepmind开源尝试
 http://robohub.org/artificial-general-intelligence-that-plays-atari-video-games-how-did-deepmind-do-it/
+
+Beginning deep learning with 500 lines of Julia
+http://www.denizyuret.com/2015/02/beginning-deep-learning-with-500-lines.html
