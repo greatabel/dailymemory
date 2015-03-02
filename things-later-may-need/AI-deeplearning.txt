@@ -52,3 +52,6 @@ http://robohub.org/artificial-general-intelligence-that-plays-atari-video-games-
 
 Beginning deep learning with 500 lines of Julia
 http://www.denizyuret.com/2015/02/beginning-deep-learning-with-500-lines.html
+
+podcast
+http://www.thetalkingmachines.com/blog/
