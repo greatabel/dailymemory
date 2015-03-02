@@ -106,3 +106,8 @@ sudo service vsftpd restart
 editing /etc/init/vsfpd.conf file and simple commenting 1or2 lines (in my case line 7 and 8). It should be something like that:
 start on (filesystem and net-device-up IFACE!=lo)
 http://serverfault.com/questions/187696/ubuntuhow-to-not-run-vsftpd-at-boot-time
+
+redis-cli -h 127.0.0.1 -p 49153 (端口)后redis 查看所有key：
+KEYS * 
+redis-py – python client for redis安装在ubuntu14是：sudo pip install redis
+http://www.guguncube.com/2663/redis-installation-and-simple-test-using-redis-py-in-ubuntu
