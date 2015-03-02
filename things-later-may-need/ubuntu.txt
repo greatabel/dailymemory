@@ -98,7 +98,11 @@ ftp 访问不属于自己的目录
 mkdir  mydirect
 sudo mount  --bind /media/abel/00071ED500012F7B/2015Home /home/abel/mydirect
 http://www.ducea.com/2006/07/27/allowing-ftp-access-to-files-outside-the-home-directory-chroot/
-开关：
-service vsftpd stop
-service vsftpd start
-
+开关，貌似我装到abel用户下：
+sudo service vsftpd stop
+sudo service vsftpd start
+sudo service vsftpd restart
+不需要开机启动：
+editing /etc/init/vsfpd.conf file and simple commenting 1or2 lines (in my case line 7 and 8). It should be something like that:
+start on (filesystem and net-device-up IFACE!=lo)
+http://serverfault.com/questions/187696/ubuntuhow-to-not-run-vsftpd-at-boot-time
