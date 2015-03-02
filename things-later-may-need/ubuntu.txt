@@ -92,11 +92,13 @@ http://ubuntuforums.org/showthread.php?t=843739
 例子：
 scp -r abel@192.168.10.107:"'/media/abel/00071ED500012F7B/2015Home/Python Projects - test'" test
 
+
 ubuntu ftp的vsftpd 安装和配置
 https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-ubuntu-12-04
-ftp 访问不属于自己的目录
+ftp 访问不属于自己的目录,先自己打开media/abel所在的硬盘
 mkdir  mydirect
-sudo mount  --bind /media/abel/00071ED500012F7B/2015Home /home/abel/mydirect
+sudo mount  --bind /media/abel/00071ED500012F7B /home/abel/mydirect
+
 http://www.ducea.com/2006/07/27/allowing-ftp-access-to-files-outside-the-home-directory-chroot/
 开关，貌似我装到abel用户下：
 sudo service vsftpd stop
@@ -107,7 +109,10 @@ editing /etc/init/vsfpd.conf file and simple commenting 1or2 lines (in my case l
 start on (filesystem and net-device-up IFACE!=lo)
 http://serverfault.com/questions/187696/ubuntuhow-to-not-run-vsftpd-at-boot-time
 
+
 redis-cli -h 127.0.0.1 -p 49153 (端口)后redis 查看所有key：
 KEYS * 
 redis-py – python client for redis安装在ubuntu14是：sudo pip install redis
 http://www.guguncube.com/2663/redis-installation-and-simple-test-using-redis-py-in-ubuntu
+
+
