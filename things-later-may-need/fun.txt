@@ -4,3 +4,4 @@ clear;while :;do echo $LINES $COLUMNS $(($RANDOM%$COLUMNS)) $(printf "\xE2\x9D\x
 
 有趣的podcast
 https://itunes.apple.com/us/podcast/gigaom-structure-show/id682584795?mt=2
+

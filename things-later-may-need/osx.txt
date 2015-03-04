@@ -25,3 +25,7 @@ Command+Option+D it will automatically hide or show the Dock in OS X
 
 terminal tab之间切换
  Cmd-Shift-{ and Cmd-Shift-}. (or Cmd-Shift-Left and Cmd-Shift-Right)
+
+command+[] 是xcode缩进
+xcode删除: Ctrl-A to go to the beginning of the line, then Ctrl-K to delete it
+Delete a line :CTRL+D 
