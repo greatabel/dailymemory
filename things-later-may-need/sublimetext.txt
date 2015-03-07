@@ -1,4 +1,6 @@
 sublime的快捷键
+⌘ + D	Select word - Repeat to select next occurrence
+⌃ + ⌘ + G	Select all occurrences of current selection
 http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
 
 sublime 跳到指定行数或者符号：

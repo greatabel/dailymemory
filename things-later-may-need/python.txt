@@ -11,3 +11,11 @@ https://github.com/srusskih/SublimeJEDI
 更图形化的用pyCharm
 http://www.newasp.net/soft/108228.html
 如果要用python3.4.2 则pyCharm中调用virutalenv 在 command＋，调出preferences 修改project interpreter路径
+
+#(env1) 下：pip3 install termcolor
+from termcolor import colored
+print( colored('hello', 'red'), colored('world', 'green'))
+http://stackoverflow.com/questions/287871/print-in-terminal-with-colors-using-python
+
+进入是：workon env1   退出是：deactivate
+http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html
