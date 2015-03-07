@@ -22,6 +22,7 @@ sudo docker push localhost:5000/greatabel/test
 
 Deploying Python with Docker
 https://medium.com/@rlbaker/deploying-python-with-docker-15a472cf12a5
+https://glyph.twistedmatrix.com/2015/03/docker-deploy-double-dutch.html?utm_source=twitterfeed&utm_medium=twitter
 
 
 
