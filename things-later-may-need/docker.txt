@@ -25,5 +25,5 @@ https://medium.com/@rlbaker/deploying-python-with-docker-15a472cf12a5
 https://glyph.twistedmatrix.com/2015/03/docker-deploy-double-dutch.html?utm_source=twitterfeed&utm_medium=twitter
 
 
-
+http://tech.paulcz.net/2015/03/optimizing-your-dockerfiles/
 

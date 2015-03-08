@@ -9,3 +9,6 @@ http://stackoverflow.com/questions/18519799/ios-simulator-how-to-close-an-app
 
 找半天才找到assistant editor 预览  preview of the storyboard
 http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial
+
+XCTestCase运行测试用例：
+　　command + u
