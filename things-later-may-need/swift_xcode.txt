@@ -12,3 +12,10 @@ http://www.raywenderlich.com/83276/beginning-adaptive-layout-tutorial
 
 XCTestCase运行测试用例：
 　　command + u
+
+In xcode格式化：
+Command + A to select all source codes
+Ctrl + I to re-indent
+
+局部折叠:  Command+Alt+Left/Right
+全局折叠:  Shift+Command+Alt+Left/Right
