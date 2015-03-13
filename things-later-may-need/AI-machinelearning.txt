@@ -15,3 +15,6 @@ http://techcrunch.com/2014/09/07/prismatic-identity/
 http://www.startup.ml/resources?utm_content=bufferab6a2
 
 http://blog.yhathq.com/posts/using-data-science-to-build-better-products.html
+
+http://blog.yhathq.com/posts/predicting-customer-churn-with-sklearn.html
+http://blog.yhathq.com/posts/machine-learning-for-predicting-bad-loans.html

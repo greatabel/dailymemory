@@ -19,3 +19,7 @@ Ctrl + I to re-indent
 
 局部折叠:  Command+Alt+Left/Right
 全局折叠:  Shift+Command+Alt+Left/Right
+
+http://realm.io/news/andy-matuschak-controlling-complexity/
+
+https://medium.com/@daretorant/learning-ios-development-in-swift-bb1b6732c09e
