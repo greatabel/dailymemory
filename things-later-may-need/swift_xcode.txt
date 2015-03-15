@@ -23,3 +23,6 @@ Ctrl + I to re-indent
 http://realm.io/news/andy-matuschak-controlling-complexity/
 
 https://medium.com/@daretorant/learning-ios-development-in-swift-bb1b6732c09e
+
+xcode删除: Ctrl-A to go to the beginning of the line, then Ctrl-K to delete it
+Delete a line :CTRL+D 
