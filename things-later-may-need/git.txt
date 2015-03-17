@@ -32,3 +32,6 @@ https://help.github.com/articles/caching-your-github-password-in-git/
 修改github的url后，本地同步：
 git remote set-url origin https://github.com/user/repo2.git
 http://stackoverflow.com/questions/2432764/change-the-uri-url-for-a-remote-git-repository
+
+Git Submodule
+http://www.kafeitu.me/git/2012/03/27/git-submodule.html
