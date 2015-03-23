@@ -116,3 +116,26 @@ redis-py – python client for redis安装在ubuntu14是：sudo pip install redi
 http://www.guguncube.com/2663/redis-installation-and-simple-test-using-redis-py-in-ubuntu
 
 
+[connection]
+id=greatabel
+uuid=d72dee98-d834-49da-bdc0-10fe9475a25e
+type=802-11-wireless
+
+[802-11-wireless]
+ssid=greatabel
+mode=infrastructure
+mac-address=AC:72:89:10:BE:81
+security=802-11-wireless-security
+
+[802-11-wireless-security]
+key-mgmt=wpa-psk
+auth-alg=open
+psk=greatabel1024
+
+[ipv4]
+method=auto
+
+[ipv6]
+method=auto
+
+
