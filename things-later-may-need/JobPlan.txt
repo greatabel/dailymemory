@@ -1,0 +1,10 @@
+https://code.djangoproject.com/wiki/DjangoResources
+
+http://elweb.co/33-projects-that-make-developing-django-apps-awesome/
+
+http://django-china.cn/
+
+https://www.zybuluo.com/xuemy268/note/63743
+
+追梦网
+http://www.36kr.com/p/159284.html

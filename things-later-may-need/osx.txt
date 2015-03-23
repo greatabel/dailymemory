@@ -1,5 +1,5 @@
 osx显示桌面:command + F3
-
+截图  Cmd+Shift+4
 删除光标后快捷键：Fn＋del
 osx同类型窗口：command＋｀
 Read more : http://www.ehow.com/how_8565661_delete-after-cursor-macbook.html
