@@ -116,6 +116,7 @@ redis-py – python client for redis安装在ubuntu14是：sudo pip install redi
 http://www.guguncube.com/2663/redis-installation-and-simple-test-using-redis-py-in-ubuntu
 
 修复突然wifi不停弹提示框：手动添加psk＝密码 这一行
+###开始
 [connection]
 id=greatabel
 uuid=d72dee98-d834-49da-bdc0-10fe9475a25e
@@ -137,5 +138,9 @@ method=auto
 
 [ipv6]
 method=auto
+
+###结束
+
+
 
 

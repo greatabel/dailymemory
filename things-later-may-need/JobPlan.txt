@@ -8,3 +8,10 @@ https://www.zybuluo.com/xuemy268/note/63743
 
 追梦网
 http://www.36kr.com/p/159284.html
+
+docker部署
+http://www.centurylinklabs.com/top-10-open-source-docker-developer-tools/
+http://rogueleaderr.com/post/65157477648/the-idiomatic-guide-to-deploying-django-in
+http://handlebarcreative.tumblr.com/post/104881545637/deploying-django-applications-in-docker
+http://ionicframework.com/blog/docker-hot-code-deploys/
+http://davidmburke.com/2014/09/26/docker-in-dev-and-in-production-a-complete-and-diy-guide/
