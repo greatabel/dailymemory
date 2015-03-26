@@ -27,3 +27,6 @@ gevent, pymzq, zerorpc, fabric, tornado, etc
 http://www.mr-wu.cn/aliyun-ecs-ubuntu/
 http://blog.csdn.net/minimicall/article/details/40108305
 
+deluser newuser 
+https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps
+
