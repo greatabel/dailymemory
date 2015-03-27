@@ -3,5 +3,10 @@ http://www.tocker.ca/2014/04/21/installing-mysql-5-6-on-ubuntu-14-04-trusty-tahr
 create database thepower;
 GRANT ALL PRIVILEGES ON thepower.* TO thepower_root@"%" IDENTIFIED BY "abel1024"
 
+sudo /etc/init.d/mysql restart
+sudo /etc/init.d/mysql start
+sudo /etc/init.d/mysql stop
+
+
 sudo chmod 777 /home/abel/github/dailywork/
 sudo chmod 777 -R .git/objects
