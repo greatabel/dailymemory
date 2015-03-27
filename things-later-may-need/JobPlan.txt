@@ -7,6 +7,10 @@ http://django-china.cn/
 
 https://www.zybuluo.com/xuemy268/note/63743
 
+http://blog.mathieu-leplatre.info/deploy-django-projects-using-git-push.html
+
+pycharm
+http://www.cloudanna.com/2015/03/jetbrains-pycharm-professional-405.html
 追梦网
 http://www.36kr.com/p/159284.html
 
