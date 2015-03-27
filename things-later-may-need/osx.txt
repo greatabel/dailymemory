@@ -32,3 +32,6 @@ Pages格式刷：opt+cmd+c, opt+cmd+v
 
 重建移动硬盘索引
 http://www.cnblogs.com/yaohuil/p/3237016.html
+
+任务管理器一样的：
+Activity Monitor
