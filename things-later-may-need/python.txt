@@ -22,8 +22,10 @@ http://stackoverflow.com/questions/287871/print-in-terminal-with-colors-using-py
 http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html
 http://www.jeffkit.info/2011/08/1012/
 
+
 import gunicorn
 print gunicorn.__version__ # Prints version
 
 import haystack
 print haystack.__version__ 
+http://stackoverflow.com/questions/13145483/how-to-check-the-version-of-a-installed-application-in-django-in-running-time
