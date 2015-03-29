@@ -9,6 +9,17 @@ https://www.zybuluo.com/xuemy268/note/63743
 
 http://blog.mathieu-leplatre.info/deploy-django-projects-using-git-push.html
 
+分布式多台：
+http://stackoverflow.com/questions/16109805/how-to-allow-nginx-to-buffer-for-multiple-django-app-servers
+http://lethain.com/overview-of-single-vs-multi-server-architecture/
+http://serverfault.com/questions/138975/how-can-i-deploy-a-django-application-to-multiple-servers-efficiently
+http://www.weiguda.com/blog/41/
+http://tech.marksblogg.com/load-balancing-django.html
+http://segmentfault.com/q/1010000000716182
+阿里云负载均衡
+http://www.cnhejia.cn/
+http://www.91aliyun.com/aliyun_server/aliyun_server_jy/the_settings_guide_aliyun_server_slb/
+
 pycharm
 http://www.cloudanna.com/2015/03/jetbrains-pycharm-professional-405.html
 追梦网
