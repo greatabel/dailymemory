@@ -11,6 +11,7 @@ quora上非常全的deep learning索引
 https://www.evernote.com/shard/s433/sh/52b77d5f-a2cf-46f5-9b4c-68620f1682be/73527274007c5fa123cd6cc0d8bb10df
 
 Deep learning Reading List
+
 http://jmozah.github.io/links/
 
 http://machinelearningmastery.com/how-to-get-better-at-machine-learning/
@@ -62,3 +63,4 @@ http://cs224d.stanford.edu/
 http://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-data-science-python/?__scoop_post=7bc9aee0-c700-11e4-d1e7-001018304b75&__scoop_topic=1906679&utm_content=buffera19fc&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
 
 http://benanne.github.io/2015/03/17/plankton.html
+
