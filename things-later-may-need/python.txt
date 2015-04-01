@@ -33,3 +33,8 @@ http://stackoverflow.com/questions/13145483/how-to-check-the-version-of-a-instal
 
 mac:sudo lsof -i tcp:8000 然后 then kill the process ids that show up
 http://stackoverflow.com/questions/880239/how-to-clear-the-port-when-restarting-django-runserver
+
+homebrew 安装的postgreSQL  启动和关闭
+http://stackoverflow.com/questions/7975556/how-to-start-postgresql-server-on-mac-os-x
+pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
+pg_ctl -D /usr/local/var/postgres stop -s -m fast
