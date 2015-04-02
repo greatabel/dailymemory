@@ -38,3 +38,6 @@ homebrew 安装的postgreSQL  启动和关闭
 http://stackoverflow.com/questions/7975556/how-to-start-postgresql-server-on-mac-os-x
 pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start
 pg_ctl -D /usr/local/var/postgres stop -s -m fast
+
+python的restful api选择
+http://www.fullstackpython.com/api-creation.html
