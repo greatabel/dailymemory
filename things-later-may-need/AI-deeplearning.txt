@@ -67,3 +67,10 @@ http://benanne.github.io/2015/03/17/plankton.html
 https://timdettmers.wordpress.com/2015/03/26/convolution-deep-learning/
 课程
 http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html
+
+运行aws的caffe
+http://tleyden.github.io/blog/2014/10/25/running-caffe-on-aws-gpu-instance-via-docker/
+http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
+http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html
+http://deeplearningexperience.logdown.com/posts/252597-cs231n-assignment-1-in-a-docker-container
+http://learning.lucktroy.org/deep%20learning/docker/2014/04/25/Docker-DL/
