@@ -26,3 +26,5 @@ https://medium.com/@daretorant/learning-ios-development-in-swift-bb1b6732c09e
 
 xcode删除: Ctrl-A to go to the beginning of the line, then Ctrl-K to delete it
 Delete a line :CTRL+D 
+
+http://www.csdn.net/article/2015-01-29/2823759-a-list-of-ios-swift-demo-apps
