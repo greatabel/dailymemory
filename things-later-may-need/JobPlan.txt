@@ -45,3 +45,7 @@ http://blog.csdn.net/minimicall/article/details/40108305
 deluser newuser 
 https://www.digitalocean.com/community/tutorials/how-to-add-and-delete-users-on-an-ubuntu-14-04-vps
 
+网盘被墙
+69.147.76.173 www.flickr.com
+134.170.108.154 onedrive.live.com
+
