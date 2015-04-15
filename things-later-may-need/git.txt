@@ -12,6 +12,7 @@ for private repos, or to have push access on your repository, you can clone this
 $ git clone https://username@github.com/username/project.git
 https://github.com/blog/642-smart-http-support
 
+
 git的https被间歇墙了，哎，不行得重回ssh
 http://www.wangp.org/wordpress/?p=173
 
