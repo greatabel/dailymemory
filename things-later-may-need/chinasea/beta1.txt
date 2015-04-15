@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/6310787/how-to-set-value-inside-div-in-js
+http://stackoverflow.com/questions/4439349/html-block-stored-as-var-javascript
