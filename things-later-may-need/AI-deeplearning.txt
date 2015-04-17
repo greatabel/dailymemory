@@ -74,3 +74,5 @@ http://www.pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nole
 http://techblog.netflix.com/2014/02/distributed-neural-networks-with-gpus.html
 http://deeplearningexperience.logdown.com/posts/252597-cs231n-assignment-1-in-a-docker-container
 http://learning.lucktroy.org/deep%20learning/docker/2014/04/25/Docker-DL/
+
+http://markus.com/install-theano-on-aws/
