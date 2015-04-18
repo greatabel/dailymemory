@@ -6,3 +6,8 @@ https://www.packtpub.com/books/content/building-iphone-app-using-swift-part-1
 http://www.boutell.com/newfaq/creating/scriptpass.html
 http://stackoverflow.com/questions/13952770/how-do-i-send-data-between-2-html-pages-using-javascript
 http://toddmotto.com/storing-data-in-the-browser-with-the-html5-local-storage-api/
+
+carousel 幻灯片
+http://www.jqueryscript.net/slider/Full-Width-Responsive-Carousel-with-jQuery-Bootstrap.html
+
+http://lazcreative.com/blog/how-to/how-to-adding-swipe-support-to-bootstraps-carousel/
