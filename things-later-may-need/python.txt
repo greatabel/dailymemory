@@ -41,3 +41,7 @@ pg_ctl -D /usr/local/var/postgres stop -s -m fast
 
 python的restful api选择
 http://www.fullstackpython.com/api-creation.html
+
+http://deeplearning.net/software/theano/install.html
+pip install Theano
+pip install nose
