@@ -11,3 +11,7 @@ carousel 幻灯片
 http://www.jqueryscript.net/slider/Full-Width-Responsive-Carousel-with-jQuery-Bootstrap.html
 
 http://lazcreative.com/blog/how-to/how-to-adding-swipe-support-to-bootstraps-carousel/
+
+https://dipinkrishna.com/blog/2014/07/login-signup-screen-tutorial-xcode-6-swift-ios-8-json/
+http://blog.revivalx.com/2014/12/11/swift-tutorial-a-simple-ios-app/
+http://ios-blog.co.uk/tutorials/swift-create-a-login-app-with-parse-com-pfuser-keychain-locksmith/
