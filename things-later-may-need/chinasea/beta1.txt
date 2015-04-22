@@ -17,3 +17,9 @@ http://blog.revivalx.com/2014/12/11/swift-tutorial-a-simple-ios-app/
 http://ios-blog.co.uk/tutorials/swift-create-a-login-app-with-parse-com-pfuser-keychain-locksmith/
 swift 中文博客
 http://segmentfault.com/u/johnlui
+
+js单纯现实更多
+http://stackoverflow.com/questions/26899413/load-more-item-js-is-not-working
+http://jsfiddle.net/cse_tushar/6FzSb/
+iscoll下拉刷新
+http://www.wglong.com/main/artical!details?id=9
