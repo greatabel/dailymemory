@@ -23,3 +23,7 @@ http://stackoverflow.com/questions/26899413/load-more-item-js-is-not-working
 http://jsfiddle.net/cse_tushar/6FzSb/
 iscoll下拉刷新
 http://www.wglong.com/main/artical!details?id=9
+
+图标和启动页
+http://blog.it985.com/8048.html
+http://blog.shiqichan.com/Launch-Screen-in-iOS-7-and-8/
