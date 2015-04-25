@@ -27,3 +27,6 @@ http://www.wglong.com/main/artical!details?id=9
 图标和启动页
 http://blog.it985.com/8048.html
 http://blog.shiqichan.com/Launch-Screen-in-iOS-7-and-8/
+
+testflight
+http://www.cocoachina.com/ios/20141022/10009.html
