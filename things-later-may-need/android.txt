@@ -8,3 +8,5 @@ http://www.cnblogs.com/sonyi/p/4154797.html
 新的osx10.10后要调用： ./adb
 ./adb devices
 ./adb -s emulator-5556 version
+
+http://tleyden.github.io/blog/2013/11/22/android-studio-plus-genymotion-emulator/
