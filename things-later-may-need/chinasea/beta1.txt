@@ -1,4 +1,14 @@
-http://stackoverflow.com/questions/6310787/how-to-set-value-inside-div-in-js
+多tabs
+http://makeapppie.com/2014/09/09/swift-swift-using-tab-bar-controllers-in-swift/
+webview
+http://www.ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift
+
+http://www.imleon.cn/bootstrap-design-media-list.html
+切屏切一半
+http://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift
+
+
+ckoverflow.com/questions/6310787/how-to-set-value-inside-div-in-js
 http://stackoverflow.com/questions/4439349/html-block-stored-as-var-javascript
 ios app锁屏
 https://www.packtpub.com/books/content/building-iphone-app-using-swift-part-1

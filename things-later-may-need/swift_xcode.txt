@@ -29,11 +29,3 @@ Delete a line :CTRL+D
 
 http://www.csdn.net/article/2015-01-29/2823759-a-list-of-ios-swift-demo-apps
 
-多tabs
-http://makeapppie.com/2014/09/09/swift-swift-using-tab-bar-controllers-in-swift/
-webview
-http://www.ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift
-
-http://www.imleon.cn/bootstrap-design-media-list.html
-切屏切一半
-http://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift
