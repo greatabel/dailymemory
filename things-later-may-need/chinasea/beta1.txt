@@ -22,6 +22,7 @@ http://www.jqueryscript.net/slider/Full-Width-Responsive-Carousel-with-jQuery-Bo
 
 http://lazcreative.com/blog/how-to/how-to-adding-swipe-support-to-bootstraps-carousel/
 
+登录
 https://dipinkrishna.com/blog/2014/07/login-signup-screen-tutorial-xcode-6-swift-ios-8-json/
 http://blog.revivalx.com/2014/12/11/swift-tutorial-a-simple-ios-app/
 http://ios-blog.co.uk/tutorials/swift-create-a-login-app-with-parse-com-pfuser-keychain-locksmith/
@@ -40,3 +41,9 @@ http://blog.shiqichan.com/Launch-Screen-in-iOS-7-and-8/
 
 testflight
 http://www.cocoachina.com/ios/20141022/10009.html
+
+ios模拟器慢动作
+http://blog.csdn.net/jaywon/article/details/8898840
+
+swift 网络请求回调
+http://stackoverflow.com/questions/25203556/returning-data-from-async-call-in-swift-function
