@@ -22,7 +22,7 @@ http://www.jqueryscript.net/slider/Full-Width-Responsive-Carousel-with-jQuery-Bo
 
 http://lazcreative.com/blog/how-to/how-to-adding-swipe-support-to-bootstraps-carousel/
 
-登录
+登录 important例子
 https://dipinkrishna.com/blog/2014/07/login-signup-screen-tutorial-xcode-6-swift-ios-8-json/
 http://blog.revivalx.com/2014/12/11/swift-tutorial-a-simple-ios-app/
 http://ios-blog.co.uk/tutorials/swift-create-a-login-app-with-parse-com-pfuser-keychain-locksmith/
@@ -47,3 +47,8 @@ http://blog.csdn.net/jaywon/article/details/8898840
 
 swift 网络请求回调
 http://stackoverflow.com/questions/25203556/returning-data-from-async-call-in-swift-function
+
+swiftjson 可work例子
+http://www.binpress.com/tutorial/swiftyjson-how-to-handle-json-in-swift/111
+swift 网络请求可以work
+http://www.ioscreator.com/tutorials/json-parsing-tutorial-ios8-swift
