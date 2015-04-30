@@ -52,3 +52,9 @@ swiftjson 可work例子
 http://www.binpress.com/tutorial/swiftyjson-how-to-handle-json-in-swift/111
 swift 网络请求可以work
 http://www.ioscreator.com/tutorials/json-parsing-tutorial-ios8-swift
+
+webview返回按钮
+http://rshankar.com/swift-webview-demo/
+
+swfit 定义全局
+http://stackoverflow.com/questions/26195262/swift-how-to-create-a-global-variable
