@@ -17,6 +17,9 @@ from termcolor import colored
 print( colored('hello', 'red'), colored('world', 'green'))
 http://stackoverflow.com/questions/287871/print-in-terminal-with-colors-using-python
 
+wrapper 在osx上设置
+http://stackoverflow.com/questions/12232421/virtualenvwrapper-commands-arent-working
+
 进入是：workon env1   退出是：deactivate 
 删除是rmvirtualenv
 http://virtualenvwrapper.readthedocs.org/en/latest/command_ref.html
