@@ -58,3 +58,6 @@ http://rshankar.com/swift-webview-demo/
 
 swfit 定义全局
 http://stackoverflow.com/questions/26195262/swift-how-to-create-a-global-variable
+
+modal的不好加导航 ，我最后自己加了个按钮
+http://stackoverflow.com/questions/15689261/modal-segue-navigation-bar-dissapears
