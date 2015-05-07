@@ -58,3 +58,17 @@ http://rshankar.com/swift-webview-demo/
 
 swfit 定义全局
 http://stackoverflow.com/questions/26195262/swift-how-to-create-a-global-variable
+
+设置button title
+http://stackoverflow.com/questions/24102191/make-a-uibutton-programatically-in-swift
+
+分享按钮
+https://github.com/ioscreator/ioscreator/tree/master/IOS8SwiftActivityViewControllerTutorial
+http://www.ioscreator.com/tutorials/activity-view-controller-tutorial-ios8-swift
+http://www.3gput.com/portal.php?mod=view&aid=46
+
+聊天小例子
+http://www.cocoachina.com/bbs/read.php?tid-227000.html
+
+swfit 经验分享
+http://www.cocoachina.com/swift/20150129/11041.html
