@@ -83,6 +83,25 @@ http://www.cocoachina.com/bbs/read.php?tid-227000.html
 swfit 经验分享
 http://www.cocoachina.com/swift/20150129/11041.html
 
+swift工程桥接objective-c :需要注意的是，要确保文件路径正确，可能需要写成：./项目名/HelloWorld-Brigding-Header.h 这样的形式
+http://nblyj.blog.51cto.com/223630/1604115
 
+AppDelegate 的的launchOptions
+http://stackoverflow.com/questions/26641127/how-to-handle-launchoptions-nsobject-anyobject-in-swift
 
+推送
+http://www.cnblogs.com/maple023/p/4277505.html
+http://www.devstore.cn/activity/pushWorldCup.html
 
+http://yuankeqiang.lofter.com/post/8de51_68cc9e1
+
+swift版本remote notification远程推送通知实现
+http://www.arkulo.com/2015/01/27/iospush/
+https://www.topcoder.com/blog/notifications-in-ios-8-using-swift/
+
+AVOSPhotoWall Swift版本
+https://github.com/leancloud/leancloud-demo/tree/master/iOS/AVOSPhotoWall-Swift
+信鸽
+http://yuankeqiang.lofter.com/post/8de51_68cc9e1
+Bmob推送
+http://docs.bmob.cn/iospush/index.html?menukey=otherdoc&key=iospush
