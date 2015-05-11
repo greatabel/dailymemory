@@ -36,3 +36,14 @@ http://stackoverflow.com/questions/2432764/change-the-uri-url-for-a-remote-git-r
 
 Git Submodule
 http://www.kafeitu.me/git/2012/03/27/git-submodule.html
+
+删除已经被git缓存的文件 Can't ignore UserInterfaceState.xcuserstate
+http://stackoverflow.com/questions/6564257/cant-ignore-userinterfacestate-xcuserstate
+
+删除本地分支 git branch -D 分支名字
+
+查看当前分支
+"git branch" should show all the local branches of your repo. The starred branch is your current branch.
+
+Git分支管理策略
+http://www.ruanyifeng.com/blog/2012/07/git.html
