@@ -6,7 +6,7 @@ http://www.ioscreator.com/tutorials/webview-tutorial-in-ios8-with-swift
 http://www.imleon.cn/bootstrap-design-media-list.html
 切屏切一半
 http://www.raywenderlich.com/78568/create-slide-out-navigation-panel-swift
-
+http://blog.coding.net/blog/Creating-a-Sidebar-Menu-Using-SWRevealViewController-in-Swift
 
 ckoverflow.com/questions/6310787/how-to-set-value-inside-div-in-js
 http://stackoverflow.com/questions/4439349/html-block-stored-as-var-javascript
@@ -105,3 +105,6 @@ https://github.com/leancloud/leancloud-demo/tree/master/iOS/AVOSPhotoWall-Swift
 http://yuankeqiang.lofter.com/post/8de51_68cc9e1
 Bmob推送
 http://docs.bmob.cn/iospush/index.html?menukey=otherdoc&key=iospush
+
+国外支持swift的第三方推送
+https://pushbots.com/developer/docs/ios
