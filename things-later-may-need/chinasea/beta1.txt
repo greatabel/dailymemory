@@ -111,3 +111,6 @@ https://pushbots.com/developer/docs/ios
 
 地图
 http://www.raywenderlich.com/30001/overlay-images-and-overlay-views-with-mapkit-tutorial
+
+动态删除tabitem
+http://stackoverflow.com/questions/28384321/remove-tabbar-item-in-swift
