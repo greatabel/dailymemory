@@ -117,3 +117,10 @@ http://stackoverflow.com/questions/28384321/remove-tabbar-item-in-swift
 
 xmpp for ios 
 http://code4app.com/ios/%E4%BB%BF%E5%BE%AE%E4%BF%A1-%E5%AE%A2%E6%88%B7%E7%AB%AF-%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%AB%AF-%E3%80%90%E7%AC%AC%E5%9B%9B%E6%9C%9F%E6%9B%B4%E6%96%B0%E3%80%91/5206fc076803faed58000000
+
+xcode6没有prefix.pch预编译文件解决办法
+http://www.cnblogs.com/lacklock/p/3984965.html
+
+UIWebView加载页面中js如何调用原生iOS应用中方法
+http://www.zhihu.com/question/21277439 
+https://github.com/marcuswestin/WebViewJavascriptBridge
