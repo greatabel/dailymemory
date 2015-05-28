@@ -124,3 +124,11 @@ http://www.cnblogs.com/lacklock/p/3984965.html
 UIWebView加载页面中js如何调用原生iOS应用中方法
 http://www.zhihu.com/question/21277439 
 https://github.com/marcuswestin/WebViewJavascriptBridge
+
+小红点
+http://www.cocoachina.com/bbs/read.php?tid=294947
+http://blog.csdn.net/rainlesvio/article/details/39478763
+objective-c 调webview
+http://www.android-ios-tutorials.com/ios/ios-uiwebview-example/
+定制导航栏
+http://ios.9tech.cn/news/2013/1104/38423.html
