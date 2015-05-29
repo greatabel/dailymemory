@@ -49,5 +49,5 @@ http://deeplearning.net/software/theano/install.html
 pip install Theano
 pip install nose
 
-调优
+调优python
 https://www.airpair.com/python/posts/optimizing-python-code

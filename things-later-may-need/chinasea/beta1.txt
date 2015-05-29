@@ -132,3 +132,6 @@ objective-c 调webview
 http://www.android-ios-tutorials.com/ios/ios-uiwebview-example/
 定制导航栏
 http://ios.9tech.cn/news/2013/1104/38423.html
+
+TabBarItem更换选中与未选中图标，禁止系统自动生成灰色图标与被选中效果
+http://my.oschina.net/are1OfBlog/blog/391958
