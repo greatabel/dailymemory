@@ -48,3 +48,6 @@ http://www.fullstackpython.com/api-creation.html
 http://deeplearning.net/software/theano/install.html
 pip install Theano
 pip install nose
+
+调优
+https://www.airpair.com/python/posts/optimizing-python-code
