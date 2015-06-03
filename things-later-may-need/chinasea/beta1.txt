@@ -138,3 +138,9 @@ http://my.oschina.net/are1OfBlog/blog/391958
 
 html导航
 http://www.webdm.cn/webcode/0570af31-2142-4ceb-af2b-a4b7c08d9a88.html
+
+转iOS第一个项目总结
+http://www.cocoachina.com/ios/20150417/11595.html
+
+javascript 让一个弹出框过几秒消失
+http://bytes.com/topic/javascript/answers/548966-make-div-disappear-after-few-seconds
