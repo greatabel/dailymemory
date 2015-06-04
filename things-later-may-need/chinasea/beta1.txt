@@ -144,3 +144,6 @@ http://www.cocoachina.com/ios/20150417/11595.html
 
 javascript 让一个弹出框过几秒消失
 http://bytes.com/topic/javascript/answers/548966-make-div-disappear-after-few-seconds
+
+定制化导航栏样式
+http://stackoverflow.com/questions/5933800/how-to-add-custom-image-in-navigation-bar-button-item

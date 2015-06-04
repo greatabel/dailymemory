@@ -51,3 +51,6 @@ pip install nose
 
 调优python
 https://www.airpair.com/python/posts/optimizing-python-code
+
+Python的优雅技巧
+http://segmentfault.com/a/1190000002869103
