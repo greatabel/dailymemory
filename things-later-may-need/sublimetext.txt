@@ -3,6 +3,8 @@ sublime的快捷键
 ⌃ + ⌘ + G	Select all occurrences of current selection
 http://sublime-text-unofficial-documentation.readthedocs.org/en/latest/reference/keyboard_shortcuts_osx.html
 
+ctrl+k ctrl+b or cmd+k cmd+b (MAC) to enable side bar 显示导航边栏
+
 sublime 跳到指定行数或者符号：
 Triggered with ⌘P, it is possible to:
 Type part of a file name to open it.
@@ -10,4 +12,9 @@ Type @ to jump to symbols, # to search within the file, and : to go to a line nu
 
 sublime insert mode 在osx的切换
 http://superuser.com/questions/571280/sublime-text-2-disable-cursor-position-overwriting-characters-like-vim-replace
+
+添加terminal 中subl
+http://stackoverflow.com/questions/16199581/opening-sublime-text-on-command-line-as-subl-on-mac-os
+
+
 

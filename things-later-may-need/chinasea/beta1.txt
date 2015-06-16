@@ -149,3 +149,6 @@ http://bytes.com/topic/javascript/answers/548966-make-div-disappear-after-few-se
 http://stackoverflow.com/questions/5933800/how-to-add-custom-image-in-navigation-bar-button-item
 添加搜索栏 到弹出层
 http://w3facility.org/question/ios7-when-uisearchbar-added-in-uinavigationbar-not-showing-cancel-button/
+
+找到钥匙串
+http://stackoverflow.com/questions/11067818/how-do-you-reset-the-stored-credentials-in-git-credential-osxkeychain
