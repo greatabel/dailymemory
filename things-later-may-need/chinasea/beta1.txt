@@ -152,3 +152,8 @@ http://w3facility.org/question/ios7-when-uisearchbar-added-in-uinavigationbar-no
 
 找到钥匙串
 http://stackoverflow.com/questions/11067818/how-do-you-reset-the-stored-credentials-in-git-credential-osxkeychain
+
+nginx osx安装
+http://learnaholic.me/2012/10/10/installing-nginx-in-mac-os-x-mountain-lion/
+nginx gunicorn 在osx 使用
+http://cheng.logdown.com/posts/2015/01/29/deploy-django-nginx-gunicorn-on-mac-osx-part-2
