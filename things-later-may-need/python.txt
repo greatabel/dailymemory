@@ -55,6 +55,8 @@ https://www.airpair.com/python/posts/optimizing-python-code
 Python的优雅技巧
 http://segmentfault.com/a/1190000002869103
 
-packages in a certain virtualenv
+查看 packages in a certain virtualenv
 workon envname
 pip freeze
+
+更新pip中某个包：pip install Django -U
