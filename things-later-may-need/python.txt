@@ -60,3 +60,6 @@ workon envname
 pip freeze
 
 更新pip中某个包：pip install Django -U
+
+log
+http://www.iteye.com/news/30702

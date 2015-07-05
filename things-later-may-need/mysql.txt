@@ -13,3 +13,10 @@ sudo chmod 777 -R .git/objects
 
 重启mysql 允许远程
 http://blog.csdn.net/liuyong0818/article/details/5693328
+
+osx 上安装mysql
+http://blog.joefallon.net/2013/10/install-mysql-on-mac-osx-using-homebrew/
+brew install mysql
+启动 mysql.server restart
+关闭 mysql.server stop
+登陆 mysql -u root  有密码登录 mysql -u root -p
