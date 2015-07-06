@@ -20,3 +20,8 @@ http://stackoverflow.com/questions/16199581/opening-sublime-text-on-command-line
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
 
+sublime text 已经安装的插件查看：ctrl+shift+p list packages
+http://www.zhugexiaojue.com/note/updatedrop-208.html
+
+sublime jedi 是我装的sublimetext自动提示
+
