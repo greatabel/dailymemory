@@ -29,3 +29,6 @@ Delete a line :CTRL+D
 
 http://www.csdn.net/article/2015-01-29/2823759-a-list-of-ios-swift-demo-apps
 
+闹钟
+http://jamesonquave.com/blog/local-notifications-in-ios-8-with-swift-part-1/
+
