@@ -43,3 +43,5 @@ http://stackoverflow.com/questions/15709129/installing-haskell-packages-on-mac
 
 redis on osx
 http://www.richardsumilang.com/blog/2014/04/04/how-to-install-redis-on-os-x/
+
+brew install siege
