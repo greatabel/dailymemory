@@ -47,3 +47,7 @@ http://www.richardsumilang.com/blog/2014/04/04/how-to-install-redis-on-os-x/
 brew install siege
 
 查看80端口：sudo lsof -i :80
+
+terminal在文件夹上打开
+System Preferences > Keyboard > Shortcuts > Services
+Enable New Terminal at Folder. 
