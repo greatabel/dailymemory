@@ -1,0 +1,10 @@
+windows 共享目录访问
+http://jiating.blog.51cto.com/4073477/737291
+
+brew 自己的安装
+http://coolestguidesontheplanet.com/installing-homebrew-os-x-yosemite-10-10-package-manager-unix-apps/
+
+io.js nvm安装 
+http://stackoverflow.com/questions/28017374/what-is-the-suggested-way-to-install-brew-node-js-io-js-nvm-npm-on-os-x
+如果nvm不好装，就用homebrew:
+http://blog.modulus.io/install-nodejs-and-iojs-together-safely

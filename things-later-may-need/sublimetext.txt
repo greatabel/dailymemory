@@ -25,3 +25,8 @@ http://www.zhugexiaojue.com/note/updatedrop-208.html
 
 sublime jedi 是我装的sublimetext自动提示
 
+package control 安装
+https://packagecontrol.io/installation
+
+javascript  插件
+http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/
