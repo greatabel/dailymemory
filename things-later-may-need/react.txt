@@ -1,0 +1,4 @@
+demo
+http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript
+http://www.appcoda.com/react-native-introduction/
+http://www.ibm.com/developerworks/library/mo-bluemix-react-native-ios8/
