@@ -16,6 +16,7 @@ http://superuser.com/questions/571280/sublime-text-2-disable-cursor-position-ove
 添加terminal 中subl
 http://stackoverflow.com/questions/16199581/opening-sublime-text-on-command-line-as-subl-on-mac-os
 
+python 统一tab为4个空格：
 设置User的Perference-default:
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
