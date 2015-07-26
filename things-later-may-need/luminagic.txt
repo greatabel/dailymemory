@@ -15,3 +15,6 @@ http://www.raywenderlich.com/85900/arduino-tutorial-integrating-bluetooth-le-ios
 http://www.3pillarglobal.com/insights/swiftly-speaking-ibeacon-app-development-swift-bluetooth-le
 http://code.tutsplus.com/tutorials/ios-7-sdk-core-bluetooth-practical-lesson--mobile-20741
 http://www.raywenderlich.com/52080/introduction-core-bluetooth-building-heart-rate-monitor
+
+
+https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2#/

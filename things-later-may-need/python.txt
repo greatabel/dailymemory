@@ -70,3 +70,10 @@ http://www.iteye.com/news/30702
 
 pip install supervisor
 
+使用调试 https://pypi.python.org/pypi/PdbSublimeTextSupport
+import pdb
+pdb.set_trace()
+from PdbSublimeTextSupport import preloop, precmd
+pdb.Pdb.preloop = preloop
+pdb.Pdb.precmd = precmd
+
