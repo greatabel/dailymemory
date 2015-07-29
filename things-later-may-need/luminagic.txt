@@ -15,7 +15,8 @@ http://www.raywenderlich.com/85900/arduino-tutorial-integrating-bluetooth-le-ios
 http://www.3pillarglobal.com/insights/swiftly-speaking-ibeacon-app-development-swift-bluetooth-le
 http://code.tutsplus.com/tutorials/ios-7-sdk-core-bluetooth-practical-lesson--mobile-20741
 http://www.raywenderlich.com/52080/introduction-core-bluetooth-building-heart-rate-monitor
-http://blog.shiqichan.com/ios-central-using-ble/
+iOS使用CoreBluetooth框架实现BLE中央设备 http://blog.shiqichan.com/ios-central-using-ble/
+IOS BLE4.0蓝牙和外设连接和收发数据的流程 http://m.blog.csdn.net/blog/liang_ke_ke/39251951
 
 https://www.codementor.io/spark/tutorial/building-a-web-service-with-apache-spark-flask-example-app-part2#/
 
