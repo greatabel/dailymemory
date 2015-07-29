@@ -77,3 +77,14 @@ from PdbSublimeTextSupport import preloop, precmd
 pdb.Pdb.preloop = preloop
 pdb.Pdb.precmd = precmd
 
+pdb：http://www.blogjava.net/Skynet/archive/2009/04/07/264259.html
+>运行
+    (Pdb)n #单步运行
+    (Pdb)s #细点运行 也就是会下到，方法
+    (Pdb)c #跳到下个断点
+>查看
+    (Pdb)p param #查看当前 变量值
+    (Pdb)l #查看运行到某处代码
+    (Pdb)a #查看全部栈内变量
+
+
