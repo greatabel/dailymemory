@@ -32,3 +32,7 @@ http://www.csdn.net/article/2015-01-29/2823759-a-list-of-ios-swift-demo-apps
 闹钟
 http://jamesonquave.com/blog/local-notifications-in-ios-8-with-swift-part-1/
 
+swift  数据结构
+http://waynewbishop.com/swift
+http://idlelife.org/archives/896
+http://www.raywenderlich.com/105437/implement-pathfinding-swift
