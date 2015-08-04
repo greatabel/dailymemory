@@ -34,3 +34,5 @@ http://apple.stackexchange.com/questions/79312/how-to-install-stunnel-on-mountai
 
 OS X currently doesn't support peripheral mode -- only central. iOS, however, can act as either a peripheral or a central
 http://stackoverflow.com/questions/15431123/set-mac-mini-as-a-peripheral-device-using-core-bluetooth-framework
+
+http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2
