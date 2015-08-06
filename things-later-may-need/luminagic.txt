@@ -40,3 +40,6 @@ http://www.raywenderlich.com/79764/custom-subscripting-swift-tutorial
 
 The model used to open the store is incompatible with the one used to create the store
 http://stackoverflow.com/questions/8881453/the-model-used-to-open-the-store-is-incompatible-with-the-one-used-to-create-the
+
+打不开别人的xcode工程的时候
+http://stackoverflow.com/questions/10373016/command-xcode-app-contents-developer-toolchains-xcodedefault-xctoolchain-usr-bi

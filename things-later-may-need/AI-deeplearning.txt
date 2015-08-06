@@ -78,3 +78,5 @@ http://learning.lucktroy.org/deep%20learning/docker/2014/04/25/Docker-DL/
 http://markus.com/install-theano-on-aws/
 
 https://www.whetlab.com/technology/
+
+http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/
