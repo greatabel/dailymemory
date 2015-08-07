@@ -43,3 +43,8 @@ http://stackoverflow.com/questions/8881453/the-model-used-to-open-the-store-is-i
 
 打不开别人的xcode工程的时候
 http://stackoverflow.com/questions/10373016/command-xcode-app-contents-developer-toolchains-xcodedefault-xctoolchain-usr-bi
+
+https://www.bignerdranch.com/blog/swift-2-error-handling/
+
+mac 比较工具还是Beyond Compare
+http://apple.stackexchange.com/questions/10099/what-file-comparison-tool-can-i-use-under-os-x
