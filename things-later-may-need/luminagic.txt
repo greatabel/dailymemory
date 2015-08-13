@@ -48,3 +48,6 @@ https://www.bignerdranch.com/blog/swift-2-error-handling/
 
 mac 比较工具还是Beyond Compare
 http://apple.stackexchange.com/questions/10099/what-file-comparison-tool-can-i-use-under-os-x
+
+swift2 xcode7 beta4 的coredata问题
+http://stackoverflow.com/questions/26613971/coredata-warning-unable-to-load-class-named
