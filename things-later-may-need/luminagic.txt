@@ -51,3 +51,9 @@ http://apple.stackexchange.com/questions/10099/what-file-comparison-tool-can-i-u
 
 swift2 xcode7 beta4 的coredata问题
 http://stackoverflow.com/questions/26613971/coredata-warning-unable-to-load-class-named
+
+anyconnnect 客户端设置
+http://www.getanyconnect.com/tutorial/mac
+
+修改swift2 的编译器，修改cocoapods 调用其他分支：
+http://stackoverflow.com/questions/30804866/cocoapods-build-for-ios-9-swift-2-with-xcode-beta
