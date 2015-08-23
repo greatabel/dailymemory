@@ -57,3 +57,7 @@ http://www.getanyconnect.com/tutorial/mac
 
 修改swift2 的编译器，修改cocoapods 调用其他分支：
 http://stackoverflow.com/questions/30804866/cocoapods-build-for-ios-9-swift-2-with-xcode-beta
+
+Why does pip fail with bad md5 hash for package?
+sudo pip install --no-cache-dir XXX
+http://stackoverflow.com/questions/16025788/why-does-pip-fail-with-bad-md5-hash-for-package
