@@ -36,6 +36,7 @@ OS X currently doesn't support peripheral mode -- only central. iOS, however, ca
 http://stackoverflow.com/questions/15431123/set-mac-mini-as-a-peripheral-device-using-core-bluetooth-framework
 
 http://www.raywenderlich.com/109156/introducing-protocol-oriented-programming-in-swift-2
+
 http://www.raywenderlich.com/79764/custom-subscripting-swift-tutorial
 
 The model used to open the store is incompatible with the one used to create the store
@@ -61,3 +62,13 @@ http://stackoverflow.com/questions/30804866/cocoapods-build-for-ios-9-swift-2-wi
 Why does pip fail with bad md5 hash for package?
 sudo pip install --no-cache-dir XXX
 http://stackoverflow.com/questions/16025788/why-does-pip-fail-with-bad-md5-hash-for-package
+
+跳出2个框
+http://sourcefreeze.com/uialertcontroller-ios-8-using-swift/
+
+tableiview下加东西
+http://stackoverflow.com/questions/31217656/add-button-in-footer-tableview-in-swift
+
+http://stackoverflow.com/questions/17355280/how-to-add-a-border-just-on-the-top-side-of-a-uiview
+
+http://stackoverflow.com/questions/6446279/what-is-the-uicolor-of-the-default-uitableview-separator
