@@ -72,3 +72,11 @@ http://stackoverflow.com/questions/31217656/add-button-in-footer-tableview-in-sw
 http://stackoverflow.com/questions/17355280/how-to-add-a-border-just-on-the-top-side-of-a-uiview
 
 http://stackoverflow.com/questions/6446279/what-is-the-uicolor-of-the-default-uitableview-separator
+
+刷新缓存： sudo killall -HUP mDNSResponder 或者 dscacheutil -flushcache
+http://apple.stackexchange.com/questions/196099/discoveryutil-command-not-found
+
+直接画chart
+http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2
+第三方chart
+https://github.com/i-schuetz/SwiftCharts/tree/swift2.0
