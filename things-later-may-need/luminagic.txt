@@ -81,3 +81,6 @@ http://apple.stackexchange.com/questions/196099/discoveryutil-command-not-found
 http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2
 第三方chart
 https://github.com/i-schuetz/SwiftCharts/tree/swift2.0
+
+http://www.digistarters.com/swift-charting-library-jbchartview/
+http://www.raywenderlich.com/83809/ios-8-today-extension-tutorial
