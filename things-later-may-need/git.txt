@@ -58,3 +58,8 @@ find . -type d -name ".git" \
 && find . -name ".gitmodules"  然后 rm -rf ./.git 之类 
 http://stackoverflow.com/questions/4822321/remove-all-git-files-from-a-directory
 
+http://stackoverflow.com/questions/1143796/remove-a-file-from-a-git-repository-without-deleting-it-from-the-local-filesyste
+git rm --cached mylogfile.log
+For a directory:
+
+git rm --cached -r mydirectory
