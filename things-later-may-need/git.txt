@@ -53,6 +53,7 @@ git rm --cached directory
 git add directory
 http://stackoverflow.com/questions/24472596/git-fatal-pathspec-is-in-submodule
 
+
 find . -type d -name ".git" \
 && find . -name ".gitignore" \
 && find . -name ".gitmodules"  然后 rm -rf ./.git 之类 
