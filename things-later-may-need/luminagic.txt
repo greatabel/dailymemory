@@ -76,7 +76,6 @@ http://stackoverflow.com/questions/6446279/what-is-the-uicolor-of-the-default-ui
 刷新缓存： sudo killall -HUP mDNSResponder 或者 dscacheutil -flushcache
 http://apple.stackexchange.com/questions/196099/discoveryutil-command-not-found
 
-
 直接画chart
 http://www.raywenderlich.com/90693/modern-core-graphics-with-swift-part-2
 第三方chart
