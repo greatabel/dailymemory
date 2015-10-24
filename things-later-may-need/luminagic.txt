@@ -1,6 +1,7 @@
 windows 共享目录访问
 http://jiating.blog.51cto.com/4073477/737291
 
+
 brew 自己的安装
 http://coolestguidesontheplanet.com/installing-homebrew-os-x-yosemite-10-10-package-manager-unix-apps/
 
