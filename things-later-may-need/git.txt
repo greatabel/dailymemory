@@ -67,3 +67,10 @@ git rm --cached -r mydirectory
 
 删除上一个commit： git reset --hard HEAD~1
 http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit
+
+git remote add upstream－随便名字 https://location/of/generic.git
+git pull upstream 
+如果有分支的话：
+git pull CompanyRep develop(分支名)
+
+http://stackoverflow.com/questions/24815952/git-pull-from-another-repository
