@@ -64,3 +64,6 @@ git rm --cached mylogfile.log
 For a directory:
 
 git rm --cached -r mydirectory
+
+删除上一个commit： git reset --hard HEAD~1
+http://stackoverflow.com/questions/927358/how-do-you-undo-the-last-commit
