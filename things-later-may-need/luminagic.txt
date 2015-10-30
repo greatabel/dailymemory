@@ -31,7 +31,6 @@ brew install stunnel
 ps aux|grep stunnel
 http://apple.stackexchange.com/questions/79312/how-to-install-stunnel-on-mountain-lion
 
-
 OS X currently doesn't support peripheral mode -- only central. iOS, however, can act as either a peripheral or a central
 http://stackoverflow.com/questions/15431123/set-mac-mini-as-a-peripheral-device-using-core-bluetooth-framework
 
