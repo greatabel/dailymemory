@@ -95,3 +95,7 @@ http://stackoverflow.com/questions/33077977/cocoa-pods-not-updating-pods-on-el-c
 
 Phabricator简易教程
 http://share.zuijiao.net/?p=22
+
+p2p chat
+http://www.appcoda.com/chat-app-swift-tutorial/
+http://www.appcoda.com/intro-ios-multipeer-connectivity-programming/
