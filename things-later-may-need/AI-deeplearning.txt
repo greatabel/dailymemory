@@ -80,3 +80,5 @@ http://markus.com/install-theano-on-aws/
 https://www.whetlab.com/technology/
 
 http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/
+
+http://www.analyticsvidhya.com/blog/2015/11/free-resources-beginners-deep-learning-neural-network/?utm_content=buffer63960
