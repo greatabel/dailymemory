@@ -92,3 +92,6 @@ http://stackoverflow.com/questions/28614013/passing-an-managedobjectcontext-from
 El Capitan 上装cocopods 
 sudo gem install -n /usr/local/bin cocoapods
 http://stackoverflow.com/questions/33077977/cocoa-pods-not-updating-pods-on-el-capitan
+
+Phabricator简易教程
+http://share.zuijiao.net/?p=22
