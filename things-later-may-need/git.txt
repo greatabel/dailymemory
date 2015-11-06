@@ -74,3 +74,10 @@ git pull upstream
 git pull CompanyRep develop(分支名)
 
 http://stackoverflow.com/questions/24815952/git-pull-from-another-repository
+
+git rm --cached subfolder
+git add subfolder
+git commit -m "Enter message here"
+git push
+FWIW, I also removed the .git folder before doing the git add.
+http://stackoverflow.com/questions/1260748/how-do-i-remove-a-git-submodule
