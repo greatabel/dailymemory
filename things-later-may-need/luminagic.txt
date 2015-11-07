@@ -99,3 +99,9 @@ http://share.zuijiao.net/?p=22
 p2p chat
 http://www.appcoda.com/chat-app-swift-tutorial/
 http://www.appcoda.com/intro-ios-multipeer-connectivity-programming/
+
+brew install git bash-completion
+In ~/.bash_profile,
+if [ -f $(brew --prefix)/etc/bash_completion ]; then
+    . $(brew --prefix)/etc/bash_completion
+fi
