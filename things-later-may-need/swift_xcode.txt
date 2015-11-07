@@ -36,3 +36,5 @@ swift  数据结构
 http://waynewbishop.com/swift
 http://idlelife.org/archives/896
 http://www.raywenderlich.com/105437/implement-pathfinding-swift
+
+pod update 命令 会更新所有的类库，获取最新版本的类库
