@@ -17,12 +17,12 @@ from termcolor import colored
 print( colored('hello', 'red'), colored('world', 'green'))
 http://stackoverflow.com/questions/287871/print-in-terminal-with-colors-using-python
 
-wrapper 在osx上设置:
-    I am on Mac OS X 10.9.2 and for me virtualenvwrapper.sh file was present in
-    /usr/local/bin/virtualenvwrapper.sh
-    So I simply copied this into ~/.profile file:
-    source /usr/local/bin/virtualenvwrapper.sh
+virtualenvwrapper 在osx上设置:
 http://stackoverflow.com/questions/12232421/virtualenvwrapper-commands-arent-working
+在osx 10.11 上避开问题：pip install virtualenvwrapper --ignore-installed six
+
+显示virtualenv下安装的东西: pip freeze
+http://stackoverflow.com/questions/15961926/how-can-i-make-a-list-of-installed-packages-in-a-certain-virtualenv
 
 进入是：workon env1   退出是：deactivate 
 删除是rmvirtualenv
