@@ -110,3 +110,4 @@ fi
 protoc -I=. --cpp_out=. ./measurement.proto 
 
 
+http://stackoverflow.com/questions/18815820/convert-string-to-binary-in-python
