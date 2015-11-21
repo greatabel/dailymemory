@@ -111,3 +111,5 @@ protoc -I=. --cpp_out=. ./measurement.proto
 
 
 http://stackoverflow.com/questions/18815820/convert-string-to-binary-in-python
+
+http://stackoverflow.com/questions/19229574/calling-c-from-objective-c
