@@ -119,3 +119,5 @@ http://stackoverflow.com/questions/25734357/swift-nsmutabledata-append-byte
 http://stackoverflow.com/questions/29236969/splitting-or-chunking-nsdata-on-specific-values-in-swift
 http://stackoverflow.com/questions/26790660/how-to-convert-a-binary-to-decimal-in-swift
 http://stackoverflow.com/questions/28182441/swift-how-to-get-substring-from-start-to-last-index-of-character
+
+http://stackoverflow.com/questions/22778273/how-to-find-the-specific-ble-4-0-peripheral-from-two-devices-with-same-service-u
