@@ -121,3 +121,4 @@ http://stackoverflow.com/questions/26790660/how-to-convert-a-binary-to-decimal-i
 http://stackoverflow.com/questions/28182441/swift-how-to-get-substring-from-start-to-last-index-of-character
 
 http://stackoverflow.com/questions/22778273/how-to-find-the-specific-ble-4-0-peripheral-from-two-devices-with-same-service-u
+http://stackoverflow.com/questions/19988658/how-do-i-set-the-bits-in-a-byte
