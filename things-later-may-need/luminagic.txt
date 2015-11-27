@@ -122,3 +122,5 @@ http://stackoverflow.com/questions/28182441/swift-how-to-get-substring-from-star
 
 http://stackoverflow.com/questions/22778273/how-to-find-the-specific-ble-4-0-peripheral-from-two-devices-with-same-service-u
 http://stackoverflow.com/questions/19988658/how-do-i-set-the-bits-in-a-byte
+
+http://stackoverflow.com/questions/16887493/write-a-binary-integer-or-string-to-a-file-in-python
