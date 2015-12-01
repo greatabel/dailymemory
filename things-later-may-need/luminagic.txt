@@ -124,3 +124,8 @@ http://stackoverflow.com/questions/22778273/how-to-find-the-specific-ble-4-0-per
 http://stackoverflow.com/questions/19988658/how-do-i-set-the-bits-in-a-byte
 
 http://stackoverflow.com/questions/16887493/write-a-binary-integer-or-string-to-a-file-in-python
+
+NSString / NSData / char * conversion between types
+http://www.programmershare.com/3551105/
+
+http://stackoverflow.com/questions/27797665/ios-corebluetooth-state-preservation-and-restoration?rq=1
