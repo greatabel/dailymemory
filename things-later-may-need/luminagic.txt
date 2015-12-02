@@ -129,3 +129,7 @@ NSString / NSData / char * conversion between types
 http://www.programmershare.com/3551105/
 
 http://stackoverflow.com/questions/27797665/ios-corebluetooth-state-preservation-and-restoration?rq=1
+
+background
+http://blog.shiqichan.com/ios-ble-background-central-scanning/
+https://github.com/beijingshi1/BLEBackgroundMode
