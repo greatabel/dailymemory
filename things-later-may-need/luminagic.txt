@@ -133,3 +133,5 @@ http://stackoverflow.com/questions/27797665/ios-corebluetooth-state-preservation
 background
 http://blog.shiqichan.com/ios-ble-background-central-scanning/
 https://github.com/beijingshi1/BLEBackgroundMode
+
+https://developer.apple.com/videos/play/wwdc2014-713/
