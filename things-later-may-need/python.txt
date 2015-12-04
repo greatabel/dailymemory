@@ -88,3 +88,5 @@ pdb：http://www.blogjava.net/Skynet/archive/2009/04/07/264259.html
     (Pdb)a #查看全部栈内变量
 
 https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1
+
+http://python.jobbole.com/83486/
