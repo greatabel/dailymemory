@@ -62,3 +62,5 @@ inhibit_all_warnings!
 pod 'FBSDKCoreKit', :inhibit_warnings => true
 http://stackoverflow.com/questions/13208202/ignore-xcode-warnings-when-using-cocoapods
 ------------------------------------------
+
+spotlight: control + 空格
