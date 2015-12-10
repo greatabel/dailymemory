@@ -137,3 +137,12 @@ https://github.com/beijingshi1/BLEBackgroundMode
 https://developer.apple.com/videos/play/wwdc2014-713/
 
 https://github.com/kharrison/CodeExamples/tree/master/Restorer
+
+reservation:
+http://stackoverflow.com/questions/12718341/ios-6-saving-restoring-app-state-feature
+http://stackoverflow.com/questions/27797665/ios-corebluetooth-state-preservation-and-restoration?rq=1
+related project:
+https://github.com/xuyuanme/ble-swift
+https://github.com/troystribling/BlueCap
+https://github.com/octoblu/gateblu-ios
+https://github.com/MichMich/nRF8001-Swift
