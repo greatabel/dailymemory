@@ -6,4 +6,3 @@ clear;while :;do echo $LINES $COLUMNS $(($RANDOM%$COLUMNS)) $(printf "\xE2\x9D\x
 https://itunes.apple.com/us/podcast/gigaom-structure-show/id682584795?mt=2
 
 http://venturebeat.com/2015/06/22/15-mobile-growth-hacks-that-improve-user-experience/
-
