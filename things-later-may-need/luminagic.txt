@@ -145,3 +145,5 @@ https://github.com/xuyuanme/ble-swift
 https://github.com/troystribling/BlueCap
 https://github.com/octoblu/gateblu-ios
 https://github.com/MichMich/nRF8001-Swift
+
+http://www.appcoda.com/alamofire-beginner-guide/
