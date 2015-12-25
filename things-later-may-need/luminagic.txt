@@ -147,3 +147,5 @@ https://github.com/octoblu/gateblu-ios
 https://github.com/MichMich/nRF8001-Swift
 
 http://www.appcoda.com/alamofire-beginner-guide/
+
+http://stackoverflow.com/questions/24044851/how-do-you-use-string-substringwithrange-or-how-do-ranges-work-in-swift
