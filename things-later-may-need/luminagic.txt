@@ -151,4 +151,5 @@ http://www.appcoda.com/alamofire-beginner-guide/
 http://stackoverflow.com/questions/24044851/how-do-you-use-string-substringwithrange-or-how-do-ranges-work-in-swift
 
 http://stackoverflow.com/questions/27531195/return-multiple-values-from-a-function-in-swift
+
 http://stackoverflow.com/questions/16918826/objective-c-implicit-conversion-loses-integer-precision-nsuinteger-aka-unsig
