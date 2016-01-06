@@ -81,3 +81,5 @@ git commit -m "Enter message here"
 git push
 FWIW, I also removed the .git folder before doing the git add.
 http://stackoverflow.com/questions/1260748/how-do-i-remove-a-git-submodule
+
+https://help.github.com/articles/generating-ssh-keys/
