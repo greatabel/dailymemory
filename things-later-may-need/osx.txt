@@ -52,15 +52,7 @@ terminal在文件夹上打开
 System Preferences > Keyboard > Shortcuts > Services
 Enable New Terminal at Folder. 
 
-------------------------------------------
-platform :ios
-
-# ignore all warnings from all pods
-inhibit_all_warnings!
-
-# ignore warnings from a specific pod
-pod 'FBSDKCoreKit', :inhibit_warnings => true
-http://stackoverflow.com/questions/13208202/ignore-xcode-warnings-when-using-cocoapods
-------------------------------------------
-
 spotlight: control + 空格
+
+terminal 光标前路径变短：
+直接terminal输入 PS1='$' 或者 PS1='\u:\W\$ ' 
