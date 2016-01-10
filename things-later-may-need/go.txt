@@ -3,3 +3,5 @@ mkdir ~/go
 export GOPATH=~/go
 export PATH=$PATH:$GOPATH/bin
 http://stackoverflow.com/questions/20628918/cannot-download-gopath-not-set
+
+http://www.datasciencecentral.com/profiles/blogs/machine-learning-libraries-in-go-language-3
