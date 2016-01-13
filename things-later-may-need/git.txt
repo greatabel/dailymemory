@@ -86,3 +86,7 @@ https://help.github.com/articles/generating-ssh-keys/
 
 http://stackoverflow.com/questions/7297379/how-do-you-rebase-the-current-branchs-changes-on-top-of-changes-being-merged-in
 
+git commit --amend
+http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git
+
+http://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git
