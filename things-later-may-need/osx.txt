@@ -56,3 +56,6 @@ spotlight: control + 空格
 
 terminal 光标前路径变短：
 直接terminal输入 PS1='$' 或者 PS1='\u:\W\$ ' 
+
+sudo nano /private/etc/hosts
+https://www.ihash.eu/2015/09/how-to-edit-hosts-file-in-mac-os-x-10-11-el-capitan/
