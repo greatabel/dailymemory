@@ -59,3 +59,7 @@ terminal 光标前路径变短：
 
 sudo nano /private/etc/hosts
 https://www.ihash.eu/2015/09/how-to-edit-hosts-file-in-mac-os-x-10-11-el-capitan/
+
+
+134.170.108.26 http://onedrive.live.com
+134.170.108.152 http://skyapi.onedrive.live.com
