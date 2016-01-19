@@ -165,3 +165,5 @@ inhibit_all_warnings!
 pod 'FBSDKCoreKit', :inhibit_warnings => true
 http://stackoverflow.com/questions/13208202/ignore-xcode-warnings-when-using-cocoapods
 ------------------------------------------
+
+http://stackoverflow.com/questions/21336643/how-does-one-unit-test-code-that-interacts-with-the-core-bluetooth-apis
