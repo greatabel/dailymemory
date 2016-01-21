@@ -63,3 +63,8 @@ https://www.ihash.eu/2015/09/how-to-edit-hosts-file-in-mac-os-x-10-11-el-capitan
 
 134.170.108.26  http://onedrive.live.com
 134.170.108.152 http://skyapi.onedrive.live.com
+
+pages 给一段问题设置背景
+http://apple.stackexchange.com/questions/116592/how-to-highlight-text-in-yellow-in-pages-5-0
+
+pages的格式刷： opt+cmd+c, opt+cmd+v 
