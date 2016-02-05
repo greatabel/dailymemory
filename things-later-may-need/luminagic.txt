@@ -167,3 +167,7 @@ http://stackoverflow.com/questions/13208202/ignore-xcode-warnings-when-using-coc
 ------------------------------------------
 
 http://stackoverflow.com/questions/21336643/how-does-one-unit-test-code-that-interacts-with-the-core-bluetooth-apis
+
+App引导页
+http://www.jianshu.com/p/024dd2d6e6e6
+https://github.com/IFTTT/RazzleDazzle
