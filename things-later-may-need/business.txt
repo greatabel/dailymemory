@@ -18,3 +18,6 @@ http://www.chinaz.com/website/2014/1031/372612.shtml
 
 Paul Graham 56 篇精彩博客集锦
 http://36kr.com/p/5043113.html
+
+https://hub.docker.com/u/kaixhin/
+http://aws.amazon.com/cn/ec2/pricing/

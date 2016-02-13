@@ -37,8 +37,5 @@ http://aws.amazon.com/cn/training/intro_series/?sc_campaign=training&sc_category
 架构经验
 http://stackshare.io/posts/the-tech-behind-instacarts-grocery-delivery-service
 
-
-
-
 app developers收入
 http://www.marco.org/2015/01/15/overcast-sales-numbers
