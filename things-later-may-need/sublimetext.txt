@@ -32,3 +32,6 @@ https://packagecontrol.io/installation
 
 javascript  插件
 http://scottksmith.com/blog/2014/09/29/3-essential-sublime-text-plugins-for-node-and-javascript-developers/
+
+st3 注册码
+http://jumzler.com/j/products/1409/sublime-text-3-3103-%E6%B3%A8%E5%86%8C%E7%A0%81
