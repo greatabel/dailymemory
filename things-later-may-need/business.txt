@@ -21,3 +21,6 @@ http://36kr.com/p/5043113.html
 
 https://hub.docker.com/u/kaixhin/
 http://aws.amazon.com/cn/ec2/pricing/
+
+python技术栈可以参考的公司
+http://stackshare.io/zapier/scaling-zapier-to-automate-billions-of-tasks?utm_content=stacksharedigest02052016
