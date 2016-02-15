@@ -173,3 +173,6 @@ http://www.jianshu.com/p/024dd2d6e6e6
 https://github.com/IFTTT/RazzleDazzle
 
 https://spin.atomicobject.com/2014/10/25/ios-unwind-segues/
+
+To add a tap gesture recognizer to your image view
+https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson4.html
