@@ -24,3 +24,6 @@ http://aws.amazon.com/cn/ec2/pricing/
 
 python技术栈可以参考的公司
 http://stackshare.io/zapier/scaling-zapier-to-automate-billions-of-tasks?utm_content=stacksharedigest02052016
+
+ios分工
+https://realm.io/news/mbltdev-hector-zarate-consistent-thin-dumb-spotify/
