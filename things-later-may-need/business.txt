@@ -27,3 +27,6 @@ http://stackshare.io/zapier/scaling-zapier-to-automate-billions-of-tasks?utm_con
 
 ios分工
 https://realm.io/news/mbltdev-hector-zarate-consistent-thin-dumb-spotify/
+
+先别急着动手，让我们来把你的 App 思路过一遍
+http://www.ifanr.com/620673
