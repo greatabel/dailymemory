@@ -89,4 +89,7 @@ pdb：http://www.blogjava.net/Skynet/archive/2009/04/07/264259.html
 
 https://www.codementor.io/spark/tutorial/building-a-recommender-with-apache-spark-python-example-app-part1
 
-http://python.jobbole.com/83486/
+Python后端相关技术/工具栈: http://python.jobbole.com/83486/
+
+fan project of python
+http://www.aosabook.org/en/index.html
