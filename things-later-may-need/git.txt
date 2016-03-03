@@ -90,3 +90,7 @@ git commit --amend
 http://stackoverflow.com/questions/179123/edit-an-incorrect-commit-message-in-git
 
 http://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git
+
+clairvoyant/lib/schema 如果是空时候，到里面：
+git submodule init 
+git submodule update
