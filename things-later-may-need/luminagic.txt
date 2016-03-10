@@ -178,3 +178,5 @@ To add a tap gesture recognizer to your image view
 https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/Lesson4.html
 
 http://stackoverflow.com/questions/27995955/saving-picked-image-to-coredata
+
+https://github.com/firewolf-ljw/rawshare
