@@ -179,4 +179,8 @@ https://developer.apple.com/library/ios/referencelibrary/GettingStarted/Developi
 
 http://stackoverflow.com/questions/27995955/saving-picked-image-to-coredata
 
+swift分享到社交
 https://github.com/firewolf-ljw/rawshare
+
+允许http的访问
+http://stackoverflow.com/questions/31254725/transport-security-has-blocked-a-cleartext-http
