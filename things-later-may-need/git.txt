@@ -100,3 +100,6 @@ http://stackoverflow.com/questions/1911109/clone-a-specific-git-branch
 例子如下：
 git clone -b feature/decoder https://bitbucket.org/luminagic/clairvoyant
 
+撤销一次rebase
+http://stackoverflow.com/questions/134882/undoing-a-git-rebase
+
