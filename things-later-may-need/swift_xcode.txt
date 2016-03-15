@@ -40,3 +40,5 @@ http://www.raywenderlich.com/105437/implement-pathfinding-swift
 pod update 命令 会更新所有的类库，获取最新版本的类库
 
 https://spin.atomicobject.com/2015/12/23/swift-uipageviewcontroller-tutorial/
+要求权限的弹出框只出一次
+http://stackoverflow.com/questions/29265433/registerusernotificationsettings-not-showing-prompt-ios-8/29265961
