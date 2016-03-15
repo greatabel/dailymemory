@@ -191,3 +191,5 @@ http://stackoverflow.com/questions/33614747/ios-localization-in-xcode-7
 https://www.hackingwithswift.com/read/12/2/reading-and-writing-basics-nsuserdefaults
 
 http://blog.eliperkins.me/mocks-in-swift-via-protocols
+
+http://stackoverflow.com/questions/30618172/how-to-send-data-back-by-popviewcontrolleranimated-for-swift
