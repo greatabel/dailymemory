@@ -42,3 +42,9 @@ pod update 命令 会更新所有的类库，获取最新版本的类库
 https://spin.atomicobject.com/2015/12/23/swift-uipageviewcontroller-tutorial/
 要求权限的弹出框只出一次
 http://stackoverflow.com/questions/29265433/registerusernotificationsettings-not-showing-prompt-ios-8/29265961
+
+数组按位置插入：
+lastLargest.insert(number, atIndex: index)
+http://stackoverflow.com/questions/24085909/how-to-add-integer-to-array-with-explicite-int-index-in-swift
+
+http://stackoverflow.com/questions/3747842/reload-uitableview-when-navigating-back
