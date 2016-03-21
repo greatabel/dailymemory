@@ -103,3 +103,4 @@ git clone -b feature/decoder https://bitbucket.org/luminagic/clairvoyant
 撤销一次rebase
 http://stackoverflow.com/questions/134882/undoing-a-git-rebase
 
+http://stackoverflow.com/questions/6313126/how-to-remove-a-directory-in-my-github-repository
