@@ -48,3 +48,6 @@ lastLargest.insert(number, atIndex: index)
 http://stackoverflow.com/questions/24085909/how-to-add-integer-to-array-with-explicite-int-index-in-swift
 
 http://stackoverflow.com/questions/3747842/reload-uitableview-when-navigating-back
+
+app的头部和尾部出现黑屏
+http://stackoverflow.com/questions/32641240/ios-9-xcode-7-application-appears-with-black-bars-on-top-and-bottom
