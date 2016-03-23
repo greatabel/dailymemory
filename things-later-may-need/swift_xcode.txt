@@ -51,3 +51,8 @@ http://stackoverflow.com/questions/3747842/reload-uitableview-when-navigating-ba
 
 app的头部和尾部出现黑屏
 http://stackoverflow.com/questions/32641240/ios-9-xcode-7-application-appears-with-black-bars-on-top-and-bottom
+
+Protocol-Oriented Programming in Swift
+https://developer.apple.com/videos/play/wwdc2015/408/
+https://www.natashatherobot.com/swift-mvvm-optionals/
+https://www.natashatherobot.com/swift-2-0-protocol-oriented-mvvm/

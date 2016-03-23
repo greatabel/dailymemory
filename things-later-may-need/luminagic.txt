@@ -193,3 +193,9 @@ https://www.hackingwithswift.com/read/12/2/reading-and-writing-basics-nsuserdefa
 http://blog.eliperkins.me/mocks-in-swift-via-protocols
 
 http://stackoverflow.com/questions/30618172/how-to-send-data-back-by-popviewcontrolleranimated-for-swift
+
+https://github.com/toyoshim/KonashiOTAFU
+https://github.com/YUKAI/KonashiInspector
+https://github.com/RobotPajamas/ble113-ota-ios
+http://www.sureshjoshi.com/embedded/ble113-ota-over-the-air-programming/
+https://e2e.ti.com/support/wireless_connectivity/bluetooth_low_energy/f/538/t/362987
