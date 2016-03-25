@@ -104,3 +104,5 @@ git clone -b feature/decoder https://bitbucket.org/luminagic/clairvoyant
 http://stackoverflow.com/questions/134882/undoing-a-git-rebase
 
 http://stackoverflow.com/questions/6313126/how-to-remove-a-directory-in-my-github-repository
+返回某一个commit
+http://stackoverflow.com/questions/2007662/rollback-to-an-old-git-commit-in-a-public-repo

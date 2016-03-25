@@ -56,3 +56,8 @@ Protocol-Oriented Programming in Swift
 https://developer.apple.com/videos/play/wwdc2015/408/
 https://www.natashatherobot.com/swift-mvvm-optionals/
 https://www.natashatherobot.com/swift-2-0-protocol-oriented-mvvm/
+
+https://github.com/skyming/Trip-to-IOS-Design-Patterns
+
+debug 模式
+http://stackoverflow.com/questions/9063100/xcode-ios-how-to-determine-whether-code-is-running-in-debug-release-build

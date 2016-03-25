@@ -16,3 +16,6 @@ kill -9 [process id]
 http://blog.houen.net/kill-program-mac-os-x-terminal/
 
 https://launchbylunch.com/posts/2014/Jan/29/aws-tips/
+
+netflix  架构
+https://www.scalescale.com/the-stack-behind-netflix-scaling
