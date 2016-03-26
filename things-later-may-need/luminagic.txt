@@ -194,6 +194,7 @@ http://blog.eliperkins.me/mocks-in-swift-via-protocols
 
 http://stackoverflow.com/questions/30618172/how-to-send-data-back-by-popviewcontrolleranimated-for-swift
 
+OTA
 https://github.com/toyoshim/KonashiOTAFU
 https://github.com/YUKAI/KonashiInspector
 https://github.com/RobotPajamas/ble113-ota-ios
