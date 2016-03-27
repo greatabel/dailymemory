@@ -64,3 +64,6 @@ debug 模式
 http://stackoverflow.com/questions/9063100/xcode-ios-how-to-determine-whether-code-is-running-in-debug-release-build
 
 http://stackoverflow.com/questions/6091867/find-out-if-user-pressed-the-back-button-in-uinavigationcontroller?lq=1
+
+ios 开发相关用到的资源
+https://medium.com/@sebastianbo/my-ios-development-toolkit-2016-ba7601b68085#.11xq42fly
