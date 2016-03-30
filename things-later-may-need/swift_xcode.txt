@@ -68,3 +68,5 @@ http://stackoverflow.com/questions/6091867/find-out-if-user-pressed-the-back-but
 ios 开发相关用到的资源
 https://medium.com/@sebastianbo/my-ios-development-toolkit-2016-ba7601b68085#.11xq42fly
 https://www.natashatherobot.com/swift-programming-books/
+
+https://medium.com/ios-os-x-development/swiftly-shift-bits-and-protect-yourself-be33016ce071#.5eb0d1jkg
