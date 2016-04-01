@@ -69,4 +69,13 @@ ios 开发相关用到的资源
 https://medium.com/@sebastianbo/my-ios-development-toolkit-2016-ba7601b68085#.11xq42fly
 https://www.natashatherobot.com/swift-programming-books/
 
+swift的二进制操作
 https://medium.com/ios-os-x-development/swiftly-shift-bits-and-protect-yourself-be33016ce071#.5eb0d1jkg
+
+TDD
+https://pawanpoudel.svbtle.com/test-driven-development-in-swift
+http://swiftandpainless.com/
+https://medium.com/@ynzc/getting-started-with-tdd-in-swift-2fab3e07204b#.rj8ji1au7
+https://www.raywenderlich.com/101306/unit-testing-tutorial-mocking-objects
+
+http://stackoverflow.com/questions/6921884/in-xcode-how-to-suppress-all-warnings-in-specific-source-files
