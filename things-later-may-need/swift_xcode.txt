@@ -82,5 +82,5 @@ http://stackoverflow.com/questions/6921884/in-xcode-how-to-suppress-all-warnings
 
 http://stackoverflow.com/questions/24007518/how-can-i-use-nstimer-in-swift
 
-声明带长度的空数组 The best you are going to be able to do for now is create an array with an initial count repeating nil:
+声明带长度的空数组：
 var sprites = [SKSpriteNode?](count: 64, repeatedValue: nil)
