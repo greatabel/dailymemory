@@ -10,3 +10,6 @@ http://www.cnblogs.com/sonyi/p/4154797.html
 ./adb -s emulator-5556 version
 
 http://tleyden.github.io/blog/2013/11/22/android-studio-plus-genymotion-emulator/
+
+连接可运行设备
+http://stackoverflow.com/questions/2256884/android-device-chooser-device-not-showing-up/14042812#14042812
