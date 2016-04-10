@@ -84,3 +84,5 @@ http://stackoverflow.com/questions/24007518/how-can-i-use-nstimer-in-swift
 
 声明带长度的空数组：
 var sprites = [SKSpriteNode?](count: 64, repeatedValue: nil)
+
+http://peterwitham.com/swift/intermediate/how-to-display-the-ios-share-sheet-using-swift/
