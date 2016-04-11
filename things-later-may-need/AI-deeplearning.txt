@@ -84,4 +84,6 @@ http://creative-punch.net/2015/07/frameworks-and-libraries-for-deep-learning/
 http://www.analyticsvidhya.com/blog/2015/11/free-resources-beginners-deep-learning-neural-network/?utm_content=buffer63960
 
 http://www.wildml.com/
+
+An MIT Press book ,Ian Goodfellow, Yoshua Bengio and Aaron Courville
 http://www.deeplearningbook.org/
