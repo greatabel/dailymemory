@@ -30,3 +30,6 @@ https://realm.io/news/mbltdev-hector-zarate-consistent-thin-dumb-spotify/
 
 先别急着动手，让我们来把你的 App 思路过一遍
 http://www.ifanr.com/620673
+
+上线一个网站需要注意的东西：
+http://www.craigkerstiens.com/2015/12/26/from-blog-posts-to-launches/
