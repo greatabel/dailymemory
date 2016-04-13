@@ -88,3 +88,5 @@ var sprites = [SKSpriteNode?](count: 64, repeatedValue: nil)
 http://peterwitham.com/swift/intermediate/how-to-display-the-ios-share-sheet-using-swift/
 http://stackoverflow.com/questions/31258112/sharing-a-text-file-with-uiactivityviewcontroller
 https://www.hackingwithswift.com/example-code/strings/writetofile-how-to-save-a-string-to-a-file-on-disk
+
+http://stackoverflow.com/questions/32640149/disable-bitcode-for-project-and-cocoapods-dependencies-with-xcode7
