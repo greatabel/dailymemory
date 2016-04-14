@@ -90,3 +90,6 @@ http://stackoverflow.com/questions/31258112/sharing-a-text-file-with-uiactivityv
 https://www.hackingwithswift.com/example-code/strings/writetofile-how-to-save-a-string-to-a-file-on-disk
 
 http://stackoverflow.com/questions/32640149/disable-bitcode-for-project-and-cocoapods-dependencies-with-xcode7
+
+在ios上允许http 不安全的请求
+http://stackoverflow.com/questions/30731785/how-do-i-load-an-http-url-with-app-transport-security-enabled-in-ios-9
