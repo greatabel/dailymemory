@@ -25,3 +25,9 @@ ln -s "/Applications/Android Studio.app/Contents/gradle/gradle-2.10/bin/gradle"
 http://stackoverflow.com/questions/28928106/install-gradle-on-mac-os-x
 
 http://stackoverflow.com/questions/34749299/gradle-version-2-2-is-required-current-version-is-2-10
+
+显示行号
+http://stackoverflow.com/questions/30056913/how-to-show-line-numbers-in-android-studio
+
+drawable下创建文件夹
+http://www.androidwarriors.com/2015/07/android-studio-drawable-folders.html
