@@ -13,3 +13,15 @@ http://tleyden.github.io/blog/2013/11/22/android-studio-plus-genymotion-emulator
 
 连接可运行设备
 http://stackoverflow.com/questions/2256884/android-device-chooser-device-not-showing-up/14042812#14042812
+
+android 不提交到git的文件：
+http://stackoverflow.com/questions/16736856/what-should-be-in-my-gitignore-for-an-android-studio-project
+
+http://stackoverflow.com/questions/31374085/installing-adb-on-mac-os-x
+
+使用gradle 命令行
+cd /usr/local/bin
+ln -s "/Applications/Android Studio.app/Contents/gradle/gradle-2.10/bin/gradle"
+http://stackoverflow.com/questions/28928106/install-gradle-on-mac-os-x
+
+http://stackoverflow.com/questions/34749299/gradle-version-2-2-is-required-current-version-is-2-10
