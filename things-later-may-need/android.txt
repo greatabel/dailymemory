@@ -36,3 +36,5 @@ http://www.androidwarriors.com/2015/07/android-studio-drawable-folders.html
 http://developer.android.com/sdk/installing/studio-tips.html
 Show docs for selected API :F1 (Mac)
 Jump to source: CMD + down-arrow (Mac)
+
+小米是：【Menu】+【音量减】 截屏
