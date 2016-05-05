@@ -87,3 +87,5 @@ http://www.wildml.com/
 
 An MIT Press book ,Ian Goodfellow, Yoshua Bengio and Aaron Courville
 http://www.deeplearningbook.org/
+
+https://blog.rescale.com/train-your-tensorflow-models-on-rescale/

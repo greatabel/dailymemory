@@ -38,3 +38,6 @@ Show docs for selected API :F1 (Mac)
 Jump to source: CMD + down-arrow (Mac)
 
 小米是：【Menu】+【音量减】 截屏
+
+小米手机(MIUI7)如何进入开发者选项
+http://jingyan.baidu.com/article/c85b7a646975ab003aac9556.html
