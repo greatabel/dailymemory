@@ -22,8 +22,6 @@ http://www.thetalkingmachines.com/blog/
 下载：
 http://www.allitebooks.com/
 
-http://bookdl.com/
-
 http://dl-home.com/category/ebook/
 
 http://www.jiuaijsj.com/
@@ -42,6 +40,9 @@ http://libgen.io/search.php?
 http://www.ebook3000.com/
 
 http://readcolor.com/
+
+曾经可以，暂时不work：
+http://bookdl.com/
 
 iCiLi 爱磁力: http://103.224.249.189/emule/book
 
