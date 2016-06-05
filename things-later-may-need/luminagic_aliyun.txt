@@ -1,0 +1,24 @@
+
+阿里云登录：
+Linux或Mac OS X环境连接Linux实例
+直接使用ssh命令进行连接 如：   ssh root@您实例的公网IP，
+接着在输入该实例的root用户的密码，即可完成登录
+
+阿里云装上python3.5
+apt-get install software-properties-common
+http://askubuntu.com/questions/593433/error-sudo-add-apt-repository-command-not-found
+http://askubuntu.com/questions/674586/python-3-5-has-just-been-released-can-i-get-it-as-a-package-for-ubuntu-15-4
+
+安装python3.5配套的pip3.5
+Python 3.5 should come with pip, but for if some reason you don't have it, run the following:
+wget https://bootstrap.pypa.io/get-pip.py
+sudo python3.5 get-pip.py
+
+让默认python3 调用python3.5 而不是python3.4之类：
+sudo mv /usr/bin/python3 /usr/bin/python3-old
+sudo ln -s /usr/bin/python3.5 /usr/bin/python3
+https://www.reddit.com/r/IPython/comments/3lf81w/using_python35_in_ubuntu_trusty/
+
+http://stackoverflow.com/questions/11248073/what-is-the-easiest-way-to-remove-all-packages-installed-by-pip
+
+http://terokarvinen.com/2016/deploy-flask-python3-on-apache2-ubuntu
