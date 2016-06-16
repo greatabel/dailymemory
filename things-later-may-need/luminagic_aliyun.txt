@@ -4,6 +4,7 @@ Linux或Mac OS X环境连接Linux实例
 直接使用ssh命令进行连接 如：   ssh root@您实例的公网IP，
 接着在输入该实例的root用户的密码，即可完成登录
 
+
 阿里云装上python3.5
 apt-get install software-properties-common
 http://askubuntu.com/questions/593433/error-sudo-add-apt-repository-command-not-found
@@ -22,3 +23,11 @@ https://www.reddit.com/r/IPython/comments/3lf81w/using_python35_in_ubuntu_trusty
 http://stackoverflow.com/questions/11248073/what-is-the-easiest-way-to-remove-all-packages-installed-by-pip
 
 http://terokarvinen.com/2016/deploy-flask-python3-on-apache2-ubuntu
+http://thecodeship.com/deployment/deploy-django-apache-virtualenv-and-mod_wsgi/
+http://stackoverflow.com/questions/22234238/apache2-virtualenv-ioerror-errno-13-permission-denied
+
+http://stackoverflow.com/questions/20840012/ssh-remote-host-identification-has-changed
+
+http://stackoverflow.com/questions/29825745/404-error-after-configured-mod-wsgi-on-apache2-for-django-deployment
+https://aslamnajeebdeen.com/how-to-fix-apache-could-not-reliably-determine-the-servers-fully-qualified-domain-name-using-127011-for-servername-error-on-ubuntu
+http://stackoverflow.com/questions/24860498/disable-zoom-on-mobile-devices-for-fixed-viewport-size

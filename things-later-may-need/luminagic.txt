@@ -202,3 +202,5 @@ http://www.sureshjoshi.com/embedded/ble113-ota-over-the-air-programming/
 https://e2e.ti.com/support/wireless_connectivity/bluetooth_low_energy/f/538/t/362987
 
 http://www.html5rocks.com/en/mobile/touch/
+
+http://stackoverflow.com/questions/24069197/httpresponse-object-json-object-must-be-str-not-bytes
