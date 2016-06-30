@@ -20,3 +20,10 @@ brew install mysql
 启动 mysql.server restart
 关闭 mysql.server stop
 登陆 mysql -u root  有密码登录 mysql -u root -p
+
+建立用户
+ CREATE USER 'test'@'localhost' IDENTIFIED BY 'test1024';
+# To grant CREATE permissions for all databases * and all tables * to the user
+GRANT CREATE ON *.* TO 'test'@'localhost';
+FLUSH PRIVILEGES;
+http://www.liquidweb.com/kb/grant-permissions-to-a-mysql-user-on-linux-via-command-line/
