@@ -23,7 +23,8 @@ brew install mysql
 
 建立用户
  CREATE USER 'test'@'localhost' IDENTIFIED BY 'test1024';
-# To grant CREATE permissions for all databases * and all tables * to the user
-GRANT CREATE ON *.* TO 'test'@'localhost';
+添加所有的创造数据库 for all databases * and all tables * to the user
+GRANT ALL ON *.* TO 'test'@'localhost';
+GRANT  ON *.* TO 'test'@'localhost';
 FLUSH PRIVILEGES;
 http://www.liquidweb.com/kb/grant-permissions-to-a-mysql-user-on-linux-via-command-line/

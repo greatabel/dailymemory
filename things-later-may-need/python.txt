@@ -93,3 +93,5 @@ Python后端相关技术/工具栈: http://python.jobbole.com/83486/
 
 fan project of python
 http://www.aosabook.org/en/index.html
+
+http://stackoverflow.com/questions/902408/how-to-use-variables-in-sql-statement-in-python
