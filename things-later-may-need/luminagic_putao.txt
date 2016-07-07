@@ -1,1 +1,5 @@
 http://stackoverflow.com/questions/8825144/detect-double-tap-on-ipad-or-iphone-screen-using-javascript
+
+用 ctrl + c 关闭进程就不需要担心占用，如果占用：
+lsof -i :5000
+kill -9 <PID>
