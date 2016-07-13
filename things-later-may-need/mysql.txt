@@ -28,3 +28,9 @@ GRANT ALL ON *.* TO 'test'@'localhost';
 GRANT  ON *.* TO 'test'@'localhost';
 FLUSH PRIVILEGES;
 http://www.liquidweb.com/kb/grant-permissions-to-a-mysql-user-on-linux-via-command-line/
+
+在ubuntu上：
+sudo service mysql status
+sudo service mysql stop
+sudo service mysql start
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/
