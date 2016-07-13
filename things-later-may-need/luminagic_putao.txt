@@ -3,3 +3,9 @@ http://stackoverflow.com/questions/8825144/detect-double-tap-on-ipad-or-iphone-s
 用 ctrl + c 关闭进程就不需要担心占用，如果占用：
 lsof -i :5000
 kill -9 <PID>
+
+http://bootsnipp.com/snippets/featured/people-card-with-tabs
+http://bootsnipp.com/snippets/featured/payment-receipt-bs3
+
+长按干扰
+http://stackoverflow.com/questions/12304012/preventing-default-context-menu-on-longpress-longclick-in-mobile-safari-ipad
