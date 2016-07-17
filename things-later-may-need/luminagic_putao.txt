@@ -9,3 +9,6 @@ http://bootsnipp.com/snippets/featured/payment-receipt-bs3
 
 长按干扰
 http://stackoverflow.com/questions/12304012/preventing-default-context-menu-on-longpress-longclick-in-mobile-safari-ipad
+
+已注册用户自动登录
+https://paul.kinlan.me/credential-management-api/
