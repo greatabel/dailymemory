@@ -12,3 +12,7 @@ http://stackoverflow.com/questions/12304012/preventing-default-context-menu-on-l
 
 已注册用户自动登录
 https://paul.kinlan.me/credential-management-api/
+
+http://bootsnipp.com/snippets/featured/sexy-radio-butons
+
+https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html
