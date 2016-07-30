@@ -16,3 +16,5 @@ https://paul.kinlan.me/credential-management-api/
 http://bootsnipp.com/snippets/featured/sexy-radio-butons
 
 https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/HandlingEvents/HandlingEvents.html
+
+http://stackoverflow.com/questions/15446189/how-can-i-get-my-twitter-bootstrap-buttons-to-right-align
