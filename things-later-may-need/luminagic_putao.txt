@@ -20,3 +20,9 @@ https://developer.apple.com/library/ios/documentation/AppleApplications/Referenc
 http://stackoverflow.com/questions/15446189/how-can-i-get-my-twitter-bootstrap-buttons-to-right-align
 
 http://stackoverflow.com/questions/16586734/html-over-the-canvas
+
+scp meomo.apk root@139.224.73.50:/var/www/env1/MeomoFlask/static/download_data/meomo.apk
+
+http://stackoverflow.com/questions/22437700/javascript-add-div-to-top-of-another-div
+
+http://stackoverflow.com/questions/15779722/showing-only-a-part-of-image-in-div-using-css
