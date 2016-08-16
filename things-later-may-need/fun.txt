@@ -29,15 +29,15 @@ http://www.allitebooks.com/
 
 http://bookdl.com/
 
-http://dl-home.com/category/ebook/
-
 http://www.jiuaijsj.com/
 
 http://freeebookdownload.blogspot.com/
 
-http://ebookspoint.us/index.php
+http://www.ebook777.com/
 
-http://avxhome.xyz/ebooks/programming_development/pages/1
+<!-- http://ebookspoint.us/index.php -->
+
+<!-- http://avxhome.xyz/ebooks/programming_development/pages/1 -->
 
 搜索
 http://ebooks.sohuvv.com/
@@ -46,10 +46,10 @@ http://libgen.io/search.php?
 
 http://www.ebook3000.com/
 
-http://readcolor.com/
+读远 http://readcolor.com/
 
 
 
 iCiLi 爱磁力: http://103.224.249.189/emule/book
 
-https://kat.cr/books/?field=time_add&sorder=desc
+<!-- https://kat.cr/books/?field=time_add&sorder=desc -->
