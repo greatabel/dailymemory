@@ -26,3 +26,6 @@ scp meomo.apk root@139.224.73.50:/var/www/env1/MeomoFlask/static/download_data/m
 http://stackoverflow.com/questions/22437700/javascript-add-div-to-top-of-another-div
 
 http://stackoverflow.com/questions/15779722/showing-only-a-part-of-image-in-div-using-css
+
+php
+http://blog.csdn.net/cordova/article/details/50853459
