@@ -68,3 +68,8 @@ pages 给一段问题设置背景
 http://apple.stackexchange.com/questions/116592/how-to-highlight-text-in-yellow-in-pages-5-0
 
 pages的格式刷： opt+cmd+c, opt+cmd+v 
+
+温度通过:
+$ gem install iStats
+Usage
+$ istats

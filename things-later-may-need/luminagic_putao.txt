@@ -29,3 +29,6 @@ http://stackoverflow.com/questions/15779722/showing-only-a-part-of-image-in-div-
 
 php
 http://blog.csdn.net/cordova/article/details/50853459
+
+模拟ios滑轮
+http://ijuer.com/blog/357.html
