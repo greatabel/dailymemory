@@ -205,5 +205,3 @@ http://www.html5rocks.com/en/mobile/touch/
 
 http://stackoverflow.com/questions/24069197/httpresponse-object-json-object-must-be-str-not-bytes
 
-树莓派 Raspberry Pi 更换国内源
-http://www.shumeipaiba.com/wanpai/jiaocheng/16.html

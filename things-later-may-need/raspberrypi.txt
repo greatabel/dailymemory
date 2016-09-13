@@ -1,0 +1,16 @@
+树莓派 Raspberry Pi 更换国内源
+http://www.shumeipaiba.com/wanpai/jiaocheng/16.html
+树莓派 重启
+sudo shutdown -r now
+
+ssh remote host identification has changed
+http://stackoverflow.com/questions/20840012/ssh-remote-host-identification-has-changed
+
+树莓派打开root 权限
+http://lib.csdn.net/article/embeddeddevelopment/36965
+
+debian下添加用户：sudo addduser username 
+树莓派下pip被墙: pip install Scrapy -i http://pypi.v2ex.com/simple
+
+树莓派设置wifi
+https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
