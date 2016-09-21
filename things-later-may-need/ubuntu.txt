@@ -149,8 +149,11 @@ getconf LONG_BIT
 下载命令
 wget http://download.natapp.cn/assets/downloads/clients/2_1_6/natapp_linux_arm_2_1_6.zip
 
-远程连接到 https://natapp.cn
+远程连接到 https://natapp.cn 方法：
+./natapp -authtoken=ad9aba56a7cf18e5
+ssh  abel@ngrok.natapp.cn -p42373
 http://stackoverflow.com/questions/30577729/unable-to-ssh-into-remote-linux-by-ngrok
 https://natapp.cn
-ssh  abel@ngrok.natapp.cn -p34407
+http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session
+
 
