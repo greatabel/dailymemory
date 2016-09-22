@@ -95,3 +95,6 @@ fan project of python
 http://www.aosabook.org/en/index.html
 
 http://stackoverflow.com/questions/902408/how-to-use-variables-in-sql-statement-in-python
+
+python log
+http://stackoverflow.com/questions/2513479/redirect-prints-to-log-file
