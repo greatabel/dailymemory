@@ -21,3 +21,5 @@ ssh  abel@ngrok.natapp.cn -p33918
 http://stackoverflow.com/questions/30577729/unable-to-ssh-into-remote-linux-by-ngrok
 https://natapp.cn
 http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session
+
+https://linux.cn/article-4263-1.html
