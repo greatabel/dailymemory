@@ -35,3 +35,7 @@ http://ijuer.com/blog/357.html
 
 http://stackoverflow.com/questions/37225035/serialize-in-json-a-base64-encoded-data
 http://stackoverflow.com/questions/20756042/javascript-how-to-display-image-from-byte-array-using-javascript-or-servlet
+
+
+http://flask-sqlalchemy.pocoo.org/2.1/queries/
+http://docs.sqlalchemy.org/en/latest/orm/basic_relationships.html
