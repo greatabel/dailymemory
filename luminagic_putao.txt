@@ -39,3 +39,5 @@ http://stackoverflow.com/questions/20756042/javascript-how-to-display-image-from
 
 http://flask-sqlalchemy.pocoo.org/2.1/queries/
 http://docs.sqlalchemy.org/en/latest/orm/basic_relationships.html
+
+http://flake8.pycqa.org/en/latest/
