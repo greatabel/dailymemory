@@ -34,3 +34,5 @@ sudo service mysql status
 sudo service mysql stop
 sudo service mysql start
 https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/
+
+http://stackoverflow.com/questions/4546778/how-can-i-import-a-database-with-mysql-from-terminal
