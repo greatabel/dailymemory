@@ -149,6 +149,8 @@ getconf LONG_BIT
 下载命令
 wget http://download.natapp.cn/assets/downloads/clients/2_1_6/natapp_linux_arm_2_1_6.zip
 
+修改默认dns：用第三种法子
+http://askubuntu.com/questions/130452/how-do-i-add-a-dns-server-via-resolv-conf
 
 
 
