@@ -1,2 +1,5 @@
-firefox selenium 无法调用在osx 10.12
+firefox selenium 无法调用在osx 10.12： brew install geckodriver
 http://stackoverflow.com/questions/37761668/cant-open-browser-with-selenium-after-firefox-update/37765661
+
+chrome selenium 在osx： brew install chromedriver
+http://stackoverflow.com/questions/8255929/running-webdriver-chrome-with-selenium
