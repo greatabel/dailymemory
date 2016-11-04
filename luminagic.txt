@@ -3,3 +3,18 @@ http://stackoverflow.com/questions/37761668/cant-open-browser-with-selenium-afte
 
 chrome selenium 在osx： brew install chromedriver
 http://stackoverflow.com/questions/8255929/running-webdriver-chrome-with-selenium
+
+用selenium下载动态内容
+https://dvenkatsagar.github.io/tutorials/python/2015/10/26/ddlv/
+
+截屏
+http://stackoverflow.com/questions/3422262/take-a-screenshot-with-selenium-webdriver
+
+http://stackoverflow.com/questions/33540903/install-phantomjs-on-macos-10-11-el-captian
+
+sqlalchemy 获得最后插入值
+http://stackoverflow.com/questions/1316952/sqlalchemy-flush-and-get-inserted-id
+
+设置环境变量
+export FLASK_APP="/Users/wanchang/Downloads/bitbucket/sharingan/app.py"
+
