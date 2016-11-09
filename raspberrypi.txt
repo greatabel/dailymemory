@@ -15,11 +15,15 @@ debian下添加用户：sudo addduser username
 树莓派设置wifi
 https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
 
+free.natapp.cc:32934
 远程连接到 https://natapp.cn 方法：
 ./natapp -authtoken=ad9aba56a7cf18e5
-ssh  abel@ngrok.natapp.cn -p33918
+
+ssh  abel@free.natapp.cc  -p36851
+
 http://stackoverflow.com/questions/30577729/unable-to-ssh-into-remote-linux-by-ngrok
 https://natapp.cn
+
 http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session
 
 https://linux.cn/article-4263-1.html
