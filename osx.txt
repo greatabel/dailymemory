@@ -73,3 +73,6 @@ pages的格式刷： opt+cmd+c, opt+cmd+v
 $ gem install iStats
 Usage
 $ istats
+
+删除chrome 联想提示错误
+http://blog.csdn.net/dull_boy2/article/details/39973963
