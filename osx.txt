@@ -75,4 +75,6 @@ Usage
 $ istats
 
 删除chrome 联想提示错误
+Windows：使用 shift+del 键将其删除。
+Mac ：用shift+fn+delete就可以了
 http://blog.csdn.net/dull_boy2/article/details/39973963
