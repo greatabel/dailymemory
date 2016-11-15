@@ -19,11 +19,15 @@ free.natapp.cc:32934
 远程连接到 https://natapp.cn 方法：
 ./natapp -authtoken=ad9aba56a7cf18e5
 
-ssh  abel@free.natapp.cc  -p36851
+ssh  abel@free.natapp.cc  -p35332
 
 http://stackoverflow.com/questions/30577729/unable-to-ssh-into-remote-linux-by-ngrok
 https://natapp.cn
 
+screen  Press Ctrl-A then Ctrl-D
 http://askubuntu.com/questions/8653/how-to-keep-processes-running-after-ending-ssh-session
 
 https://linux.cn/article-4263-1.html
+
+https://raspberrypispot.wordpress.com/2013/07/08/wifi-and-ethernet-dropout-problems-in-raspberry-pi/
+http://raspberrypi.stackexchange.com/questions/27475/wifi-disconnects-after-period-of-time-on-raspberry-pi-doesnt-reconnect
