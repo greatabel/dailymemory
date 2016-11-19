@@ -56,7 +56,9 @@ http://bookzz.org/
 http://libgen.io/search.php?
 http://www.ebook3000.com/
 http://it-ebooks.info/
+
 <!-- 读远 http://readcolor.com/ -->
+http://book.shuyuzhe.com/
 
 <!-- iCiLi 爱磁力: http://103.224.249.189/emule/book -->
 
