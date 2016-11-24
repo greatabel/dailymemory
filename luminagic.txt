@@ -21,3 +21,4 @@ http://stackoverflow.com/questions/1316952/sqlalchemy-flush-and-get-inserted-id
 设置环境变量
 export FLASK_APP="/Users/wanchang/Downloads/bitbucket/sharingan/app.py"
 
+http://stackoverflow.com/questions/17972020/how-to-execute-raw-sql-in-sqlalchemy-flask-app
