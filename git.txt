@@ -109,3 +109,6 @@ http://stackoverflow.com/questions/2007662/rollback-to-an-old-git-commit-in-a-pu
 
 Git create and checkout new branch
 git checkout -b newbranch
+
+让homebrew 版本的覆盖掉 apple自带git
+https://www.phodal.com/blog/use-brew-cleanup-clean-old-git/

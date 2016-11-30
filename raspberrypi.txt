@@ -19,7 +19,7 @@ free.natapp.cc:32934
 远程连接到 https://natapp.cn 方法：
 ./natapp -authtoken=ad9aba56a7cf18e5
 
-ssh  abel@free.natapp.cc  -p33018
+ssh  abel@free.natapp.cc  -p46677
 
 http://stackoverflow.com/questions/30577729/unable-to-ssh-into-remote-linux-by-ngrok
 https://natapp.cn
