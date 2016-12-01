@@ -22,3 +22,5 @@ http://stackoverflow.com/questions/1316952/sqlalchemy-flush-and-get-inserted-id
 export FLASK_APP="/Users/wanchang/Downloads/bitbucket/sharingan/app.py"
 
 http://stackoverflow.com/questions/17972020/how-to-execute-raw-sql-in-sqlalchemy-flask-app
+
+http://stackoverflow.com/questions/3044455/sqlalchemy-how-to-group-by-two-fields-and-filter-by-date
