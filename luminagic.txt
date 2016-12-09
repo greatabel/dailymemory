@@ -24,3 +24,6 @@ export FLASK_APP="/Users/wanchang/Downloads/bitbucket/sharingan/app.py"
 http://stackoverflow.com/questions/17972020/how-to-execute-raw-sql-in-sqlalchemy-flask-app
 
 http://stackoverflow.com/questions/3044455/sqlalchemy-how-to-group-by-two-fields-and-filter-by-date
+
+json保存到数据库
+http://stackoverflow.com/questions/6222381/the-best-way-to-store-a-python-list-to-a-database
