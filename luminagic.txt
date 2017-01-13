@@ -27,3 +27,11 @@ http://stackoverflow.com/questions/3044455/sqlalchemy-how-to-group-by-two-fields
 
 json保存到数据库
 http://stackoverflow.com/questions/6222381/the-best-way-to-store-a-python-list-to-a-database
+
+Error Code: 1406. Data too long for column - MySQL
+http://stackoverflow.com/questions/15949038/error-code-1406-data-too-long-for-column-mysql
+
+base64 encoded image size: It will be approximately 37% larger
+http://stackoverflow.com/questions/11402329/base64-encoded-image-size
+
+http://stackoverflow.com/questions/34560324/sqlalchemy-mysql-binary-blob-is-being-utf-8-encoded/34699564

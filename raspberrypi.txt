@@ -15,9 +15,10 @@ debian下添加用户：sudo addduser username
 树莓派设置wifi
 https://www.raspberrypi.org/documentation/configuration/wireless/wireless-cli.md
 
+<!-- 
 free.natapp.cc:32934
-远程连接到 https://natapp.cn 方法：
-./natapp -authtoken=ad9aba56a7cf18e5
+远程连接到 https://natapp.cn 方法：（暂时没有免费通道了)
+./natapp -authtoken=ad9aba56a7cf18e5 -->
 
 ssh  abel@free.natapp.cc  -p36338
 
