@@ -35,3 +35,4 @@ base64 encoded image size: It will be approximately 37% larger
 http://stackoverflow.com/questions/11402329/base64-encoded-image-size
 
 http://stackoverflow.com/questions/34560324/sqlalchemy-mysql-binary-blob-is-being-utf-8-encoded/34699564
+
