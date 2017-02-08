@@ -101,3 +101,5 @@ http://stackoverflow.com/questions/2513479/redirect-prints-to-log-file
 
 argparse 日期参数
 http://stackoverflow.com/questions/25470844/specify-format-for-input-arguments-argparse-python
+
+http://stackoverflow.com/questions/13265439/python-3-3-unicode-objects-must-be-encoded-before-hashing
