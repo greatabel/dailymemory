@@ -42,4 +42,10 @@ Jump to source: CMD + down-arrow (Mac)
 小米手机(MIUI7)如何进入开发者选项
 http://jingyan.baidu.com/article/c85b7a646975ab003aac9556.html
 
+二维码扫描
+https://github.com/BottleRocketStudios/Android-Barcode/tree/master/BarcodeDemo
+
+华为P9开启/关闭开发人员选项教程
+http://www.anruan.com/news/18926.html
+
 http://stackoverflow.com/questions/7305089/how-to-load-external-webpage-inside-webview
