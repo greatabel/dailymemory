@@ -38,3 +38,6 @@ http://stackoverflow.com/questions/34560324/sqlalchemy-mysql-binary-blob-is-bein
 
 
 http://stackoverflow.com/questions/25437891/use-of-undeclared-type-in-swift-even-though-type-is-internal-and-exists-in-s
+
+sqlchemy relationship 反向查询
+http://stackoverflow.com/questions/8561470/sqlalchemy-filtering-by-relationship-attribute
