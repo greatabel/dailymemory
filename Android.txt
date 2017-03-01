@@ -52,3 +52,8 @@ http://stackoverflow.com/questions/7305089/how-to-load-external-webpage-inside-w
 
 设置android 手机横竖屏：
 设置-》  显示&指示灯 -》  旋转
+
+打开／关闭android studio的 列模式
+Mouse: Alt+MouseDrag
+Mac : Cmd+Shift+8
+Windows/Linux: Shift+Alt+Insert﻿
