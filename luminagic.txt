@@ -41,3 +41,6 @@ http://stackoverflow.com/questions/25437891/use-of-undeclared-type-in-swift-even
 
 sqlchemy relationship 反向查询
 http://stackoverflow.com/questions/8561470/sqlalchemy-filtering-by-relationship-attribute
+
+竞争对手产品
+http://www.eyeque.com/home
