@@ -57,3 +57,6 @@ http://stackoverflow.com/questions/7305089/how-to-load-external-webpage-inside-w
 Mouse: Alt+MouseDrag
 Mac : Cmd+Shift+8
 Windows/Linux: Shift+Alt+Insert﻿
+
+竖屏的二维码扫描
+https://github.com/yipianfengye/android-zxingLibrary
