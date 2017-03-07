@@ -44,3 +44,6 @@ http://stackoverflow.com/questions/8561470/sqlalchemy-filtering-by-relationship-
 
 竞争对手产品
 http://www.eyeque.com/home
+
+flask多线程
+http://stackoverflow.com/questions/23823851/flask-app-context-and-access-to-db-session-a-new-thread-application-not-regist
