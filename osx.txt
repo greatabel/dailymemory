@@ -81,3 +81,8 @@ http://blog.csdn.net/dull_boy2/article/details/39973963
 
 osx 设置环境变量
 http://stackoverflow.com/questions/22502759/mac-os-x-10-9-setting-permanent-environment-variables
+
+zip -er output.zip ./yourfolder
+http://bobchesley.net/how-to-password-protect-zip-files-in-mac-os-x/
+
+reset  的作用很简单——将目前「终端」屏幕上的内容清空，就好像刚刚打开终端一样。

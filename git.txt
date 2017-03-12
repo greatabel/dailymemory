@@ -112,3 +112,6 @@ git checkout -b newbranch
 
 让homebrew 版本的覆盖掉 apple自带git
 https://www.phodal.com/blog/use-brew-cleanup-clean-old-git/
+
+How to ignore files starting with # in git:   \#*
+http://stackoverflow.com/questions/10297603/how-to-ignore-files-starting-with-in-git
