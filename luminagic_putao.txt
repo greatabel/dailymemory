@@ -31,7 +31,7 @@ php
 http://blog.csdn.net/cordova/article/details/50853459
 
 模拟ios滑轮
-http://ijuer.com/blog/357.html
+https://ijuer.com/%E6%A8%A1%E6%8B%9F-ios-%E6%97%A5%E6%9C%9F%E6%97%B6%E9%97%B4%E9%80%89%E6%8B%A9%E5%99%A8%E7%9A%84%E6%8B%A8%E8%BD%AE/
 
 http://stackoverflow.com/questions/37225035/serialize-in-json-a-base64-encoded-data
 http://stackoverflow.com/questions/20756042/javascript-how-to-display-image-from-byte-array-using-javascript-or-servlet
