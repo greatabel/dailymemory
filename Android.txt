@@ -60,3 +60,6 @@ Windows/Linux: Shift+Alt+Insert﻿
 
 竖屏的二维码扫描
 https://github.com/yipianfengye/android-zxingLibrary
+
+Split lib_main was defined multiple times
+http://stackoverflow.com/questions/34803518/split-lib-main-was-defined-multiple-times
