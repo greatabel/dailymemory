@@ -22,7 +22,6 @@ http://www.thetalkingmachines.com/blog/
 https://www.relay.fm/
 
 
-
 下载：
 http://www.allitebooks.com/
 
@@ -77,6 +76,8 @@ https://kindlefere.com/books
 http://kindleyun.cn/
 
 http://www.ireadweek.com/
+
+http://www.icilix.com/emule/book
 <!-- iCiLi 爱磁力: http://103.224.249.189/emule/book -->
 
 <!-- https://kat.cr/books/?field=time_add&sorder=desc -->
