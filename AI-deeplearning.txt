@@ -92,3 +92,6 @@ https://blog.rescale.com/train-your-tensorflow-models-on-rescale/
 
 MIT 课程
 http://selfdrivingcars.mit.edu/
+
+组装机器
+http://www.jiqizhixin.com/article/2504
