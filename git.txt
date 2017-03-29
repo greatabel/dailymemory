@@ -115,3 +115,5 @@ https://www.phodal.com/blog/use-brew-cleanup-clean-old-git/
 
 How to ignore files starting with # in git:   \#*
 http://stackoverflow.com/questions/10297603/how-to-ignore-files-starting-with-in-git
+
+本地分支改名字：git branch -m <oldname> <newname>
