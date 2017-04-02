@@ -103,3 +103,8 @@ argparse 日期参数
 http://stackoverflow.com/questions/25470844/specify-format-for-input-arguments-argparse-python
 
 http://stackoverflow.com/questions/13265439/python-3-3-unicode-objects-must-be-encoded-before-hashing
+
+ipython3 notebook 运行python3下面的jupyter
+
+快捷键
+http://opus.konghy.cn/ipynb/jupyter-notebook-keyboard-shortcut.html
