@@ -21,6 +21,8 @@ http://www.thetalkingmachines.com/blog/
 
 https://www.relay.fm/
 
+https://www.podcastinit.com/
+
 
 下载：
 http://www.allitebooks.com/
@@ -34,7 +36,7 @@ http://www.salttiger.com/
 http://www.ebook-dl.com/
 
 (视频居多,书籍也蛮多: 好像被查 最近变 hello world了)
-http://ebookonly.net
+http://ebookonly.net -> http://ezdown.org/category/books/
 
 书籍和视频
 https://ebookee.unblocked.fyi/
@@ -51,10 +53,10 @@ http://bookshare.biz/category/ebook/
 
 http://www.avaxhome.pro
 
-http://www.wowebook.co
-
 视频和书籍: http://www.uploadgigdown.pw/book/
 视频为主:http://www.vuimedia.org/index.php?do=cat&category=programming
+
+http://www.wowebook.co
 
 http://www.ebook3000.com/
 
@@ -70,7 +72,6 @@ https://1bookcase.com/
 
 https://ebook4expert.com/category/computers-technology
 
-http://it-ebooks.info/
 <!-- 太久不更新： http://www.it-ebooks.info -->
 <!-- 太久不更新： http://freeebookdownload.blogspot.com/ -->
 <!-- http://avxhome.xyz/ebooks/programming_development/pages/1 -->
