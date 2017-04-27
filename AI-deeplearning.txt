@@ -95,3 +95,6 @@ http://selfdrivingcars.mit.edu/
 
 组装机器
 http://www.jiqizhixin.com/article/2504
+
+AWS TENSORFLOW 安装与测试
+http://yplam.com/machinelearning/2016/12/12/aws-cuda-tensorflow.html

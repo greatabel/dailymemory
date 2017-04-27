@@ -36,7 +36,7 @@ http://www.salttiger.com/
 
 http://www.ebook-dl.com/
 
-(视频居多,书籍也蛮多: 好像被查 最近变 hello world了)
+(视频居多,书籍也蛮多: 好像被查 最近换域名了)
 http://ebookonly.net -> http://ezdown.org/category/books/
 
 书籍和视频
@@ -49,10 +49,12 @@ http://www.foxebook.net/
 
 http://hitebook.net/categories/it-ebooks
 
+疑似被整治->
 http://bookshare.biz/category/ebook/
 带视频的频道: http://bookshare.biz/category/training/
 
 http://www.avaxhome.pro
+
 
 视频和书籍: http://www.uploadgigdown.pw/book/
 视频为主:http://www.vuimedia.org/index.php?do=cat&category=programming
