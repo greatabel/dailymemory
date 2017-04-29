@@ -93,3 +93,6 @@ http://stackoverflow.com/questions/32640149/disable-bitcode-for-project-and-coco
 
 在ios上允许http 不安全的请求
 http://stackoverflow.com/questions/30731785/how-do-i-load-an-http-url-with-app-transport-security-enabled-in-ios-9
+
+Free resources for Swift & iOS developers.Learn something, get Skilled.
+https://www.skilled.io/
