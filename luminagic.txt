@@ -50,3 +50,6 @@ http://stackoverflow.com/questions/23823851/flask-app-context-and-access-to-db-s
 
 星期处理
 http://stackoverflow.com/questions/19216334/python-give-start-and-end-of-week-data-from-a-given-date
+
+SquidMan透明代理
+http://www.jianshu.com/p/295710cf2740

@@ -89,3 +89,9 @@ reset  的作用很简单——将目前「终端」屏幕上的内容清空，�
 
 音效位置
 http://apple.stackexchange.com/questions/210072/where-are-the-alert-tone-audio-files-located-in-os-x
+
+
+升级到Xcode 8 ，用于注释的快捷键 cmd + /用不了。在菜单看到注释功能也是被禁用
+在终端执行命令:
+sudo /usr/libexec/xpccachectl
+然后重启电脑。
