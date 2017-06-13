@@ -1,7 +1,5 @@
 http://climagic.org/coolstuff/let-it-snow.html
 
-
-
 有趣的podcast
 https://itunes.apple.com/us/podcast/gigaom-structure-show/id682584795?mt=2
 
@@ -60,6 +58,7 @@ http://www.avaxhome.pro
 视频为主:http://www.vuimedia.org/index.php?do=cat&category=programming
 
 http://www.wowebook.co
+http://www.bookdl.org
 
 http://www.ebook3000.com/
 
@@ -68,8 +67,6 @@ http://www.jiuaijsj.com/
 http://www.ebook777.com/
 
 http://pdfbooksfree.us/
-
-http://www.bookdl.org
 
 https://1bookcase.com/
 
@@ -97,7 +94,7 @@ http://kindleyun.cn/
 
 http://www.ireadweek.com/
 
-http://www.icilix.com/emule/book
+<!-- http://www.icilix.com/emule/book -->
 <!-- iCiLi 爱磁力: http://103.224.249.189/emule/book -->
 
 <!-- https://kat.cr/books/?field=time_add&sorder=desc -->
