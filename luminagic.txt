@@ -53,3 +53,5 @@ http://stackoverflow.com/questions/19216334/python-give-start-and-end-of-week-da
 
 SquidMan透明代理
 http://www.jianshu.com/p/295710cf2740
+
+https://stackoverflow.com/questions/20001229/how-to-get-posted-json-in-flask
