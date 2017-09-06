@@ -2,3 +2,7 @@ Installing Nginx in Mac OS X
 http://learnaholic.me/2012/10/10/installing-nginx-in-mac-os-x-mountain-lion/
 
 https://stackoverflow.com/questions/19720237/nginx-startup-fail-on-mac-osx-10-9-mavericks
+
+查看本地版本： nginx -v
+开启:  sudo nginx
+关闭:  sudo nginx -s stop
