@@ -96,3 +96,10 @@ http://stackoverflow.com/questions/30731785/how-do-i-load-an-http-url-with-app-t
 
 Free resources for Swift & iOS developers.Learn something, get Skilled.
 https://www.skilled.io/
+
+更新ruby（cocoapods基于ruby)
+http://codingpad.maryspad.com/2017/04/29/update-mac-os-x-to-the-current-version-of-ruby/
+
+更新cocoapods时候 ERROR: While executing gem ... (Errno::EPERM) Operation not permitted - /usr/bin/xcodeproj 时候：
+http://www.jianshu.com/p/f989c33c15f4
+sudo gem install -n /usr/local/bin cocoapods --pre

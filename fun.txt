@@ -37,7 +37,7 @@ http://www.salttiger.com/
 http://www.ebook-dl.com/
 
 (视频居多,书籍也蛮多: 好像被查 最近换域名了)
-http://ebookonly.net -> http://ezdown.org/category/books/
+<!-- http://ebookonly.net -> http://ezdown.org/category/books/ -->
 
 书籍和视频
 https://ebookee.unblocked.fyi/
