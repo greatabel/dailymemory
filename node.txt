@@ -1,1 +1,6 @@
 sublimetext 插件：tern_for_sublime
+
+Update Node Using a Package Manager
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n stable
