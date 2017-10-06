@@ -108,3 +108,8 @@ ipython3 notebook 运行python3下面的jupyter
 
 快捷键
 http://opus.konghy.cn/ipynb/jupyter-notebook-keyboard-shortcut.html
+
+pip list  #列出所有安装的库
+pip list --outdated #列出所有过期的库
+pip install --upgrade 库名 
+http://www.cnblogs.com/luckjun/p/4958338.html
