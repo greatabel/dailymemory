@@ -152,5 +152,6 @@ wget http://download.natapp.cn/assets/downloads/clients/2_1_6/natapp_linux_arm_2
 修改默认dns：用第三种法子
 http://askubuntu.com/questions/130452/how-do-i-add-a-dns-server-via-resolv-conf
 
-
+更新ubuntu到3.6
+https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get
 

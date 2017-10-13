@@ -116,3 +116,6 @@ http://www.cnblogs.com/luckjun/p/4958338.html
 
 逼近椭圆
 https://stackoverflow.com/questions/44741277/how-to-find-the-equation-for-an-ellipse
+
+为python3.6 安装pip3.6 
+curl https://bootstrap.pypa.io/get-pip.py | sudo python3.6

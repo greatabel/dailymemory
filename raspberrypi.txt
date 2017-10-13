@@ -45,3 +45,6 @@ https://raspberrypi.stackexchange.com/questions/67128/can-i-turn-the-ssh-on-ubun
 同时支持在家，公司，手机热点
 https://www.raspberrycoulis.co.uk/hints-tips/raspberry-pi-multiple-wifi-networks/
 配合 https://www.luisdelarosa.com/2017/09/19/how-to-enable-headless-networking-on-ubuntu-mate-on-raspberry-pi/
+
+显示mac地址：
+ifconfig | grep HWaddr
