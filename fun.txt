@@ -51,9 +51,9 @@ http://smtebooks.com/Category/programming-it
 
 http://hitebook.net/categories/it-ebooks
 
-
+<!-- 
 变得不好下载：https://avxhm.se/ebooks/programming_development/pages/0
-和上面完全差不多的：http://www.0dayku.com/category/133
+变得不好下载：http://www.0dayku.com/category/133 -->
 
 http://bookshare.biz/category/ebook/
 带视频的频道: http://bookshare.biz/category/training/
@@ -67,11 +67,9 @@ http://www.bookdl.org
 
 http://www.ebook3000.com/
 
-http://www.jiuaijsj.com/
+http://www.jiuaijsj.com/books
 
 http://www.ebook777.com/
-
-http://pdfbooksfree.us/
 
 https://1bookcase.com/
 
@@ -99,13 +97,19 @@ https://sokindle.com/page/1
 
 http://www.wljz.top/news/?list_15.html
 
-http://book-life.blog.163.com/
+<!-- http://book-life.blog.163.com/ -->
 
 每周一书 https://kindlefere.com/books
 
 http://kindleyun.cn/
 
+http://www.iamtxt.com/ebook/
+
+http://www.hiyuchao.cn/zh-hans/ebook
+
+http://www.hejizhan.com/s/forum.php
+
 <!-- http://www.icilix.com/emule/book -->
-<!-- iCiLi 爱磁力: http://103.224.249.189/emule/book -->
+中文电驴 http://verycd.gdajie.com/book/page
 
 <!-- https://kat.cr/books/?field=time_add&sorder=desc -->
