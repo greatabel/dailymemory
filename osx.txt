@@ -95,3 +95,6 @@ http://apple.stackexchange.com/questions/210072/where-are-the-alert-tone-audio-f
 在终端执行命令:
 sudo /usr/libexec/xpccachectl
 然后重启电脑。
+
+黑色图变白色
+1:用预览打开2:打开"调整颜色"3:把"自动色阶"两边的按钮, 拖动换位置,就可以看到效果了.
