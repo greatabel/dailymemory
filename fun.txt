@@ -25,10 +25,16 @@ https://talkpython.fm/
 
 https://www.mappingthejourney.com/
 
+https://gimletmedia.com/show/startup/
+
+stackshare.io
+
 下载：
 http://www.foxebook.net/
 
 https://sanet.cd/full/#books
+
+https://coderprog.com
 
 http://bookdl.com/
 
@@ -38,14 +44,10 @@ http://www.allitebooks.com/
 
 http://www.salttiger.com/
 
-http://www.ebook-dl.com/computers-technology
+http://www.ebook-dl.com/cat/1
 
 (视频书籍多: 好像被查 最近换域名了)
 <!-- http://ezdown.org/category/books/ -->
-
-书籍和视频
-https://ebookee.unblocked.fyi/
-https://ebookee.ukunblock.bid/
 
 http://smtebooks.com/Category/programming-it
 
@@ -58,10 +60,9 @@ http://hitebook.net/categories/it-ebooks
 http://bookshare.biz/category/ebook/
 带视频的频道: http://bookshare.biz/category/training/
 
-http://www.avaxhome.pro
-
 视频为主: http://www.vuimedia.org/index.php?do=cat&category=programming
 
+http://www.avaxhome.pro
 http://www.wowebook.co
 http://www.bookdl.org
 
@@ -73,14 +74,14 @@ http://www.ebook777.com/
 
 https://1bookcase.com/
 
-https://ebook4expert.com/category/computers-technology
+https://ebook4expert.com
 
 <!-- 太久不更新： http://www.it-ebooks.info -->
 <!-- 太久不更新： http://freeebookdownload.blogspot.com/ -->
 <!-- http://avxhome.xyz/ebooks/programming_development/pages/1 -->
 
 搜索
-有些访问故障：http://bookzz.org/
+<!-- 有些访问故障：http://bookzz.org/ -->
 
 http://ebooks.sohuvv.com/
 
@@ -98,8 +99,11 @@ https://sokindle.com/page/1
 http://www.wljz.top/news/?list_15.html
 
 <!-- http://book-life.blog.163.com/ -->
+http://ishare.iask.sina.com.cn/
 
 每周一书 https://kindlefere.com/books
+
+<!-- 奇异书屋 http://www.talebook.org/book -->
 
 http://kindleyun.cn/
 

@@ -119,3 +119,7 @@ https://stackoverflow.com/questions/44741277/how-to-find-the-equation-for-an-ell
 
 为python3.6 安装pip3.6 
 curl https://bootstrap.pypa.io/get-pip.py | sudo python3.6
+
+https://www.learnopencv.com/install-opencv3-on-macos/
+echo /usr/local/Cellar/opencv/3.3.1_1/lib/python3.6/site-packages >> /Users/wanchang/.virtualenvs/samaritan0/lib/python3.6/site-packages/opencv3.path
+
