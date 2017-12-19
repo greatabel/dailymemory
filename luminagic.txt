@@ -55,3 +55,7 @@ SquidMan透明代理
 http://www.jianshu.com/p/295710cf2740
 
 https://stackoverflow.com/questions/20001229/how-to-get-posted-json-in-flask
+
+微信关注，解关注 自动回复
+http://www.jianshu.com/p/f04867dcef0d
+http://blog.csdn.net/yueguanghaidao/article/details/45748793
