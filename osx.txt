@@ -57,7 +57,7 @@ spotlight: control + 空格
 terminal 光标前路径变短：
 直接terminal输入 PS1='$' 或者 PS1='\u:\W\$ ' 
 
-sudo nano /private/etc/hosts
+sudo subl /private/etc/hosts
 https://www.ihash.eu/2015/09/how-to-edit-hosts-file-in-mac-os-x-10-11-el-capitan/
 
 
@@ -98,3 +98,6 @@ sudo /usr/libexec/xpccachectl
 
 黑色图变白色
 1:用预览打开2:打开"调整颜色"3:把"自动色阶"两边的按钮, 拖动换位置,就可以看到效果了.
+
+osx 创造加密压缩包
+zip -er tenseigan2017_12_28.zip tenseigan

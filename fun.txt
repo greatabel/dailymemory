@@ -48,6 +48,7 @@ http://www.ebook-dl.com/cat/1
 
 (视频书籍多: 好像被查 最近换域名了)
 <!-- http://ezdown.org/category/books/ -->
+http://www.roamflorida.net/
 
 http://smtebooks.com/Category/programming-it
 
@@ -60,7 +61,7 @@ http://hitebook.net/categories/it-ebooks
 http://bookshare.biz/category/ebook/
 带视频的频道: http://bookshare.biz/category/training/
 
-视频为主: http://www.vuimedia.org/index.php?do=cat&category=programming
+<!-- 视频为主: http://www.vuimedia.org/index.php?do=cat&category=programming -->
 
 http://www.avaxhome.pro
 http://www.wowebook.co
