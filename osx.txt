@@ -101,3 +101,9 @@ sudo /usr/libexec/xpccachectl
 
 osx 创造加密压缩包
 zip -er tenseigan2017_12_28.zip tenseigan
+
+合并文件夹: ditto directory1 directory2
+http://osxdaily.com/2010/08/12/merge-directories-in-mac-os-x/
+
+磁盘清理工具OmniDiskSweeper
+https://www.omnigroup.com/more

@@ -11,3 +11,7 @@ https://www.jianshu.com/p/9822e3f28f0a
 如何使用charles代理转发请求   例如 192.168.0.192:80 -> 127.0.0.1:5000
 http://blog.csdn.net/qq_29674635/article/details/78837210
 
+[iOS 真机如何安装 WebDriverAgent](https://testerhome.com/topics/7220)
+https://testerhome.com/topics/10463
+brew install libimobiledevice
+iproxy 8100 8100
