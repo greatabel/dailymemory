@@ -24,3 +24,7 @@ https://blog.patricktriest.com/analyzing-cryptocurrencies-python/
 
 面向区块链开发
 https://zhuanlan.zhihu.com/p/32914619
+
+由浅入深区块链技术
+http://www.infoq.com/cn/news/2018/01/blockchain-ten-articles
+https://zhuanlan.zhihu.com/p/28919530
