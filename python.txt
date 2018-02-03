@@ -124,4 +124,3 @@ https://www.learnopencv.com/install-opencv3-on-macos/
 echo /usr/local/Cellar/opencv/3.3.1_1/lib/python3.6/site-packages >> /Users/wanchang/.virtualenvs/samaritan0/lib/python3.6/site-packages/opencv3.path
 
 
-统计下代码行数:  find . -name '*.py' | xargs wc -l

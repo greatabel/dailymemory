@@ -1,0 +1,1 @@
+统计下代码行数:  find . -name '*.py' | xargs wc -l
