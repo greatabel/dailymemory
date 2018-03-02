@@ -88,7 +88,7 @@ http://ebooks.sohuvv.com/
 
 http://libgen.io/search.php?
 
-torrent: https://www.freetutorials.us/
+bt/torrent: https://www.freetutorials.us/
 
 
 <!-- 读远 http://readcolor.com/ -->
@@ -99,9 +99,13 @@ http://www.ireadweek.com/
 
 https://sobooks.cc
 
+http://www.gezhongshu.com/forum.php
+
+https://bookset.me/
+
 http://kindlebookfor.me/  验证码: kindlebook
 
-http://www.wljz.top/news/?list_15.html
+<!-- http://www.wljz.top/news/?list_15.html -->
 
 <!-- http://book-life.blog.163.com/ -->
 http://ishare.iask.sina.com.cn/

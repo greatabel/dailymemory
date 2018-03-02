@@ -123,4 +123,5 @@ curl https://bootstrap.pypa.io/get-pip.py | sudo python3.6
 https://www.learnopencv.com/install-opencv3-on-macos/
 echo /usr/local/Cellar/opencv/3.3.1_1/lib/python3.6/site-packages >> /Users/wanchang/.virtualenvs/samaritan0/lib/python3.6/site-packages/opencv3.path
 
-
+pytest-cov 代码覆盖率：
+py.test --cov=sharingan tests/
