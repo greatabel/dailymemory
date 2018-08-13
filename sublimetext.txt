@@ -57,3 +57,6 @@ https://packagecontrol.io/installation
 osx 上与下面这个不同的是：使用请使用官方markdown github上的用户配置文件 
 https://www.jianshu.com/p/910e6ee44829
 https://www.raywenderlich.com/119949/top-five-markdown-editors
+
+停止提示新版本
+Just go to Preferences -> Settings-User and add there: "update_check": false

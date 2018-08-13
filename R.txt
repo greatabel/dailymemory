@@ -1,0 +1,3 @@
+https://stackoverflow.com/questions/11488174/how-to-select-a-cran-mirror-in-r
+
+https://stackoverflow.com/questions/29041423/how-to-install-multiple-packages

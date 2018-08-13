@@ -1,0 +1,3 @@
+https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f
+
+https://stackoverflow.com/questions/23256536/importing-pyspark-in-python-shell

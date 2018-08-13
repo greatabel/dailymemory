@@ -125,3 +125,7 @@ git filter-branch --commit-filter 'if [ "$GIT_AUTHOR_EMAIL" = "greatabel1@126.co
 
 开启2步验证后命令行中密码要替换为token
 https://stackoverflow.com/questions/29297154/github-invalid-username-or-password
+
+git加密一部分
+gpg的brew安装break，只能下载然后用 gpg2替换gpg: https://sourceforge.net/p/gpgosx/docu/Download/
+https://superuser.com/questions/887110/use-gpg2-as-gpg-replacement-osx

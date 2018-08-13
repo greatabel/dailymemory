@@ -59,7 +59,7 @@ terminal 光标前路径变短：
 
 sudo subl /private/etc/hosts
 https://www.ihash.eu/2015/09/how-to-edit-hosts-file-in-mac-os-x-10-11-el-capitan/
-
+设置：0.0.0.0 license.sublimehq.com 防止屏蔽
 
 134.170.108.26  http://onedrive.live.com
 134.170.108.152 http://skyapi.onedrive.live.com
@@ -107,3 +107,8 @@ http://osxdaily.com/2010/08/12/merge-directories-in-mac-os-x/
 
 磁盘清理工具OmniDiskSweeper
 https://www.omnigroup.com/more
+
+命令行走shadowsocks
+https://medium.com/bobo-shone/%E8%AE%A9terminal%E4%BD%BF%E7%94%A8shadowsocks%E4%BB%A3%E7%90%86-701c2608bcac
+proxychains4 curl https://www.twitter.com/
+需要关闭SIP https://www.hi-linux.com/posts/48321.html

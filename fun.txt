@@ -32,7 +32,7 @@ stackshare.io
 下载：
 http://www.foxebook.net/
 
-https://sanet.cd/full/#books
+https://sanet.st/full/#books
 
 https://coderprog.com
 
@@ -48,7 +48,7 @@ http://www.ebook-dl.com/cat/1
 
 (视频书籍多: 好像被查 最近换域名了)
 <!-- http://ezdown.org/category/books/ -->
-http://www.roamflorida.net/
+<!-- http://www.roamflorida.net/ -->
 
 http://smtebooks.com/Category/programming-it
 
@@ -75,7 +75,7 @@ http://www.ebook777.com/
 
 https://1bookcase.com/
 
-https://ebook4expert.com
+https://ebook4expert.org/
 
 <!-- 太久不更新： http://www.it-ebooks.info -->
 <!-- 太久不更新： http://freeebookdownload.blogspot.com/ -->
@@ -103,7 +103,7 @@ http://www.gezhongshu.com/forum.php
 
 https://bookset.me/
 
-http://kindlebookfor.me/  验证码: kindlebook
+http://kindlebookfor.me/  验证码: Kindle
 
 <!-- http://www.wljz.top/news/?list_15.html -->
 
