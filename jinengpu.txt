@@ -1,0 +1,6 @@
+阿里云免费证书
+https://segmentfault.com/a/1190000009220479
+
+nginx
+https://medium.com/@ThomasTan/installing-nginx-in-mac-os-x-maverick-with-homebrew-d8867b7e8a5a
+https://jiayi.space/post/flask-gunicorn-nginx-bu-shu
