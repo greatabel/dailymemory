@@ -1,3 +1,15 @@
+命令行走shadowsocks
+https://medium.com/bobo-shone/%E8%AE%A9terminal%E4%BD%BF%E7%94%A8shadowsocks%E4%BB%A3%E7%90%86-701c2608bcac
+proxychains4 curl https://www.twitter.com/
+需要关闭SIP https://www.hi-linux.com/posts/48321.html
+
+我使用GIT-CRYPT
+https://embeddedartistry.com/blog/2018/3/15/safely-storing-secrets-in-git
+git加密一部分
+gpg的brew安装break，只能下载然后用 gpg2替换gpg: https://sourceforge.net/p/gpgosx/docu/Download/
+https://superuser.com/questions/887110/use-gpg2-as-gpg-replacement-osx
+
+
 阿里云免费证书
 https://segmentfault.com/a/1190000009220479
 

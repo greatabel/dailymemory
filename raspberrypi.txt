@@ -33,8 +33,9 @@ https://linux.cn/article-4263-1.html
 https://raspberrypispot.wordpress.com/2013/07/08/wifi-and-ethernet-dropout-problems-in-raspberry-pi/
 http://raspberrypi.stackexchange.com/questions/27475/wifi-disconnects-after-period-of-time-on-raspberry-pi-doesnt-reconnect
 
-安装ubuntu
-http://cugxuan.coding.me/2017/05/18/%E6%A0%91%E8%8E%93%E6%B4%BE%E5%AE%89%E8%A3%85Ubuntu-Mate%E7%B3%BB%E7%BB%9F/
+安装ubuntu core
+https://fang2hou.com/operating-system/install-raspberry-pi-3-ubuntu-mate-on-mac/
+https://www.jianshu.com/p/e95c406badaa
 
 apt-get install openssh-server
 打开ubuntu mate的ssh： 
