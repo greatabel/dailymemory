@@ -33,7 +33,7 @@ https://linux.cn/article-4263-1.html
 https://raspberrypispot.wordpress.com/2013/07/08/wifi-and-ethernet-dropout-problems-in-raspberry-pi/
 http://raspberrypi.stackexchange.com/questions/27475/wifi-disconnects-after-period-of-time-on-raspberry-pi-doesnt-reconnect
 
-安装ubuntu core
+安装ubuntu
 https://fang2hou.com/operating-system/install-raspberry-pi-3-ubuntu-mate-on-mac/
 https://www.jianshu.com/p/e95c406badaa
 
@@ -42,6 +42,7 @@ apt-get install openssh-server
 sudo apt install ufw
 sudo ufw allow ssh
 https://raspberrypi.stackexchange.com/questions/67128/can-i-turn-the-ssh-on-ubuntu-mate-on-headlessly
+https://askubuntu.com/questions/921258/how-to-enable-ssh-on-boot-in-ubuntu-mate
 
 同时支持在家，公司，手机热点
 https://www.raspberrycoulis.co.uk/hints-tips/raspberry-pi-multiple-wifi-networks/
