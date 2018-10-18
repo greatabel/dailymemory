@@ -44,15 +44,11 @@ http://www.allitebooks.com/
 
 http://www.salttiger.com/
 
-http://www.ebook-dl.com/cat/1
+教科书 http://www.ebook-dl.com/cat/1
 
-(视频书籍多: 好像被查 最近换域名了)
-<!-- http://ezdown.org/category/books/ -->
-<!-- http://www.roamflorida.net/ -->
 
 http://smtebooks.com/Category/programming-it
 
-http://hitebook.net/categories/it-ebooks
 
 <!-- 
 变得不好下载：https://avxhm.se/ebooks/programming_development/pages/0
@@ -63,7 +59,7 @@ http://bookshare.biz/category/ebook/
 
 <!-- 视频为主: http://www.vuimedia.org/index.php?do=cat&category=programming -->
 
-http://www.avaxhome.pro
+<!-- http://www.avaxhome.pro -->
 http://www.wowebook.co
 http://www.bookdl.org
 
@@ -118,8 +114,6 @@ http://bbs.feng.com/forum.php?mod=forumdisplay&fid=224&page=
 http://kindleyun.cn/
 
 http://www.iamtxt.com/ebook/
-
-http://www.hiyuchao.cn/zh-hans/ebook
 
 万千合集: http://www.hejizhan.com/html/?keyword=
 
