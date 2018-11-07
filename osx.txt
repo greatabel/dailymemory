@@ -108,3 +108,8 @@ http://osxdaily.com/2010/08/12/merge-directories-in-mac-os-x/
 磁盘清理工具OmniDiskSweeper
 https://www.omnigroup.com/more
 
+处理webp
+http://www.devsai.com/2018/02/01/2018-webp/
+brew install webp
+dwebp 640.webp -o 640.png
+

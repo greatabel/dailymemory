@@ -13,7 +13,7 @@ ubuntu安装git-crypt
 sudo apt-get install git-crypt
 https://www.jianshu.com/p/a40fc90df943
 在osx上导出私钥：git-crypt export-key private-key.txt
-传到unbuntu: scp /path/to/local/file remote_user@remote_host:/path/to/remote/file
+传到ubuntu: scp /path/to/local/file remote_user@remote_host:/path/to/remote/file
 然后在ubuntu： git-crypt unlock private-key.txt 只需要执行一次
 
 
