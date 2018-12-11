@@ -113,3 +113,5 @@ http://www.devsai.com/2018/02/01/2018-webp/
 brew install webp
 dwebp 640.webp -o 640.png
 
+拷贝和黏贴之间 加上：command + k （我是在受不了ibook了）
+https://www.jianshu.com/p/0e9e5c2cb2a2
