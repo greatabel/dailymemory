@@ -49,6 +49,7 @@ http://www.salttiger.com/
 
 http://smtebooks.com/Category/programming-it
 
+http://allbooksworld.com/
 
 <!-- 
 变得不好下载：https://avxhm.se/ebooks/programming_development/pages/0
@@ -101,9 +102,11 @@ http://www.woibooks.com
 
 https://bookset.me/
 
-http://kindlebookfor.me/  验证码: Kindle
+http://kindlebookfor.me/  验证码: Kindle  太久不更新
 
 http://ladouban.com 验证码:ladouban18
+
+https://5kindle.com 
 
 全民阅读 http://www.dushuxiezi360.com/
 
@@ -116,12 +119,12 @@ https://www.yabook.org/
 <!-- http://book-life.blog.163.com/ -->
 http://ishare.iask.sina.com.cn/
 
-每周一书 https://kindlefere.com/books
+每周一书（不提供下载） https://kindlefere.com/books
 
-http://bbs.feng.com/forum.php?mod=forumdisplay&fid=224&page=
+<!-- http://bbs.feng.com/forum.php?mod=forumdisplay&fid=224&page=  -->
 <!-- 奇异书屋 http://www.talebook.org/book -->
 
-http://kindleyun.cn/
+<!--  http://kindleyun.cn/  -->
 
 http://www.iamtxt.com/ebook/
 
