@@ -125,3 +125,6 @@ echo /usr/local/Cellar/opencv/3.3.1_1/lib/python3.6/site-packages >> /Users/wanc
 
 pytest-cov 代码覆盖率：
 py.test --cov=sharingan tests/
+
+我第二步修改为python3.7地址： #!/usr/local/bin/python3.7
+https://stackoverflow.com/questions/45269867/python-virtualenvwrapper-bad-interpreter/48259762#48259762
