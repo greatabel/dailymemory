@@ -90,13 +90,14 @@ bt/torrent: https://www.freetutorials.us/
 
 <!-- 读远 http://readcolor.com/ -->
 
-http://mebook.cc
+http://www.gezhongshu.com/forum.php
 
 http://www.ireadweek.com/
 
 https://sobooks.cc
 
-http://www.gezhongshu.com/forum.php
+# mebook 越来越少新书
+http://mebook.cc
 
 http://www.woibooks.com
 
