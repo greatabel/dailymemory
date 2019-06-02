@@ -21,6 +21,8 @@ brew install mysql
 关闭 mysql.server stop
 登陆 mysql -u root  有密码登录 mysql -u root -p
 
+
+
 建立用户
  CREATE USER 'test'@'localhost' IDENTIFIED BY 'test1024';
 添加所有的创造数据库 for all databases * and all tables * to the user
@@ -37,3 +39,6 @@ https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/
 
 http://stackoverflow.com/questions/4546778/how-can-i-import-a-database-with-mysql-from-terminal
 
+osx 上workbench 连不上时候：(本机root已改密码为password)
+https://stackoverflow.com/questions/7864276/cannot-connect-to-database-server-mysql-workbench
+ALTER USER 'test'@'localhost' IDENTIFIED WITH mysql_native_password BY 'test1024';
