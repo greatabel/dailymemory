@@ -1,3 +1,7 @@
+阿里云容器镜像服务
+https://cr.console.aliyun.com/cn-hangzhou/instances/mirrors
+
+
 docker osx 我是用的官方安装，没有用homebrew，ubuntu时apt的
 
 http://blog.docker.com/2013/07/docker-projects-from-the-docker-community/
