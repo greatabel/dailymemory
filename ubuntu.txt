@@ -75,7 +75,7 @@ osx 通过ssh 连到ubuntu 最简单法子：
 sudo apt-get update
 sudo apt-get install openssh-server
 sudo ufw allow 22
-http://askubuntu.com/questions/51925/how-do-i-configure-a-new-ubuntu-installation-to-accept-ssh-connections
+http://askubuntu.com/questions/51925/how-do-i-configure-a-new-ubuntu-installation-to-accept- -connections
 然后osx 只需要 ssh <username>@<computer name or IP address>
 https://help.ubuntu.com/community/SSH/OpenSSH/ConnectingTo
 
