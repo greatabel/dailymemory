@@ -90,6 +90,8 @@ http://libgen.io/search.php?
 
 bt/torrent: https://www.freetutorials.us/
 
+https://b-ok.cc/
+
 
 中文书籍：
 
@@ -112,7 +114,7 @@ https://epubw.com/
 
 http://kindlebookfor.me/  验证码: Kindle  太久不更新
 
-http://ladouban.com 验证码:ladouban18
+http://ladouban.com 验证码:ladouban18 需注册
 
 https://5kindle.com 
 
