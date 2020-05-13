@@ -25,6 +25,7 @@ flutter run
 export PUB_HOSTED_URL=https://pub.flutter-io.cn
 export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
 
+
 减少所有工程大小
 https://stackoverflow.com/questions/56711605/reducing-flutter-project-sizes
 find . -name "pubspec.yaml" -execdir flutter clean \;
