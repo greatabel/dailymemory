@@ -54,6 +54,11 @@ https://wish4book.com/programming/
 
 http://allbooksworld.com/
 
+https://ru.b-ok2.org/  俄语还是什么语 但可以下载
+https://id.b-ok.org/
+
+https://epdf.pub/ 就是没有分类
+
 <!-- 
 变得不好下载：https://avxhm.se/ebooks/programming_development/pages/0
 变得不好下载：http://www.0dayku.com/category/133 -->
@@ -97,12 +102,13 @@ https://b-ok.cc/
 
 http://www.gezhongshu.com/forum.php
 
-http://www.ireadweek.com/
-
+http://www.share2uu.com/
 
 https://sobooks.cc
 
 https://epubw.com/
+
+<!-- http://www.ireadweek.com/  -->
 
 <!-- http://mebook.cc  -->
 
@@ -111,6 +117,8 @@ https://epubw.com/
 <!-- http://www.woibooks.com -->
 
 <!-- https://bookset.me/  -->
+
+https://http561856124.wordpress.com/  一次更新不少
 
 http://kindlebookfor.me/  验证码: Kindle  太久不更新
 
