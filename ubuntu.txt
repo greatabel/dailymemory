@@ -155,3 +155,6 @@ http://askubuntu.com/questions/130452/how-do-i-add-a-dns-server-via-resolv-conf
 更新ubuntu到3.6
 https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get
 
+
+18.04 ubuntu安装ss：无法定位的问题
+http://blog.leanote.com/post/liuliu408/f66886fe5c79

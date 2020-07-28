@@ -115,3 +115,7 @@ dwebp 640.webp -o 640.png
 
 拷贝和黏贴之间 加上：command + k （我是在受不了ibook了）
 https://www.jianshu.com/p/0e9e5c2cb2a2
+
+去掉ebook拷贝的引用（不过我在上面修复了bug）：
+sed -E -e 's/^“//g' | sed -E -e 's/”$//g' | sed -E -e '/^$/d' | sed -E -e 's/(摘录来自).*//g'
+https://www.jianshu.com/p/ab7d1ebba3bf
