@@ -1,3 +1,6 @@
+ssh什么都装好了还不行时候，试试：sudo ufw allow 22
+https://unix.stackexchange.com/questions/105800/not-able-to-ssh-to-another-computer-but-can-ping-it
+
 bt
 https://apps.ubuntu.com/cat/applications/deluge/
 

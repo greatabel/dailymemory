@@ -19,3 +19,11 @@ https://launchpad.net/~danielrichter2007/+archive/ubuntu/grub-customizer
 
 linux重新分区
 http://askubuntu.com/questions/126153/how-to-resize-partitions
+
+2020.8.6  huaxin
+命令行下修改为dhcp：
+https://blog.csdn.net/angus_17/article/details/81032141
+
+命令行下起作用的重启网络设置：
+https://askubuntu.com/questions/441619/how-to-successfully-restart-a-network-without-reboot-over-ssh
+Ubuntu Server is sudo ifdown eth0 && sudo ifup eth0
