@@ -1,0 +1,1 @@
+https://phoenixnap.com/kb/install-hadoop-ubuntu
