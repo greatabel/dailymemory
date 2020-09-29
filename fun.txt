@@ -1,38 +1,12 @@
 http://climagic.org/coolstuff/let-it-snow.html
 
-有趣的podcast
-https://itunes.apple.com/us/podcast/gigaom-structure-show/id682584795?mt=2
-
-http://venturebeat.com/2015/06/22/15-mobile-growth-hacks-that-improve-user-experience/
-
-http://addyosmani.com/blog/getting-started-with-progressive-web-apps/
-
-http://thenextweb.com/dd/2015/12/25/5-of-the-best-interaction-design-trends-of-2015/
-
-http://www.raywenderlich.com/42266/augmented-reality-ios-tutorial-location-based
-
-https://boagworld.com/show
-
-http://www.learningmachines101.com/about-learning-machines-101/
-
-http://www.thetalkingmachines.com/blog/
-
-https://www.relay.fm/
-
-https://www.podcastinit.com/
-
-https://talkpython.fm/
-
-https://www.mappingthejourney.com/
-
-https://gimletmedia.com/show/startup/
-
-stackshare.io
 
 下载：
 http://www.foxebook.net/
 
 https://sanet.st/full/#books
+
+https://booksrack.net/book-category/computers-technology/
 
 https://coderprog.com
 
@@ -160,3 +134,32 @@ http://www.iamtxt.com/ebook/
 中文电驴 http://verycd.gdajie.com/book/page
 
 <!-- https://kat.cr/books/?field=time_add&sorder=desc -->
+
+有趣的podcast
+https://itunes.apple.com/us/podcast/gigaom-structure-show/id682584795?mt=2
+
+http://venturebeat.com/2015/06/22/15-mobile-growth-hacks-that-improve-user-experience/
+
+http://addyosmani.com/blog/getting-started-with-progressive-web-apps/
+
+http://thenextweb.com/dd/2015/12/25/5-of-the-best-interaction-design-trends-of-2015/
+
+http://www.raywenderlich.com/42266/augmented-reality-ios-tutorial-location-based
+
+https://boagworld.com/show
+
+http://www.learningmachines101.com/about-learning-machines-101/
+
+http://www.thetalkingmachines.com/blog/
+
+https://www.relay.fm/
+
+https://www.podcastinit.com/
+
+https://talkpython.fm/
+
+https://www.mappingthejourney.com/
+
+https://gimletmedia.com/show/startup/
+
+stackshare.io
