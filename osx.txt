@@ -119,3 +119,13 @@ https://www.jianshu.com/p/0e9e5c2cb2a2
 去掉ebook拷贝的引用（不过我在上面修复了bug）：
 sed -E -e 's/^“//g' | sed -E -e 's/”$//g' | sed -E -e '/^$/d' | sed -E -e 's/(摘录来自).*//g'
 https://www.jianshu.com/p/ab7d1ebba3bf
+
+https://zj-network-guide.readthedocs.io/zh_CN/latest/intranet-penetration/ngrok/[%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F]ngrok%E5%AE%9E%E7%8E%B0/
+ssh -p 12757 abel@0.tcp.ngrok.io
+
+
+tkinter on macOS
+https://www.jianshu.com/p/1d1ec6b4e531
+
+PYTHON_CONFIGURE_OPTS="--disable-ipv6 --with-tcltk-includes='-I/usr/local/opt/tcl-tk/include'
+ --with-tcltk-libs='-L/usr/local/opt/tcl-tk/lib -ltcl8.6 -ltk8.6'" proxychains4 pyenv install 3.7.7

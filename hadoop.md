@@ -8,3 +8,4 @@ stop-all.sh
 hadoop namenode -format
 rm -rf  '/home/abel/dfsdata/datanode'
 start-all.sh
+
