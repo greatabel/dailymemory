@@ -10,7 +10,8 @@ http://www.kabatology.com/05/09/ubuntu-connect-to-vpn-gate-with-openvpn/
 模糊查找：
 find . -name 'mystring*'
 
-
+使用ngrok实现内网穿透功能
+https://blog.csdn.net/winycg/article/details/89111650
 
 ubuntu处理exFat：
 http://askubuntu.com/questions/451364/how-to-enable-exfat-in-ubuntu-14-04
