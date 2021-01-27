@@ -29,6 +29,7 @@ https://wish4book.com/programming/
 http://allbooksworld.com/
 
 https://ru.b-ok2.org/  俄语还是什么语 但可以下载
+https://zh.b-ok2.org/
 https://id.b-ok.org/
 
 https://epdf.pub/ 就是没有分类
@@ -84,7 +85,7 @@ https://book.zhishikoo.com/
 
 https://www.enjing.com/
 
-
+http://www.j9p.com/class/r_16_1.html
 
 https://http561856124.wordpress.com/  一次更新不少
 
@@ -93,9 +94,9 @@ http://kindlebookfor.me/  验证码: Kindle  太久不更新
 http://ladouban.com 验证码:ladouban18 需注册
 
 
-<!--  http://77ebooks.com/books
+<!--  http://77ebooks.com/books -->
 
-<!-- https://epubw.com/        -->
+<!--  https://epubw.com/        -->
 
 <!-- http://www.share2uu.com/   -->
 
