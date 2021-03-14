@@ -2,7 +2,7 @@ http://climagic.org/coolstuff/let-it-snow.html
 
 
 下载：
-http://www.foxebook.net/
+https://foxgreat.com/
 
 https://sanet.st/full/#books
 
@@ -19,6 +19,8 @@ http://www.finelybook.com/ 需要付费了
 http://www.allitebooks.com/
 
 http://www.salttiger.com/
+
+我爱电子书 https://www.52doc.com/
 
 教科书 http://www.ebook-dl.com/cat/1
 
