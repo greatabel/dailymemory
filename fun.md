@@ -10,9 +10,9 @@ https://booksrack.net/book-category/computers-technology/
 
 https://coderprog.com
 
-http://bookdl.com/
-
 https://www.letmeread.net/
+
+http://bookdl.com/ 需要付费了
 
 http://www.finelybook.com/ 需要付费了
 
