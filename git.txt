@@ -1,3 +1,7 @@
+
+删除文件夹下所有的.git文件
+find . -name ".git" | xargs rm -Rf
+
 Which Git? How to Keep Git Up To Date on Mac
 http://blog.grayghostvisuals.com/git/how-to-keep-git-updated/
 

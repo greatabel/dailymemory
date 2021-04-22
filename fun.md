@@ -20,7 +20,7 @@ http://www.allitebooks.com/
 
 http://www.salttiger.com/
 
-我爱电子书 https://www.52doc.com/
+需要注册 我爱电子书 https://www.52doc.com/
 
 教科书 http://www.ebook-dl.com/cat/1
 
