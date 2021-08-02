@@ -1,3 +1,6 @@
+在开发中，我们可以用 快捷键⌥ + ⌘ + / ，来为代码生成文档注释///
+
+
 F6在xcode 不work解决：
 In system preferences -> keyboard, check that the option is turned on for 
 'Use all F1, F2, etc. keys as standard function keys'

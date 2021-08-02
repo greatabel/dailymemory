@@ -2,6 +2,12 @@
 删除文件夹下所有的.git文件
 find . -name ".git" | xargs rm -Rf
 
+git init的时候，没有注意到子目录里面的liblinear是git clone来的。
+后来想要对其进行控制，删除该目录下的.git之后，遇到fatal: 路径规格 'train.c' 在子模组 'build_model/liblinear' 中错误。
+那是因为git已经把该目录当做子模组了，通过下列代码删除
+git rm --cache submodule_name
+
+
 Which Git? How to Keep Git Up To Date on Mac
 http://blog.grayghostvisuals.com/git/how-to-keep-git-updated/
 

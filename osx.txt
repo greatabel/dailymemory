@@ -1,3 +1,6 @@
+iconv -f UTF8 -t GB18030 a.csv >b.csv
+
+
 osx显示桌面:command + F3
 截图  Cmd+Shift+4
 删除光标后快捷键：Fn＋del

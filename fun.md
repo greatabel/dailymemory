@@ -21,6 +21,8 @@ http://www.wowebook.co
 https://www.ebooks777.net/
 
 
+
+
 国内：
 http://www.salttiger.com/
 
@@ -57,6 +59,8 @@ https://sobooks.cc
 
 https://book.zhishikoo.com/
 
+https://www.goodepub.com/ 星空好书
+
 http://www.gezhongshu.com/forum.php 很久不更新
 
 http://www.fast8.com/list/6_1.html
@@ -76,10 +80,15 @@ http://kindlebookfor.me/  验证码: Kindle  太久不更新
 
 http://ladouban.com 验证码:ladouban18 需注册
 
-拜读 https://orzbd.com/
 
 
+https://shuliuwang.com/
 
+https://www.tianlangbooks.com/
+
+https://www.kindle8.cc/
+
+<!-- 拜读 https://orzbd.com/ 登录：createnewsky （已付费） 已下线 -->
 
 搜索
 <!-- 有些访问故障：http://bookzz.org/ -->
@@ -106,7 +115,7 @@ https://b-ok.cc/
 <!-- http://book-life.blog.163.com/ -->
 http://ishare.iask.sina.com.cn/
 
-每周一书（不提供下载） https://kindlefere.com/books
+<!-- 每周一书（不提供下载） https://kindlefere.com/books -->
 
 <!-- http://bbs.feng.com/forum.php?mod=forumdisplay&fid=224&page=  -->
 <!-- 奇异书屋 http://www.talebook.org/book -->
