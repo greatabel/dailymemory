@@ -1,58 +1,3 @@
-下载：
-https://foxgreat.com/
-
-https://sanet.st/full/#books
-
-https://booksrack.net/book-category/computers-technology/
-
-https://coderprog.com
-
-https://www.letmeread.net/
-
-http://allbooksworld.com/
-
-http://www.allitebooks.com/
-
-https://ebook4expert.net/
-https://ebook4expert.org/
-
-http://www.wowebook.co
-
-https://www.ebooks777.net/
-
-
-
-
-国内：
-http://www.salttiger.com/
-
-需要注册 我爱电子书 https://www.52doc.com/
-
-http://www.iread.cf/  greatabel1@126.com mima 常用的
-
-https://kgbook.com/ 苦瓜书盘
-
-https://ebook2.lorefree.com/
-
-
-http://bookdl.com/ 需要付费了
-
-http://www.finelybook.com/ 需要付费了
-
-
-https://ru.b-ok2.org/  俄语还是什么语 但可以下载
-https://zh.b-ok2.org/
-https://id.b-ok.org/
-
-https://epdf.pub/ 就是没有分类
-
-
-http://bookshare.biz/category/ebook/
-带视频的频道: http://bookshare.biz/category/training/
-
-
-
-
 中文书籍：
 
 https://sobooks.cc
@@ -89,6 +34,63 @@ https://www.tianlangbooks.com/
 https://www.kindle8.cc/
 
 <!-- 拜读 https://orzbd.com/ 登录：createnewsky （已付费） 已下线 -->
+
+下载：
+https://foxgreat.com/
+
+https://sanet.st/full/#books
+
+https://booksrack.net/book-category/computers-technology/
+
+https://coderprog.com
+
+https://www.letmeread.net/
+
+http://allbooksworld.com/
+
+http://www.allitebooks.com/
+
+https://ebook4expert.net/
+https://ebook4expert.org/
+
+http://www.wowebook.co
+
+https://www.ebooks777.net/
+
+
+
+
+国内IT：
+http://www.salttiger.com/
+
+搬书匠 http://www.banshujiang.cn/e_books/page/1 
+
+需要注册 我爱电子书 https://www.52doc.com/
+
+http://www.iread.cf/  greatabel1@126.com mima 常用的
+
+https://kgbook.com/ 苦瓜书盘
+
+https://ebook2.lorefree.com/
+
+
+http://bookdl.com/ 需要付费了
+
+http://www.finelybook.com/ 需要付费了
+
+
+https://ru.b-ok2.org/  俄语还是什么语 但可以下载
+https://zh.b-ok2.org/
+https://id.b-ok.org/
+
+https://epdf.pub/ 就是没有分类
+
+
+http://bookshare.biz/category/ebook/
+带视频的频道: http://bookshare.biz/category/training/
+
+
+
 
 搜索
 <!-- 有些访问故障：http://bookzz.org/ -->
