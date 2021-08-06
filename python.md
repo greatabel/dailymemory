@@ -1,3 +1,6 @@
+配置清华源
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
 sublimetext 什么都好，就是python调试坑爹
 只好用pdb++的sticky模式：https://pypi.python.org/pypi/pdbpp/
 调用pdb++还是用：python -m pdb myscript.py ,就是不支持python3
