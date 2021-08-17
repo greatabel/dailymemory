@@ -1,3 +1,8 @@
+
+解压7z
+7z x 需要解压的文件.7z
+https://superuser.com/questions/548349/how-can-i-install-7zip-so-i-can-run-it-from-terminal-on-os-x
+
 Surge、Clash客户端托管配置地址
 https://www.butnono.com/latest-2020-freevpn-v2ray-ss-ssr-address.html
 -可用节点93个
@@ -129,7 +134,7 @@ https://www.jianshu.com/p/0e9e5c2cb2a2
 去掉ebook拷贝的引用（不过我在上面修复了bug）：
 sed -E -e 's/^“//g' | sed -E -e 's/”$//g' | sed -E -e '/^$/d' | sed -E -e 's/(摘录来自).*//g'
 https://www.jianshu.com/p/ab7d1ebba3bf
-
+-
 https://zj-network-guide.readthedocs.io/zh_CN/latest/intranet-penetration/ngrok/[%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F]ngrok%E5%AE%9E%E7%8E%B0/
 ssh -p 12757 abel@0.tcp.ngrok.io
 
