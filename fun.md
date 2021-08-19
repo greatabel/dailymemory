@@ -4,7 +4,7 @@ https://sobooks.cc
 
 https://book.zhishikoo.com/
 
-https://www.goodepub.com/ 星空好书
+https://www.goodepub.com/ 星空好书 付费
 
 http://www.gezhongshu.com/forum.php 很久不更新
 
