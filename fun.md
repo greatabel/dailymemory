@@ -4,7 +4,7 @@ https://sobooks.cc
 
 https://book.zhishikoo.com/
 
-https://www.goodepub.com/ 星空好书 付费
+https://www.goodepub.com/ 星空好书 付费 
 
 http://www.gezhongshu.com/forum.php 很久不更新
 
@@ -40,6 +40,9 @@ https://foxgreat.com/
 
 https://sanet.st/full/#books
 
+https://ebook4expert.net/
+https://ebook4expert.org/
+
 https://booksrack.net/book-category/computers-technology/
 
 https://coderprog.com
@@ -50,8 +53,7 @@ http://allbooksworld.com/
 
 http://www.allitebooks.com/
 
-https://ebook4expert.net/
-https://ebook4expert.org/
+
 
 http://www.wowebook.co
 
