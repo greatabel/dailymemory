@@ -4,16 +4,13 @@ https://sobooks.cc
 
 https://book.zhishikoo.com/
 
-https://www.goodepub.com/ 星空好书 付费 
+http://zh.z-lib.org/       全球最大的电子图书馆
 
 http://www.gezhongshu.com/forum.php 很久不更新
 
 http://www.fast8.com/list/6_1.html
 
-http://www.tuiliw.com/
-
 https://www.aibooks.cc/ 很久不更新
-
 
 https://www.enjing.com/
 
@@ -25,15 +22,18 @@ http://kindlebookfor.me/  验证码: Kindle  太久不更新
 
 http://ladouban.com 验证码:ladouban18 需注册
 
-
+http://www.tuiliw.com/ 无下载
 
 https://shuliuwang.com/
 
-https://www.tianlangbooks.com/
+https://www.tianlangbooks.com/  天浪书屋
 
 https://www.kindle8.cc/
 
+<!-- https://www.goodepub.com/ 星空好书 付费   -->
 <!-- 拜读 https://orzbd.com/ 登录：createnewsky （已付费） 已下线 -->
+<!-- http://orzbooks.com/  估计过段时间会跑路   -->
+
 
 下载：
 https://foxgreat.com/
@@ -113,6 +113,7 @@ https://b-ok.cc/
 # 雅读: http://www.aiyadu.com/  1年不更新了
 
 # https://www.yabook.org/
+greatabel1@126.com mima 常用的
 
 <!-- http://www.wljz.top/news/?list_15.html -->
 
