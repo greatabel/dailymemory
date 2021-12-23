@@ -1,3 +1,12 @@
+monterey:
+pip3 install virtualenvwrapper
+
+# 设置virtualenvwrapper
+export WORKON_HOME=~/Envs
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+source /Users/abel/Library/Python/3.8/bin/virtualenvwrapper.sh
+---   https://segmentfault.com/a/1190000014935970 
+-
 
 解压7z
 7z x 需要解压的文件.7z
