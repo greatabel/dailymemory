@@ -8,6 +8,11 @@ source /Users/abel/Library/Python/3.8/bin/virtualenvwrapper.sh
 ---   https://segmentfault.com/a/1190000014935970 
 -
 
+monterey:
+M1芯片Mac上Homebrew https://zhuanlan.zhihu.com/p/341831809
+（暂时不装m1上proxychains-ng有问题）brew install proxychains-ng
+
+
 解压7z
 7z x 需要解压的文件.7z
 https://superuser.com/questions/548349/how-can-i-install-7zip-so-i-can-run-it-from-terminal-on-os-x
