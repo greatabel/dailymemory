@@ -1,3 +1,5 @@
+修改osx下文件夹时间戳:touch -t 202112271405  dailymemory
+
 monterey:
 pip3 install virtualenvwrapper
 
