@@ -11,6 +11,8 @@ http://www.gezhongshu.com/forum.php 很久不更新
 http://www.fast8.com/list/6_1.html  
 付费  greatabel1@126.com greatabel ps:abel+2短的
 
+https://zure.fun/book/updata/  greatabel / Abel+2短的
+
 https://www.aibooks.cc/ 很久不更新
 
 https://www.enjing.com/

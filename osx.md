@@ -1,4 +1,6 @@
-修改osx下文件夹时间戳:touch -t 202112271405  dailymemory
+修改osx下文件夹时间戳:
+touch -t 202112271405  dailymemory
+https://sysin.org/blog/how-to-change-file-date/
 
 monterey:
 pip3 install virtualenvwrapper
