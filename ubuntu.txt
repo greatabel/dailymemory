@@ -1,3 +1,7 @@
+解决/dev/nvme0n1p2:clean进不去页面
+Ctrl+Alt+F2，居然能用
+https://blog.csdn.net/u013862444/article/details/103005800?spm=1001.2014.3001.5501
+
 ubuntu clash 客户端Clash For Windows：
 https://www.cnblogs.com/Jiang13537/p/15571504.html
 

@@ -11,6 +11,8 @@ http://www.gezhongshu.com/forum.php 很久不更新
 http://www.fast8.com/list/6_1.html  
 付费  greatabel1@126.com greatabel ps:abel+2短的
 
+https://www.cn-ki.net/  论文下载  greatabel1@126.com/ Abel+2短的
+
 https://zure.fun/book/updata/  greatabel / Abel+2短的
 
 https://www.aibooks.cc/ 很久不更新
@@ -45,6 +47,9 @@ https://sanet.st/full/#books
 
 https://ebook4expert.net/
 https://ebook4expert.org/
+
+
+https://oiipdf.com/
 
 https://booksrack.net/book-category/computers-technology/
 

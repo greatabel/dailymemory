@@ -1,3 +1,13 @@
+osx terminal 显示中文
+subl ~/.zshrc
+export LC_ALL=en_US.UTF-8 
+export LANG=en_US.UTF-8
+-
+git config --global core.quotepath false
+-
+https://www.jianshu.com/p/b8b187dac052
+
+
 修改osx下文件夹时间戳:
 touch -t 202112271405  dailymemory
 https://sysin.org/blog/how-to-change-file-date/
