@@ -1,3 +1,23 @@
+m1 max osx12.2 安装tensorflow
+https://zhuanlan.zhihu.com/p/474212619
+conda activate tf26
+
+https://sebastianraschka.com/blog/2022/pytorch-m1-gpu.html
+gpu版本的pytorch 在m1 max上:
+conda activate torch-nightly
+
+https://www.makeuseof.com/how-to-convert-mov-to-mp4-mac/
+使用自带软件iMove 把.mov 转化为 .mp4
+
+conda 是否开terminla自启动：
+https://blog.csdn.net/Crazy_zh/article/details/105234816
+可以通过配置auto_activate_base关闭自动进入conda基础环境：
+conda config --set auto_activate_base false
+如要开启，将其设为true就可以了：
+conda config --set auto_activate_base true
+另可通过conda config -h查看帮助信息，通过conda config --show查看全部配置
+
+
 osx terminal 显示中文
 subl ~/.zshrc
 export LC_ALL=en_US.UTF-8 
@@ -9,7 +29,7 @@ https://www.jianshu.com/p/b8b187dac052
 
 
 修改osx下文件夹时间戳:
-touch -t 202112271405  dailymemory
+touch -t 202203071405  dailymemory
 https://sysin.org/blog/how-to-change-file-date/
 
 monterey:

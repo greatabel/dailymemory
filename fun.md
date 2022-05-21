@@ -6,14 +6,34 @@ https://book.zhishikoo.com/
 
 http://zh.z-lib.org/       全球最大的电子图书馆
 
-http://www.gezhongshu.com/forum.php 很久不更新
+
 
 http://www.fast8.com/list/6_1.html  
 付费  greatabel1@126.com greatabel ps:abel+2短的
 
-https://www.cn-ki.net/  论文下载  greatabel1@126.com/ Abel+2短的
+
+https://ittushu.com/ IT书虫 付费下载(3元左右)
+
+http://www.gezhongshu.com/forum.php 很久不更新
+
+
+
+
+# ------- ------- start 论文下载 ------- ------- 
+知网
+https://www.cn-ki.net/    greatabel1@126.com/ Abel+2短的
+
+
+Sci-hub https://sci-hub.hkvisa.net/
+
+# ------- -------  end  论文下载 ------- ------- 
+
+
+
 
 https://zure.fun/book/updata/  greatabel / Abel+2短的
+
+https://www.tianlangbooks.com/  天浪书屋
 
 https://www.aibooks.cc/ 很久不更新
 
@@ -31,7 +51,6 @@ http://www.tuiliw.com/ 无下载
 
 https://shuliuwang.com/
 
-https://www.tianlangbooks.com/  天浪书屋
 
 https://www.kindle8.cc/
 

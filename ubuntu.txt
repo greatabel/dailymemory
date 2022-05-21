@@ -1,3 +1,10 @@
+复制python特定版本到虚拟环境：
+sudo apt install python3.7-venv
+python3.7 -m venv env37
+source env37/bin/activate
+deactivate (when done using the environment)
+https://stackoverflow.com/questions/52816156/how-to-create-virtual-environment-for-python-3-7-0
+
 解决/dev/nvme0n1p2:clean进不去页面
 Ctrl+Alt+F2，居然能用
 https://blog.csdn.net/u013862444/article/details/103005800?spm=1001.2014.3001.5501
