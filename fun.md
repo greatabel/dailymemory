@@ -16,6 +16,8 @@ https://www.book123.info/  无名图书
 https://ittushu.com/ IT书虫 付费下载(3元左右)
 
 
+小力盘
+https://www.xiaolipan.com/list/cls/9371.html
 
 
 
