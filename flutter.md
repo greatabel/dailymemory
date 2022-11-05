@@ -1,3 +1,11 @@
+解决Flutter遇到的NO_PROXY does not contain问题
+https://zhuanlan.zhihu.com/p/474652737
+
+HTTP host not reachable
+https://juejin.cn/post/7106053051714109471
+
+
+
 安装dart如果下载被墙：
 https://shockerli.net/post/homebrew-install-download-error/
 
