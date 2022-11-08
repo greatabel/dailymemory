@@ -4,6 +4,13 @@ https://zhuanlan.zhihu.com/p/474652737
 HTTP host not reachable
 https://juejin.cn/post/7106053051714109471
 
+“flutter pub get“命令卡死的解决办法
+https://blog.csdn.net/Mint6/article/details/108633545
+
+
+Could not install Gradle distribution from
+https://blog.csdn.net/weixin_42473228/article/details/118542634
+
 
 
 安装dart如果下载被墙：
