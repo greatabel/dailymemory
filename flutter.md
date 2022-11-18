@@ -12,6 +12,16 @@ Could not install Gradle distribution from
 https://blog.csdn.net/weixin_42473228/article/details/118542634
 
 
+Module 'path_provider' not found
+https://blog.csdn.net/llh_llh_/article/details/108272745
+
+
+iOS 14 not letting Flutter apps (still in dev) to launch from the home screen compared to Building/Running from the IDE
+https://stackoverflow.com/questions/64669114/ios-14-not-letting-flutter-apps-still-in-dev-to-launch-from-the-home-screen-co
+
+
+
+
 
 安装dart如果下载被墙：
 https://shockerli.net/post/homebrew-install-download-error/
