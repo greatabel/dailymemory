@@ -22,7 +22,6 @@ https://stackoverflow.com/questions/64669114/ios-14-not-letting-flutter-apps-sti
 
 
 
-
 安装dart如果下载被墙：
 https://shockerli.net/post/homebrew-install-download-error/
 
