@@ -4,11 +4,6 @@ https://sobooks.cc
 
 https://book.zhishikoo.com/
 
-http://zh.z-lib.org/       全球最大的电子图书馆（暂时不可用）
-zlib替代1:	 https://bk.hallowlib.org/   
-zlib替代2:    https://www.ooopn.com/tool/zlibrary/
-
-
 
 http://www.fast8.com/list/6_1.html  
 付费  greatabel1@126.com greatabel ps:abel+2短的
@@ -16,7 +11,17 @@ http://www.fast8.com/list/6_1.html
 https://www.book123.info/  无名图书
 
 
+
+https://nav.yibook.org/  各种搜书导航
+
+https://findbooks.eu.org/  找书网
+
 https://ittushu.com/ IT书虫 付费下载(3元左右)
+
+
+zlib替代1:	 https://bk.hallowlib.org/   
+zlib替代2:    https://www.ooopn.com/tool/zlibrary/
+<!-- http://zh.z-lib.org/       zlib全球最大的电子图书馆（暂时不可用） -->
 
 
 小力盘
@@ -26,7 +31,7 @@ https://www.xiaolipan.com/list/cls/9371.html
 
 # ------- ------- start 论文下载 ------- ------- 
 知网
-https://www.cn-ki.net/    greatabel1@126.com/ Abel+2短的
+https://www.cn-ki.net/    greatabel1@126.com  Abel+2短的
 
 
 Sci-hub https://sci-hub.hkvisa.net/
