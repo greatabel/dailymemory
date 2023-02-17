@@ -19,8 +19,10 @@ https://findbooks.eu.org/  找书网
 https://ittushu.com/ IT书虫 付费下载(3元左右)
 
 
+zlib: https://singlelogin.me/
 zlib替代1:	 https://bk.hallowlib.org/   
 zlib替代2:    https://www.ooopn.com/tool/zlibrary/
+zlib替代3:  https://zlib.cydiar.com/
 <!-- http://zh.z-lib.org/       zlib全球最大的电子图书馆（暂时不可用） -->
 
 
