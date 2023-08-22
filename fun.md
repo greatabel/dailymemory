@@ -8,6 +8,9 @@ https://book.zhishikoo.com/
 http://www.fast8.com/list/6_1.html  
 付费  greatabel1@126.com greatabel ps:abel+2短的
 
+https://www.detechn.com/
+账号 greatabel1@126.com  Abel+2短
+
 https://www.book123.info/  无名图书
 
 
@@ -16,14 +19,20 @@ https://nav.yibook.org/  各种搜书导航
 
 https://findbooks.eu.org/  找书网
 
-https://ittushu.com/ IT书虫 付费下载(3元左右)
 
 
-zlib: https://singlelogin.me/
+
+
+https://zlibrary-africa.se/
+<!-- zlib 本尊:   https://singlelogin.me/ -->
+
+图书来自zlib： https://clibrary.cn/#/
+
 zlib替代1:	 https://bk.hallowlib.org/   
 zlib替代2:    https://www.ooopn.com/tool/zlibrary/
 zlib替代3:  https://zlib.cydiar.com/
 <!-- http://zh.z-lib.org/       zlib全球最大的电子图书馆（暂时不可用） -->
+
 
 
 小力盘
@@ -66,12 +75,7 @@ https://shuliuwang.com/
 
 https://www.kindle8.cc/
 
-<!-- http://www.gezhongshu.com/forum.php 很久不更新 -->
 
-
-<!-- https://www.goodepub.com/ 星空好书 付费   -->
-<!-- 拜读 https://orzbd.com/ 登录：createnewsky （已付费） 已下线 -->
-<!-- http://orzbooks.com/  估计过段时间会跑路   -->
 
 
 下载：
@@ -79,6 +83,7 @@ https://sanet.st/full/#books
 
 https://foxgreat.com/
 
+https://www.letmeread.net/
 
 https://ebook4expert.net/
 https://ebook4expert.org/
@@ -90,7 +95,6 @@ https://booksrack.net/book-category/computers-technology/
 
 https://coderprog.com
 
-https://www.letmeread.net/
 
 http://allbooksworld.com/
 
@@ -138,7 +142,7 @@ http://bookshare.biz/category/ebook/
 
 
 搜索
-<!-- 有些访问故障：http://bookzz.org/ -->
+
 
 http://ebooks.sohuvv.com/
 
@@ -158,17 +162,10 @@ https://b-ok.cc/
 # https://www.yabook.org/
 greatabel1@126.com mima 常用的
 
-<!-- http://www.wljz.top/news/?list_15.html -->
 
-<!-- http://book-life.blog.163.com/ -->
 http://ishare.iask.sina.com.cn/
 
-<!-- 每周一书（不提供下载） https://kindlefere.com/books -->
 
-<!-- http://bbs.feng.com/forum.php?mod=forumdisplay&fid=224&page=  -->
-<!-- 奇异书屋 http://www.talebook.org/book -->
-
-<!--  http://kindleyun.cn/  -->
 
 http://www.iamtxt.com/ebook/
 
@@ -177,7 +174,6 @@ http://www.iamtxt.com/ebook/
 <!-- http://www.icilix.com/emule/book -->
 中文电驴 http://verycd.gdajie.com/book/page
 
-<!-- https://kat.cr/books/?field=time_add&sorder=desc -->
 
 有趣的podcast
 https://itunes.apple.com/us/podcast/gigaom-structure-show/id682584795?mt=2
@@ -212,6 +208,27 @@ stackshare.io
 
 命令行下雪效果：
 http://climagic.org/coolstuff/let-it-snow.html
+
+
+<!-- https://ittushu.com/ IT书虫 付费下载(3元左右) -->
+
+<!-- http://www.wljz.top/news/?list_15.html -->
+
+<!-- http://book-life.blog.163.com/ -->
+<!-- https://kat.cr/books/?field=time_add&sorder=desc -->
+<!-- 有些访问故障：http://bookzz.org/ -->
+<!-- http://www.gezhongshu.com/forum.php 很久不更新 -->
+<!-- 每周一书（不提供下载） https://kindlefere.com/books -->
+
+<!-- http://bbs.feng.com/forum.php?mod=forumdisplay&fid=224&page=  -->
+<!-- 奇异书屋 http://www.talebook.org/book -->
+
+<!--  http://kindleyun.cn/  -->
+
+<!-- https://www.goodepub.com/ 星空好书 付费   -->
+<!-- 拜读 https://orzbd.com/ 登录：createnewsky （已付费） 已下线 -->
+<!-- http://orzbooks.com/  估计过段时间会跑路   -->
+
 
 <!--  http://77ebooks.com/books -->
 
