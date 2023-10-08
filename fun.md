@@ -1,9 +1,6 @@
 中文书籍：
 
-https://sobooks.cc
-
-https://book.zhishikoo.com/
-
+https://www.book123.info/  无名图书
 
 http://www.fast8.com/list/6_1.html  
 付费  greatabel1@126.com greatabel ps:abel+2短的
@@ -11,46 +8,33 @@ http://www.fast8.com/list/6_1.html
 https://www.detechn.com/
 账号 greatabel1@126.com  Abel+2短
 
-https://www.book123.info/  无名图书
 
 
+
+https://zlibrary-africa.se/
+https://1lib.sk/
+<!-- zlib 本尊:   https://singlelogin.me/ -->
+<!-- http://zh.z-lib.org/       zlib全球最大的电子图书馆（暂时不可用） -->
+图书来自zlib： https://clibrary.cn/#/
+
+zlib替代1:	 https://bk.hallowlib.org/   
+zlib替代2:    https://www.ooopn.com/tool/zlibrary/
+zlib替代3:  https://zlib.cydiar.com/
+
+
+
+https://sobooks.net/
+
+
+https://book.zhishikoo.com/
 
 https://nav.yibook.org/  各种搜书导航
 
 https://findbooks.eu.org/  找书网
 
 
-
-
-
-https://zlibrary-africa.se/
-<!-- zlib 本尊:   https://singlelogin.me/ -->
-
-图书来自zlib： https://clibrary.cn/#/
-
-zlib替代1:	 https://bk.hallowlib.org/   
-zlib替代2:    https://www.ooopn.com/tool/zlibrary/
-zlib替代3:  https://zlib.cydiar.com/
-<!-- http://zh.z-lib.org/       zlib全球最大的电子图书馆（暂时不可用） -->
-
-
-
 小力盘
 https://www.xiaolipan.com/list/cls/9371.html
-
-
-
-# ------- ------- start 论文下载 ------- ------- 
-知网
-https://www.cn-ki.net/    greatabel1@126.com  Abel+2短的
-
-
-Sci-hub https://sci-hub.hkvisa.net/
-
-# ------- -------  end  论文下载 ------- ------- 
-
-
-
 
 https://zure.fun/book/updata/  greatabel / Abel+2短的
 
@@ -76,9 +60,23 @@ https://shuliuwang.com/
 https://www.kindle8.cc/
 
 
+# ------- ------- start 论文下载 ------- ------- 
+
+知网
+https://www.cn-ki.net/    greatabel1@126.com  Abel+2短的
 
 
-下载：
+Sci-hub https://sci-hub.hkvisa.net/
+
+
+
+# ------- -------  end  论文下载 ------- ------- 
+
+
+
+
+
+英文书籍下载：
 https://sanet.st/full/#books
 
 https://foxgreat.com/
