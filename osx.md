@@ -29,7 +29,7 @@ https://www.jianshu.com/p/b8b187dac052
 
 
 修改osx下文件夹时间戳:
-touch -t 202308081034  dailymemory
+touch -t 202310091201  dailymemory
 https://sysin.org/blog/how-to-change-file-date/
 
 monterey:

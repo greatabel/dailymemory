@@ -77,7 +77,7 @@ Sci-hub https://sci-hub.hkvisa.net/
 
 
 英文书籍下载：
-https://sanet.st/full/#books
+
 
 https://foxgreat.com/
 
@@ -86,6 +86,7 @@ https://www.letmeread.net/
 https://ebook4expert.net/
 https://ebook4expert.org/
 
+https://sanet.st/full/#books
 
 https://oiipdf.com/
 
