@@ -17,9 +17,6 @@ https://1lib.sk/
 <!-- http://zh.z-lib.org/       zlib全球最大的电子图书馆（暂时不可用） -->
 图书来自zlib： https://clibrary.cn/#/
 
-zlib替代1:	 https://bk.hallowlib.org/   
-zlib替代2:    https://www.ooopn.com/tool/zlibrary/
-zlib替代3:  https://zlib.cydiar.com/
 
 
 
