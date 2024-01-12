@@ -1,3 +1,6 @@
+Sublime Text 4.0 4169 Mac中文破解版
+https://www.mac618.com/633.html#J_DLIPPCont
+
 sublime的快捷键
 ⌘ + D	Select word - Repeat to select next occurrence
 ⌃ + ⌘ + G	Select all occurrences of current selection
@@ -47,47 +50,3 @@ also add these texts below to your host file-->
 0.0.0.0 45.55.41.223
 
 
-sublime text 3 3.2.2
-
------ BEGIN LICENSE -----
-Member J2TeaM
-Single User License
-EA7E-1011316
-D7DA350E 1B8B0760 972F8B60 F3E64036
-B9B4E234 F356F38F 0AD1E3B7 0E9C5FAD
-FA0A2ABE 25F65BD8 D51458E5 3923CE80
-87428428 79079A01 AA69F319 A1AF29A4
-A684C2DC 0B1583D4 19CBD290 217618CD
-5653E0A0 BACE3948 BB2EE45E 422D2C87
-DD9AF44B 99C49590 D2DBDEE1 75860FD2
-8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
------- END LICENSE ------
-
-
-Sublime Text 3.x (< Build 3163)
----- BEGIN LICENSE -----
-Member J2TeaM
-Single User License
-EA7E-1011316
-D7DA350E 1B8B0760 972F8B60 F3E64036
-B9B4E234 F356F38F 0AD1E3B7 0E9C5FAD
-FA0A2ABE 25F65BD8 D51458E5 3923CE80
-87428428 79079A01 AA69F319 A1AF29A4
-A684C2DC 0B1583D4 19CBD290 217618CD
-5653E0A0 BACE3948 BB2EE45E 422D2C87
-DD9AF44B 99C49590 D2DBDEE1 75860FD2
-8C8BB2AD B2ECE5A4 EFC08AF2 25A9B864
------- END LICENSE ------
-
-中文乱码问题
-https://segmentfault.com/a/1190000002461891
-
-package controll 重装
-https://packagecontrol.io/installation
-
-osx 上与下面这个不同的是：使用请使用官方markdown github上的用户配置文件 
-https://www.jianshu.com/p/910e6ee44829
-https://www.raywenderlich.com/119949/top-five-markdown-editors
-
-停止提示新版本
-Just go to Preferences -> Settings-User and add there: "update_check": false
