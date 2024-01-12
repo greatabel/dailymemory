@@ -18,6 +18,11 @@ conda config --set auto_activate_base true
 另可通过conda config -h查看帮助信息，通过conda config --show查看全部配置
 
 
+# 修改osx下文件夹时间戳:
+touch -t 202401121401  dailymemory
+https://sysin.org/blog/how-to-change-file-date/
+
+
 osx terminal 显示中文
 subl ~/.zshrc
 export LC_ALL=en_US.UTF-8 
@@ -28,9 +33,6 @@ git config --global core.quotepath false
 https://www.jianshu.com/p/b8b187dac052
 
 
-修改osx下文件夹时间戳:
-touch -t 202310091201  dailymemory
-https://sysin.org/blog/how-to-change-file-date/
 
 monterey:
 pip3 install virtualenvwrapper
