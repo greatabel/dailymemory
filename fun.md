@@ -11,11 +11,18 @@ https://www.detechn.com/
 
 
 
-https://zlibrary-africa.se/
+
+https://zh.singlelogin.re/
+  账号 greatabel1@126.com ps:abel+2短的
 https://1lib.sk/
+<!-- https://zlibrary-africa.se/  -->
 <!-- zlib 本尊:   https://singlelogin.me/ -->
 <!-- http://zh.z-lib.org/       zlib全球最大的电子图书馆（暂时不可用） -->
+
+安娜的檔案 https://tw.annas-archive.org/
+
 图书来自zlib： https://clibrary.cn/#/
+
 
 
 
@@ -27,7 +34,6 @@ https://book.zhishikoo.com/
 
 https://nav.yibook.org/  各种搜书导航
 
-https://findbooks.eu.org/  找书网
 
 
 小力盘
