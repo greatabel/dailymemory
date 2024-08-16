@@ -1,16 +1,10 @@
 中文书籍：
 
 https://www.ershu.org/
-<!-- https://www.book123.info/  无名图书 -->
 
-http://www.fast8.com/list/6_1.html  
+
+https://www.kb199.com/list/6_1.html
 付费  greatabel1@126.com greatabel ps:abel+2短的
-
-https://www.detechn.com/
-账号 greatabel1@126.com  Abel+2短
-
-
-
 
 
 https://zh.singlelogin.re/
@@ -23,8 +17,6 @@ https://1lib.sk/
 安娜的檔案 https://tw.annas-archive.org/
 
 图书来自zlib： https://clibrary.cn/#/
-
-
 
 
 
@@ -79,7 +71,6 @@ Sci-hub https://sci-hub.hkvisa.net/
 
 
 
-
 英文书籍下载：
 
 
@@ -87,8 +78,7 @@ https://foxgreat.com/
 
 https://www.letmeread.net/
 
-https://ebook4expert.net/
-https://ebook4expert.org/
+
 
 https://sanet.st/full/#books
 
@@ -208,10 +198,11 @@ https://gimletmedia.com/show/startup/
 stackshare.io
 
 
+<!-- https://ebook4expert.net/
+https://ebook4expert.org/
+ -->
 
-命令行下雪效果：
-http://climagic.org/coolstuff/let-it-snow.html
-
+<!-- https://www.book123.info/  无名图书 -->
 
 <!-- https://ittushu.com/ IT书虫 付费下载(3元左右) -->
 
